@@ -1,0 +1,48 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 5
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Distance
+attribute: 0x000000
+---
+{{101:1 arg="0x0002010001CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: GroundStability
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: T_Slash00
+attribute: 0x000000
+---
+/
+
+---
+label: GroundStabilityMax
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: AimPlayer_Info
+attribute: 0x000000
+---
+Hold : Send {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points
+Hold :  Report

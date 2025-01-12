@@ -1,0 +1,137 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Mech
+attribute: 0x000000
+---
+Machine
+
+---
+label: Mech_Connect
+attribute: 0x000000
+---
+Fuser
+
+---
+label: Mech_ConnectSlide
+attribute: 0x000000
+---
+Steam Iron
+
+---
+label: Mech_Disconnect
+attribute: 0x000000
+---
+De-Fuser
+
+---
+label: Mech_CraneLv1
+attribute: 0x000000
+---
+Crane (Lv. 1)
+
+---
+label: Mech_CraneLv2
+attribute: 0x000000
+---
+Crane (Lv. 2)
+
+---
+label: Mech_CraneLv3
+attribute: 0x000000
+---
+Crane (Lv. 3)
+
+---
+label: Mech_CraneLv4
+attribute: 0x000000
+---
+Crane (Lv. 4)
+
+---
+label: Mech_Lift
+attribute: 0x000000
+---
+Forklift
+
+---
+label: Mech_Throw
+attribute: 0x000000
+---
+Hurler
+
+---
+label: Mech_Slide
+attribute: 0x000000
+---
+Pusher
+
+---
+label: Mech_Bike
+attribute: 0x000000
+---
+Motorcycle
+
+---
+label: Mech_Boat
+attribute: 0x000000
+---
+Boat
+
+---
+label: Mech_Plane
+attribute: 0x000000
+---
+Airplane
+
+---
+label: Mech_Elevate
+attribute: 0x000000
+---
+Elevator
+
+---
+label: Mech_Drill
+attribute: 0x000000
+---
+Driller
+
+---
+label: Mech_Farm
+attribute: 0x000000
+---
+Tiller
+
+---
+label: Mech_Plant
+attribute: 0x000000
+---
+Sower
+
+---
+label: Mech_Shave
+attribute: 0x000000
+---
+Mower
+
+---
+label: Mech_Destroy
+attribute: 0x000000
+---
+Breaker
+
+---
+label: Mech_Laser
+attribute: 0x000000
+---
+Satellite

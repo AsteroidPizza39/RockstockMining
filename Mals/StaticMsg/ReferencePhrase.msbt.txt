@@ -1,0 +1,960 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 73
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Aim
+attribute: 0x000000
+---
+・Hold the assigned button to take aim.
+・Aim at something to inspect its details.
+・Throw Pieces by pressing  while aiming.
+
+---
+label: Grab
+attribute: 0x000000
+---
+・Hold down the assigned button to grab onto something.
+・Pull on something you've grabbed onto to lift it up.
+・Wrap your tail around multiple things to lift them all at once.
+
+---
+label: Connect
+attribute: 0x000000
+---
+・Press the assigned button to fuse Pieces together.
+・Push apart fused Pieces to de-fuse them.
+・Press the assigned button while jumping to fuse downward.
+
+---
+label: Jump_01
+attribute: 0x000000
+---
+・Press the assigned button to jump.
+
+---
+label: Jump_02
+attribute: 0x000000
+---
+・Hold the assigned button to prolong your jump.
+
+---
+label: Jump_03
+attribute: 0x000000
+---
+・Hold the assigned button to climb walls.
+
+---
+label: Attack
+attribute: 0x000000
+---
+・Strike a Piece or an Oot.
+・Attack Power: 0.5
+
+---
+label: Dash
+attribute: 0x000000
+---
+・Hold the assigned button to boost your movement speed.
+
+---
+label: Brake
+attribute: 0x000000
+---
+・Hold the assigned button to slow your movement speed.
+
+---
+label: Float
+attribute: 0x000000
+---
+・Hold the assigned button to hover.
+
+---
+label: Elec_Generic Phrase
+attribute: 0x000000
+---
+・Generates Electricity when struck.
+
+---
+label: ExplodeWait_Generic Phrase
+attribute: 0x000000
+---
+ Bomb is arming...
+
+---
+label: Explode_Generic Phrase
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+
+---
+label: Explode_StartGeneric Phrase
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: Swamp_Sand_Generic Phrase
+attribute: 0x000000
+---
+・Changes to Sand in Swamp.
+
+---
+label: Magma_Connect_Generic Phrase
+attribute: 0x000000
+---
+・Fuses in Magma.
+
+---
+label: Magma_Charcoal_Generic Phrase
+attribute: 0x000000
+---
+・Changes to Charcoal in Magma.
+
+---
+label: Water_Bud_Generic Phrase
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+
+---
+label: Rock_Generic Phrase
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: GemDiamond_Generic Phrase
+attribute: 0x000000
+---
+・A  Diamond card appears when destroyed.
+
+---
+label: GemEmerald_Generic Phrase
+attribute: 0x000000
+---
+・An  Emerald card appears when destroyed.
+
+---
+label: GemRuby_Generic Phrase
+attribute: 0x000000
+---
+・A  Ruby card appears when destroyed.
+
+---
+label: GemSapphire_Generic Phrase
+attribute: 0x000000
+---
+・A  Sapphire card appears when destroyed.
+
+---
+label: RockStone_Generic Phrase
+attribute: 0x000000
+---
+・When broken, a  Stone card appears.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: MetalCopper_Generic Phrase
+attribute: 0x000000
+---
+・When destroyed, a  Copper card appears.
+・Fuses in Magma.
+
+---
+label: MetalIron_Generic Phrase
+attribute: 0x000000
+---
+・When destroyed, an  Iron card appears.
+・Fuses in Magma.
+
+---
+label: MetalSilver_Generic Phrase
+attribute: 0x000000
+---
+・When destroyed, a  Silver card appears.
+・Fuses in Magma.
+
+---
+label: MetalGold_Generic Phrase
+attribute: 0x000000
+---
+・When destroyed, a  Gold card appears.
+・Fuses in Magma.
+
+---
+label: Material_Card_Phrase
+attribute: 0x000000
+---
+・Find even more on Moons.
+
+---
+label: Material_Float_Phrase
+attribute: 0x000000
+---
+・The crystallized soul of the sky...
+・Born from the river that flows through the heavens.
+
+---
+label: Material_Health_Phrase
+attribute: 0x000000
+---
+・The crystallized spark of life's beginnings...
+・Born from the essence of creation and destruction itself.
+
+---
+label: Material_Light_Phrase
+attribute: 0x000000
+---
+・The crystallized hope of the planet...
+・Born from this world's dreams of a brighter future.
+
+---
+label: Mech_FlavorText
+attribute: 0x000000
+---
+・Master the art of flexible development.
+
+---
+label: Mech_Connect
+attribute: 0x000000
+---
+・Fuses Pieces into a single straight line.
+
+---
+label: Mech_ConnectSlide
+attribute: 0x000000
+---
+・Hold the assigned button to fuse the Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}directly underneath you.
+
+---
+label: Mech_Disconnect
+attribute: 0x000000
+---
+・De-fuses fused Pieces.
+
+---
+label: Mech_CraneLv1
+attribute: 0x000000
+---
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: Mech_CraneLv2
+attribute: 0x000000
+---
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: Mech_CraneLv3
+attribute: 0x000000
+---
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: Mech_CraneLv4
+attribute: 0x000000
+---
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: Mech_Lift
+attribute: 0x000000
+---
+・Hold assigned button to grab multiple Pieces.
+・Place multiple Pieces all at once.
+
+---
+label: Mech_Throw
+attribute: 0x000000
+---
+・Throws Pieces far away.
+
+---
+label: Mech_Plane
+attribute: 0x000000
+---
+・Flies through the sky while carrying Pieces.
+・Costs energy when used outside Beacon Zones.
+
+---
+label: Mech_Elevate
+attribute: 0x000000
+---
+・Ascends walls.
+
+---
+label: PickaxeLv1
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 1 / Oot Attack Power: 0.5
+
+---
+label: PickaxeLv2
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 2 / Oot Attack Power: 0.5
+
+---
+label: PickaxeLv3
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 3 / Oot Attack Power: 0.5
+
+---
+label: PickaxeLv4
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 4 / Oot Attack Power: 0.5
+
+---
+label: PickaxeLv5
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 5 / Oot Attack Power: 0.5
+
+---
+label: SwordLv1
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: SwordLv2
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 2
+
+---
+label: SwordLv3
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: SwordLv4
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 4
+
+---
+label: SwordLv5
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 5
+
+---
+label: ArrowLv1
+attribute: 0x000000
+---
+・Fires an Arrow in the direction you're aiming.
+・De-fuses Pieces.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: ArrowRadialLv3
+attribute: 0x000000
+---
+・Fires three Arrows in a spread formation.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: ArrowSerialLv3
+attribute: 0x000000
+---
+・Fires three Arrows in succession.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: ArrowChargeLv10_Caption
+attribute: 0x000000
+---
+・Fires a powerful Arrow after holding down the button.
+・Piece Attack Power: 0.5 / Oot Attack Power: 10
+
+---
+label: ArrowElec_Caption
+attribute: 0x000000
+---
+・Fires an electrified Arrow.
+・Electricity de-fuses Pieces.
+
+---
+label: ArrowExplode_Caption
+attribute: 0x000000
+---
+・Fires an Arrow that explodes.
+
+---
+label: ArrowAroundLv10
+attribute: 0x000000
+---
+・Fires Arrows into the area around you.
+・Attack Power: 1
+
+---
+label: ArrowChaseLv1
+attribute: 0x000000
+---
+・Fires an Arrow that homes in on an opponent.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: ArrowReflectLv1
+attribute: 0x000000
+---
+・Fires an Arrow that bounces back.
+・Attack Power: 1
+
+---
+label: HammerLv1
+attribute: 0x000000
+---
+・Strikes the ground to create an opening.
+
+---
+label: HoeLv1
+attribute: 0x000000
+---
+・Changes Soil to Field Soil.
+・Field Soil accelerates the growth of Seeds.
+
+---
+label: Pl_Shield
+attribute: 0x000000
+---
+・Hold down the assigned button to keep
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}your Life from depleting.
+
+---
+label: Pl_Light
+attribute: 0x000000
+---
+・Hold the assigned button to light your surroundings.
+・Even undeveloped land will become visible.
+
+---
+label: Pl_Rise
+attribute: 0x000000
+---
+・Hold the assigned button to ascend.
+
+---
+label: Pl_Dash
+attribute: 0x000000
+---
+・Hold the assigned button to move faster.
+
+---
+label: Pl_Jump Lv.1
+attribute: 0x000000
+---
+・Press the assigned button to jump six meters.
+
+---
+label: Pl_Piece
+attribute: 0x000000
+---
+・Press the assigned button to shape-shift into a Piece.
+
+---
+label: RadioPlanet
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: RadioPlanet_caption
+attribute: 0x000000
+---
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: Storage
+attribute: 0x000000
+---
+・Stores one type of card.
+
+---
+label: Camera
+attribute: 0x000000
+---
+・Hold the assigned button to zoom in.
+・Press  to take a picture.
+
+---
+label: Tool_Conveyor
+attribute: 0x000000
+---
+・Place metal in front of the arrow to turn it into
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}a Conveyor.
+・Conveyors move Pieces placed on top of them.
+
+---
+label: Tool_TrashCan
+attribute: 0x000000
+---
+・Putting Pieces in will throw them away.
+
+---
+label: Cr_FlavorText
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+
+---
+label: Cr_Switch_Caption
+attribute: 0x000000
+---
+・Change patterns.
+
+---
+label: Cr_Change_Caption
+attribute: 0x000000
+---
+・Changes a Piece's pattern.
+
+---
+label: Cr_Color_Change_Caption
+attribute: 0x000000
+---
+・Changes a Piece's color.
+
+---
+label: Cr_Clothes_Caption
+attribute: 0x000000
+---
+・Can change a Piece's pattern.
+
+---
+label: Cr_Color_Clothes_Caption
+attribute: 0x000000
+---
+・Can change a Piece's color.
+
+---
+label: Cr_Clothes_01_Caption
+attribute: 0x000000
+---
+・Can change Soil and Rock patterns.
+
+---
+label: Cr_Clothes_02_Caption
+attribute: 0x000000
+---
+・Can change Wood patterns.
+
+---
+label: Cr_Clothes_03_Caption
+attribute: 0x000000
+---
+・Can change Glass patterns.
+
+---
+label: Cr_Clothes_04_Caption
+attribute: 0x000000
+---
+・Can change Metal patterns.
+
+---
+label: Cr_Clothes_05_Caption
+attribute: 0x000000
+---
+・Can change Jewel patterns.
+
+---
+label: Pose_Phrase_Common
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+
+---
+label: Pose_Generic_Phrase_Card
+attribute: 0x000000
+---
+・Use this to strike a Pose.
+
+---
+label: Pose_Generic_Phrase_Piece
+attribute: 0x000000
+---
+・Step onto this Piece to strike a Pose.
+
+---
+label: Env_Generic Phrase
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: Music_FlavorText
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+
+---
+label: Music_Generic Phrase
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: Sound_Sfx_FlavorText
+attribute: 0x000000
+---
+・Make some noise.
+
+---
+label: Sound_Sfx_inst_FlavorText
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+
+---
+label: Sound_Sfx_Generic_Phrase_Piece
+attribute: 0x000000
+---
+・Make some noise.
+・Creates sound when stepped on.
+
+---
+label: Sound_Sfx_Inst_Generic_Phrase_Piece
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: Sound_Sfx_Generic_Phrase_Card
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: Sound_Sfx_Inst_Generic_Phrase_Card
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound.
+
+---
+label: Emoji_Phrase_common
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: Emoji_Phrase_Card
+attribute: 0x000000
+---
+・You can apply this emoji to the Piece in front of you.
+
+---
+label: BodyTex_Str_Common
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: BluePrint_Str_Caption_01
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+
+---
+label: Mob_Piece_Caption_01
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+
+---
+label: Mob_Piece_Caption_02
+attribute: 0x000000
+---
+・When destroyed, a tamable Oot is born.
+
+---
+label: Mob_Piece_Caption_03
+attribute: 0x000000
+---
+・When struck, wild Oots are born.
+
+---
+label: Mob_Piece_Caption_04
+attribute: 0x000000
+---
+・What might be born is a mystery.
+
+---
+label: Mob_Piece_Caption_05
+attribute: 0x000000
+---
+・When broken, a {{101:5 arg="0x00000000"}} appears.
+
+---
+label: Mob_Piece_Caption_06
+attribute: 0x000000
+---
+・When destroyed, a tamable Oot appears.
+
+---
+label: Mob_Piece_Caption_09
+attribute: 0x000000
+---
+・When used, a wild Oot is born.
+
+---
+label: Mob_Piece_Caption_10
+attribute: 0x000000
+---
+・When used, a tamable Oot is born.
+
+---
+label: Mob_Mob_Caption_01
+attribute: 0x000000
+---
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: Mob_Mob_Caption_02
+attribute: 0x000000
+---
+・Exploit its Weakness to defeat it.
+
+---
+label: Mob_Mob_Caption_03
+attribute: 0x000000
+---
+・When defeated, the Dark Land is purified.
+
+---
+label: Mob_MobNeutral_Caption_01
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: Mob_Card_Caption_01
+attribute: 0x000000
+---
+・Drops when a Broot is defeated.
+
+---
+label: Mob_Card_Caption_02
+attribute: 0x000000
+---
+・Drops when a flying Broot is defeated.
+
+---
+label: Mob_Card_Caption_03
+attribute: 0x000000
+---
+・Drops when a charging Broot is defeated.
+
+---
+label: Mob_Card_Caption_04
+attribute: 0x000000
+---
+・Drops when an orb-shooting Broot is defeated.
+
+---
+label: Mob_Card_Caption_05
+attribute: 0x000000
+---
+・Drops when a small Oot is defeated.
+・Find small Oots by breaking Grass and Tree Leaves.
+
+---
+label: Mob_Card_Caption_06
+attribute: 0x000000
+---
+・Drops when a Dark Oot is defeated.
+
+---
+label: Wood_Generic Phrase
+attribute: 0x000000
+---
+・A  Wood card appears when destroyed.
+・Changes to Charcoal in Magma.
+・Changes to Dead Wood in Swamp.
+
+---
+label: Bud_Generic Phrase
+attribute: 0x000000
+---
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Cargo
+attribute: 0x000000
+---
+・There's something inside.
+
+---
+label: Antenna_Caption
+attribute: 0x000000
+---
+・Place this higher to widen the Beacon Zone.
+・Lighting land earns you Dev Points.
+
+---
+label: Ugc_Deco_Unpublished_FlavorText
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+
+---
+label: Ugc_Deco_Published_FlavorText
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+
+---
+label: Ugc_DecoPreset_Unpublished_FlavorText
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+
+---
+label: Ugc_DecoLv1_Unpublished
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: Ugc_DecoLv2_Unpublished
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: Ugc_DecoLv3_Unpublished
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: Ugc_DecoLv1_Published
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_DecoLv2_Published
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_DecoLv3_Published
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_DecoLv1_Preset_Unpublished
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: Ugc_DecoLv2_Preset_Unpublished
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: Ugc_DecoLv3_Preset_Unpublished
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: Ugc_DecoStorage_Unpublished
+attribute: 0x000000
+---
+・You can save the Deco you're wearing and display it.
+・The Deco on display can be taken out by anyone.
+
+---
+label: Ugc_Image_Unpublished
+attribute: 0x000000
+---
+・Memories you make will stay with you.
+・Show off your favorite image here.
+
+---
+label: Ugc_Image_Published
+attribute: 0x000000
+---
+・A memory you'll never forget.
+・If this struck a chord with you,
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}let them know with .
+
+---
+label: Ugc_Text_Unpublished
+attribute: 0x000000
+---
+・Use your words to convey your feelings.
+・Write and display some text here.
+
+---
+label: Ugc_Text_Published
+attribute: 0x000000
+---
+・Pouring my heart into this single phrase.
+・If their feelings reached you, return the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}gesture with .
+
+---
+label: BoxFrontier_Name
+attribute: 0x000000
+---
+・To celebrate your dedication to progress,
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}we award you this Developer's Certificate.
+・Inside is your Developer's Certificate card.
+
+---
+label: Generic_Phrase_Piece
+attribute: 0x000000
+---
+-

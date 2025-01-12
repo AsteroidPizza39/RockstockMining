@@ -1,0 +1,336 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 23
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: TutorialSolo_Move_Content
+attribute: 0x000000
+---
+Follow the path in front of you to the other side of the area.
+Move with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}. Look around with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}.
+
+---
+label: TutorialSolo_Jump_Content
+attribute: 0x000000
+---
+Ascend the staircase to begin the Training Program.
+Press {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to jump and overcome this obstacle.
+
+---
+label: TutorialSolo_Grab_Content
+attribute: 0x000000
+---
+Carry the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} key to the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} lock.
+Hold down {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to grab onto a Piece.
+Pull on a  Piece with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to carry it.
+
+---
+label: TutorialSolo_Paste_Content
+attribute: 0x000000
+---
+Press {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to place a  Piece you're carrying.
+Place the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} key on top of the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} lock.
+
+---
+label: TutorialSolo_Climb_Content
+attribute: 0x000000
+---
+Climb the wall to proceed to the second half of your training.
+Move {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} while holding down {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to climb walls.
+
+---
+label: TutorialSolo_Connect_Content
+attribute: 0x000000
+---
+Press {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to fuse  Pieces together.
+Use {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to rotate the  Piece you're carrying.
+Create a {{0:3 arg="0x0000"}}staircase{{0:3 arg="0xFFFF"}} to help convey the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} key to higher ground.
+
+---
+label: TutorialSolo_Set_Content
+attribute: 0x000000
+---
+Place the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} key on top of the {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} lock to
+complete your training.
+
+---
+label: TutorialSolo_Finish_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}Jump on top of{{0:3 arg="0xFFFF"}} the teleporter and go to the Training Area.
+
+---
+label: IntroStr_Antenna_01_Content
+attribute: 0x000000
+---
+Follow the guiding beam of light and take the
+teleporter to the Dev Core.
+
+---
+label: IntroStr_Antenna_02_Content
+attribute: 0x000000
+---
+Follow the guiding beam of light to the innermost area.
+{{0:3 arg="0x0000"}}Swing with your tail {{0:3 arg="0xFFFF"}}by pressing {{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}to jump, then {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}.
+
+---
+label: IntroStr_Planet_01_Content
+attribute: 0x000000
+---
+Begin by collecting {{0:3 arg="0x0000"}}1,000{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points. Find a teleporter near
+the center's entrance, and take it to the planet's surface.
+
+---
+label: IntroStr_Planet_02_Content
+attribute: 0x000000
+---
+Press {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to place the {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon in the darkness.
+The Beacon's light will develop the surrounding land.
+As a result, you'll collect {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points.
+
+---
+label: IntroStr_Planet_03_Content
+attribute: 0x000000
+---
+It seems this Planetary Block is already fully developed.
+Perhaps you could move your {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon to a neighboring block.
+
+---
+label: IntroStr_Score_100_Content
+attribute: 0x000000
+---
+To start, try collecting {{0:3 arg="0x0000"}}100{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points. The higher you
+place the {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon, the farther its light will reach.
+
+---
+label: IntroStr_Score_500_Content
+attribute: 0x000000
+---
+Very good. Now, aim to collect {{0:3 arg="0x0000"}}500{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points.
+No way to get higher? Create your own by {{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}fusing Pieces.
+
+---
+label: IntroStr_Score_1000_Content
+attribute: 0x000000
+---
+Quite impressive. You have {{0:3 arg="0x0000"}}{{101:2 arg="0x0001010000CD1C00530074007200750063007400750072006500530063006F0072006500"}}{{0:3 arg="0xFFFF"}}/1,000 {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points.
+Basic development work is performed with three actions:
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} grabbing,{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} fusing, and{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} climbing.
+
+---
+label: IntroStr_Center_01_Content
+attribute: 0x000000
+---
+Excellent work. You've collected enough {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points.
+Return to the center of this area. Only you can carry
+your {{0:3 arg="0x0400"}} Beacon{{0:3 arg="0xFFFF"}}. So, if you like, you can leave it here for now.
+
+---
+label: IntroStr_Center_02_Content
+attribute: 0x000000
+---
+Take the teleporter to the Dev Core.
+There, you can update your Developer's License with the
+{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points you collected.
+
+---
+label: IntroStr_Center_03_Content
+attribute: 0x000000
+---
+Proceed to the far platform and try updating your
+Developer's License. After, use the {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points
+you've collected to raise your Development Level.
+
+---
+label: IntroStr_Shop_01_Content
+attribute: 0x000000
+---
+This is the Dev Shop. You would do well
+to check in on its offerings regularly.
+
+---
+label: IntroStr_Gift_01_Content
+attribute: 0x000000
+---
+Return to your {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon. Though simple, you'll
+find a gift waiting for you there.
+If you lose your way, try opening the {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} DPS.
+
+---
+label: IntroStr_Gift_02_Content
+attribute: 0x000000
+---
+It seems you cannot carry any more cards.
+You may want to make a slot available.
+
+---
+label: IntroStr_Gift_03_Content
+attribute: 0x000000
+---
+It seems you cannot carry any more Pieces.
+Consider dropping what you're holding.
+
+---
+label: IntroStr_AntennaAdd_01_Content
+attribute: 0x000000
+---
+Congratulations on improving your {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level!
+I would like to grant you a new {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon.
+
+---
+label: IntroClt_Licence_01_Content
+attribute: 0x000000
+---
+Use {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points to raise your Connection Level.
+Proceed to the far platform and attempt to update your
+Developer's License.
+
+---
+label: IntroClt_Deco_01_Content
+attribute: 0x000000
+---
+I shall grant an article of  Deco to developers who have
+reached a {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level of 1.
+Stand on the  Piece and hold down {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to accept it.
+
+---
+label: IntroClt_Deco_02_Content
+attribute: 0x000000
+---
+Equip the  Deco card that you retrieved,
+then press the assigned button to put it on.
+
+---
+label: IntroClt_SendScore_01_Content
+attribute: 0x000000
+---
+I would impart upon you one more vital teaching...
+Try climbing onto that  Deco Piece.
+
+---
+label: IntroClt_SendScore_02_Content
+attribute: 0x000000
+---
+Climb onto a  Piece and press {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to  send
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points. Go ahead and give it a try.
+
+---
+label: IntroClt_Shop_01_Content
+attribute: 0x000000
+---
+You have received a {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connex Shop {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Key from leveling up.
+Use them to unlock new items in the shop.
+
+---
+label: IntroClt_UgcLicence_01_Content
+attribute: 0x000000
+---
+Congratulations on passing the test. I am pleased.
+You may acquire a {{0:3 arg="0x0000"}}UGC License {{0:3 arg="0xFFFF"}}and {{0:3 arg="0x0000"}}Deco {{0:3 arg="0xFFFF"}}at the Connex Shop.
+
+---
+label: Seq_CmnTimeLimit_01_Content
+attribute: 0x000000
+---
+It seems this moon will soon disappear...
+
+---
+label: Seq_CmnTimeLimit_02_Content
+attribute: 0x000000
+---
+Moon will disappear...
+
+---
+label: PvP_Entry_Content
+attribute: 0x000000
+---
+Collect points from  Pieces that match your team's color!
+{{0:3 arg="0x0E00"}} Team{{0:3 arg="0xFFFF"}} [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003100"}} Player{{201:6 arg="0x0000020073000000"}}]  [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003200"}} Player{{201:6 arg="0x0000020073000000"}}] {{0:3 arg="0x0900"}}Team {{0:3 arg="0xFFFF"}}
+
+---
+label: PvP_Score_01_Content
+attribute: 0x000000
+---
+You scored  [ 1 × 1 = 1 point{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+Thanks for playing!
+
+---
+label: PvP_Score_02_Content
+attribute: 0x000000
+---
+You scored  [ 2 × 2 = 4 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+That's the spirit!
+
+---
+label: PvP_Score_03_Content
+attribute: 0x000000
+---
+You scored  [ 3 × 3 = 9 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+You fought hard!
+
+---
+label: PvP_Score_04_Content
+attribute: 0x000000
+---
+You scored  [ 4 × 4 = 16 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+Pretty good!
+
+---
+label: PvP_Score_05_Content
+attribute: 0x000000
+---
+You scored  [ 5 × 5 = 25 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+That's how it's done!
+
+---
+label: PvP_Score_06_Content
+attribute: 0x000000
+---
+You scored  [ 6 × 6 = 36 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+Made it look easy!
+
+---
+label: PvP_Score_07_Content
+attribute: 0x000000
+---
+You scored  [ 7 × 7 = 49 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+Simply unstoppable!
+
+---
+label: PvP_Score_08_Content
+attribute: 0x000000
+---
+You scored  [ 8 × 8 = 64 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+A force to be reckoned with!
+
+---
+label: PvP_Score_09_Content
+attribute: 0x000000
+---
+You scored  [ 9 × 9 = 81 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+Excellent!
+
+---
+label: PvP_Score_10_Content
+attribute: 0x000000
+---
+You scored  [ 10 × 10 = 100 points{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}]!
+Your Connex Points increased to [{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}{{101:2 arg="0x0001010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}].
+Perfection!

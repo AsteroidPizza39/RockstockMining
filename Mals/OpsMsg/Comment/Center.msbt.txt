@@ -1,0 +1,95 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: UsualComment001
+attribute: 0x000000
+---
+Today's supply is Wood, the most universal building block of all.
+
+---
+label: UsualComment002
+attribute: 0x000000
+---
+Today's supply is a {{0:3 arg="0x0000"}}Pickaxe (Lv. 2){{0:3 arg="0xFFFF"}}.
+
+---
+label: UsualComment003
+attribute: 0x000000
+---
+There's an event at the Connex Shop.
+
+---
+label: UsualComment005
+attribute: 0x000000
+---
+Today's supplies are {{0:3 arg="0x0000"}}Dashing Boots{{0:3 arg="0xFFFF"}}.
+
+---
+label: UsualComment006
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}Developer Connection Areas{{0:3 arg="0xFFFF"}} are open! Compete with other developers!
+
+---
+label: UsualComment008
+attribute: 0x000000
+---
+Today's supplies are {{0:3 arg="0x0000"}}Hammers{{0:3 arg="0xFFFF"}}.
+
+---
+label: UsualComment009
+attribute: 0x000000
+---
+Today's supply is a {{0:3 arg="0x0000"}}Sword (Lv. 3){{0:3 arg="0xFFFF"}}.
+
+---
+label: UsualComment010
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}Developer Connection Areas{{0:3 arg="0xFFFF"}} are open! Let's fight with heart!
+
+---
+label: UsualComment011
+attribute: 0x000000
+---
+There's an {{0:3 arg="0x0000"}}Emoji Fair{{0:3 arg="0xFFFF"}} going on at the Connex Shop.
+
+---
+label: UsualComment013
+attribute: 0x000000
+---
+Today is a {{0:3 arg="0x0000"}}Fun Day{{0:3 arg="0xFFFF"}}! Check out all the games in the Dev Core.
+
+---
+label: UsualComment014
+attribute: 0x000000
+---
+Today is {{0:3 arg="0x0000"}}Hot Spring Day{{0:3 arg="0xFFFF"}}. Let the spring's waters rejuvenate your spirit. 
+
+---
+label: UsualComment015
+attribute: 0x000000
+---
+Today's supplies are {{0:3 arg="0x0000"}}Arrows{{0:3 arg="0xFFFF"}}. Set your sights high against flying Broots.
+
+---
+label: UsualComment016
+attribute: 0x000000
+---
+Today's supplies: Secret Cargo. Who knows what might be inside? 
+
+---
+label: UsualComment018
+attribute: 0x000000
+---
+Today's supplies are {{0:3 arg="0x0000"}}Stones{{0:3 arg="0xFFFF"}}.

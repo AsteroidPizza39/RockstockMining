@@ -1,0 +1,4123 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: itemset71_Name
+attribute: 0x000000
+---
+Deco (Lv. 1)
+
+---
+label: itemset71_Caption
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: itemset72_Name
+attribute: 0x000000
+---
+Deco (Lv. 2)
+
+---
+label: itemset72_Caption
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: itemset73_Name
+attribute: 0x000000
+---
+Deco (Lv. 3)
+
+---
+label: itemset73_Caption
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: itemset227_Name
+attribute: 0x000000
+---
+Idle
+
+---
+label: itemset227_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset326_Name
+attribute: 0x000000
+---
+Text Signboard
+
+---
+label: itemset326_Caption
+attribute: 0x000000
+---
+・Use your words to convey your feelings.
+・Write and display some text here.
+
+---
+label: itemset327_Name
+attribute: 0x000000
+---
+Image Signboard-{{0:2 arg="0x5000"}}Camera Set{{0:2 arg="0x6400"}}
+
+---
+label: itemset327_Caption
+attribute: 0x000000
+---
+・Includes Image Signboard and 4 types of cameras.
+・Can display whatever screenshot you like.
+・Can switch cameras by holding down button.
+
+---
+label: itemset402_Name
+attribute: 0x000000
+---
+Card-Storing Piece
+
+---
+label: itemset402_Caption
+attribute: 0x000000
+---
+・Stores one type of card.
+
+---
+label: itemset403_Name
+attribute: 0x000000
+---
+Fuser
+
+---
+label: itemset403_Caption
+attribute: 0x000000
+---
+・Fuser {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Copper x20
+・Fuses Pieces into a single straight line.
+
+---
+label: itemset404_Name
+attribute: 0x000000
+---
+Crane (Lv. 1)
+
+---
+label: itemset404_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 1) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Copper x20
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: itemset405_Name
+attribute: 0x000000
+---
+Forklift
+
+---
+label: itemset405_Caption
+attribute: 0x000000
+---
+・Forklift {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Copper x20
+・Hold assigned button to grab multiple Pieces.
+・Place multiple Pieces all at once.
+
+---
+label: itemset406_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 1)
+
+---
+label: itemset406_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 1) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Stone x10
+・Strikes Pieces or Oots.
+・Piece Attack Power: 1 / Oot Attack Power: 0.5
+
+---
+label: itemset407_Name
+attribute: 0x000000
+---
+Sword (Lv. 1)
+
+---
+label: itemset407_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 1) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Eyeball x10
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset408_Name
+attribute: 0x000000
+---
+Hammer
+
+---
+label: itemset408_Caption
+attribute: 0x000000
+---
+・Hammer {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Stone x10
+・Strikes the ground to create an opening.
+
+---
+label: itemset409_Name
+attribute: 0x000000
+---
+Ancient Uniform
+
+---
+label: itemset409_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset410_Name
+attribute: 0x000000
+---
+Crafts Uniform
+
+---
+label: itemset410_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset411_Name
+attribute: 0x000000
+---
+Airplane
+
+---
+label: itemset411_Caption
+attribute: 0x000000
+---
+・Airplane {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Emerald x20
+・Flies through the sky while carrying Pieces.
+・Costs energy when used outside Beacon Zones.
+
+---
+label: itemset412_Name
+attribute: 0x000000
+---
+Elevator
+
+---
+label: itemset412_Caption
+attribute: 0x000000
+---
+・Elevator {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Craft:  Charcoal x20  Stone x20  Diamond x20
+・Ascends walls.
+
+---
+label: itemset413_Name
+attribute: 0x000000
+---
+Developer's Radio
+
+---
+label: itemset413_Caption
+attribute: 0x000000
+---
+・Developer's Radio {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Music and development go hand-in-hand!
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: itemset414_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 5)
+
+---
+label: itemset414_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 5) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 4) x10  Gold x50
+・Strikes Pieces or Oots.
+・Piece Attack Power: 5 / Oot Attack Power: 0.5
+
+---
+label: itemset415_Name
+attribute: 0x000000
+---
+Crane (Lv. 2)
+
+---
+label: itemset415_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 2) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Iron x30
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: itemset416_Name
+attribute: 0x000000
+---
+Sword (Lv. 5)
+
+---
+label: itemset416_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 5) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 4) x10  Horn x50
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 5
+
+---
+label: itemset417_Name
+attribute: 0x000000
+---
+Charged Arrow
+
+---
+label: itemset417_Caption
+attribute: 0x000000
+---
+・Charged Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Horn x10
+・Fires a powerful Arrow after holding down the button.
+・Piece Attack Power: 0.5 / Oot Attack Power: 10
+
+---
+label: itemset418_Name
+attribute: 0x000000
+---
+[Prototype] Trash Can
+
+---
+label: itemset418_Caption
+attribute: 0x000000
+---
+・[Prototype] Trash Can {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x10  Ruby x10
+・Putting Pieces in will throw them away.
+
+---
+label: itemset419_Name
+attribute: 0x000000
+---
+[Prototype] Conveyor
+
+---
+label: itemset419_Caption
+attribute: 0x000000
+---
+・[Prototype] Conveyor {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Gold x10  Diamond x10
+・Place metal in front of the arrow to turn it into
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}a Conveyor.
+・Conveyors move Pieces placed on top of them.
+
+---
+label: itemset420_Name
+attribute: 0x000000
+---
+Steam Iron
+
+---
+label: itemset420_Caption
+attribute: 0x000000
+---
+・Steam Iron {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Iron x20
+・Hold the assigned button to fuse the Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}directly underneath you.
+
+---
+label: itemset421_Name
+attribute: 0x000000
+---
+Future Uniform
+
+---
+label: itemset421_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset422_Name
+attribute: 0x000000
+---
+Shining Uniform
+
+---
+label: itemset422_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset423_Name
+attribute: 0x000000
+---
+(Under Development)
+
+---
+label: itemset423_Caption
+attribute: 0x000000
+---
+・Useful tools are being developed!
+・New stock coming soon...
+
+---
+label: itemset424_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 2)
+
+---
+label: itemset424_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 2) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 1) x10  Copper x20
+・Strikes Pieces or Oots.
+・Piece Attack Power: 2 / Oot Attack Power: 0.5
+
+---
+label: itemset425_Name
+attribute: 0x000000
+---
+(Under Development)
+
+---
+label: itemset425_Caption
+attribute: 0x000000
+---
+・Useful tools are being developed!
+・New stock coming soon...
+
+---
+label: itemset426_Name
+attribute: 0x000000
+---
+Sword (Lv. 2)
+
+---
+label: itemset426_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 2) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 1) x10  Shell x20
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 2
+
+---
+label: itemset427_Name
+attribute: 0x000000
+---
+Crane (Lv. 4)
+
+---
+label: itemset427_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 4) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Gold x50
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: itemset428_Name
+attribute: 0x000000
+---
+Arrow
+
+---
+label: itemset428_Caption
+attribute: 0x000000
+---
+・Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Wing x10
+・Fires an Arrow in the direction you're aiming.
+・De-fuses Pieces.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset429_Name
+attribute: 0x000000
+---
+Lantern
+
+---
+label: itemset429_Caption
+attribute: 0x000000
+---
+・Lantern {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Oil x10
+・Hold the assigned button to light your surroundings.
+・Even undeveloped land will become visible.
+
+---
+label: itemset430_Name
+attribute: 0x000000
+---
+Hurler
+
+---
+label: itemset430_Caption
+attribute: 0x000000
+---
+・Hurler {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Iron x20
+・Throws Pieces far away.
+
+---
+label: itemset431_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 4)
+
+---
+label: itemset431_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 4) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 3) x10  Silver x40
+・Strikes Pieces or Oots.
+・Piece Attack Power: 4 / Oot Attack Power: 0.5
+
+---
+label: itemset433_Name
+attribute: 0x000000
+---
+Sword (Lv. 4)
+
+---
+label: itemset433_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 4) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 3) x10  Fang x40
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 4
+
+---
+label: itemset434_Name
+attribute: 0x000000
+---
+Exercise Uniform
+
+---
+label: itemset434_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset436_Name
+attribute: 0x000000
+---
+City Uniform
+
+---
+label: itemset436_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset438_Name
+attribute: 0x000000
+---
+Dashing Boots
+
+---
+label: itemset438_Caption
+attribute: 0x000000
+---
+・Dashing Boots {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Gunpowder x10
+・Hold the assigned button to move faster.
+
+---
+label: itemset439_Name
+attribute: 0x000000
+---
+Barrier
+
+---
+label: itemset439_Caption
+attribute: 0x000000
+---
+・Barrier {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Diamond x10  Shell x10
+・Hold down the assigned button to keep
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}your Life from depleting.
+
+---
+label: itemset440_Name
+attribute: 0x000000
+---
+Space Uniform
+
+---
+label: itemset440_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset441_Name
+attribute: 0x000000
+---
+Machine Uniform
+
+---
+label: itemset441_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset442_Name
+attribute: 0x000000
+---
+Rocket Boots
+
+---
+label: itemset442_Caption
+attribute: 0x000000
+---
+・Rocket Boots {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Wing x30
+・Hold the assigned button to ascend.
+
+---
+label: itemset443_Name
+attribute: 0x000000
+---
+Crane (Lv. 3)
+
+---
+label: itemset443_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 3) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Silver x40
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: itemset444_Name
+attribute: 0x000000
+---
+De-Fuser
+
+---
+label: itemset444_Caption
+attribute: 0x000000
+---
+・De-Fuser {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Silver x20
+・De-fuses fused Pieces.
+
+---
+label: itemset445_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 3)
+
+---
+label: itemset445_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 3) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 2) x10  Iron x30
+・Strikes Pieces or Oots.
+・Piece Attack Power: 3 / Oot Attack Power: 0.5
+
+---
+label: itemset446_Name
+attribute: 0x000000
+---
+Sword (Lv. 3)
+
+---
+label: itemset446_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 3) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 2) x10  Wing x30
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset447_Name
+attribute: 0x000000
+---
+Homing Arrow
+
+---
+label: itemset447_Caption
+attribute: 0x000000
+---
+・Homing Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Eyeball x10
+・Fires an Arrow that homes in on an opponent.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset448_Name
+attribute: 0x000000
+---
+Scatter Arrow
+
+---
+label: itemset448_Caption
+attribute: 0x000000
+---
+・Scatter Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Shell x30
+・Fires three Arrows in a spread formation.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset449_Name
+attribute: 0x000000
+---
+Repeating Arrow
+
+---
+label: itemset449_Caption
+attribute: 0x000000
+---
+・Repeating Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Fang x30
+・Fires three Arrows in succession.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset450_Name
+attribute: 0x000000
+---
+Farmer Uniform
+
+---
+label: itemset450_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset451_Name
+attribute: 0x000000
+---
+Factory Uniform
+
+---
+label: itemset451_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset452_Name
+attribute: 0x000000
+---
+Jumping Boots
+
+---
+label: itemset452_Caption
+attribute: 0x000000
+---
+・Jumping Boots {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Shell x20
+・Press the assigned button to jump six meters.
+
+---
+label: itemset454_Name
+attribute: 0x000000
+---
+Stoneworker, Basic
+
+---
+label: itemset454_Caption
+attribute: 0x000000
+---
+・Stoneworker, Basic {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset455_Name
+attribute: 0x000000
+---
+Stoneworker, Brick
+
+---
+label: itemset455_Caption
+attribute: 0x000000
+---
+・Stoneworker, Brick {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset456_Name
+attribute: 0x000000
+---
+Stoneworker, Ancient
+
+---
+label: itemset456_Caption
+attribute: 0x000000
+---
+・Stoneworker, Ancient {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset457_Name
+attribute: 0x000000
+---
+Stoneworker, Modern
+
+---
+label: itemset457_Caption
+attribute: 0x000000
+---
+・Stoneworker, Modern {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset459_Name
+attribute: 0x000000
+---
+Woodworker, Exterior
+
+---
+label: itemset459_Caption
+attribute: 0x000000
+---
+・Woodworker, Exterior {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10
+・Can change Wood patterns.
+
+---
+label: itemset460_Name
+attribute: 0x000000
+---
+Woodworker, Stylish
+
+---
+label: itemset460_Caption
+attribute: 0x000000
+---
+・Woodworker, Stylish {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10
+・Can change Wood patterns.
+
+---
+label: itemset461_Name
+attribute: 0x000000
+---
+Woodworker, Interior
+
+---
+label: itemset461_Caption
+attribute: 0x000000
+---
+・Woodworker, Interior {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10
+・Can change Wood patterns.
+
+---
+label: itemset462_Name
+attribute: 0x000000
+---
+Glazier, Window
+
+---
+label: itemset462_Caption
+attribute: 0x000000
+---
+・Glazier, Window {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10
+・Can change Glass patterns.
+
+---
+label: itemset463_Name
+attribute: 0x000000
+---
+Painter
+
+---
+label: itemset463_Caption
+attribute: 0x000000
+---
+・Painter {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Emerald x10
+・Can change a Piece's color.
+
+---
+label: itemset464_Name
+attribute: 0x000000
+---
+Glazier, Decoration
+
+---
+label: itemset464_Caption
+attribute: 0x000000
+---
+・Glazier, Decoration {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10
+・Can change Glass patterns.
+
+---
+label: itemset465_Name
+attribute: 0x000000
+---
+Metalworker, Basic
+
+---
+label: itemset465_Caption
+attribute: 0x000000
+---
+・Metalworker, Basic {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Iron x10
+・Can change Metal patterns.
+
+---
+label: itemset466_Name
+attribute: 0x000000
+---
+Metalworker, Industrial
+
+---
+label: itemset466_Caption
+attribute: 0x000000
+---
+・Metalworker, Industrial {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Iron x10
+・Can change Metal patterns.
+
+---
+label: itemset467_Name
+attribute: 0x000000
+---
+Metalworker, Future
+
+---
+label: itemset467_Caption
+attribute: 0x000000
+---
+・Metalworker, Future {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Iron x10
+・Can change Metal patterns.
+
+---
+label: itemset468_Name
+attribute: 0x000000
+---
+Jewelcrafter, Basic
+
+---
+label: itemset468_Caption
+attribute: 0x000000
+---
+・Jewelcrafter, Basic {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Diamond x10
+・Can change Jewel patterns.
+
+---
+label: itemset469_Name
+attribute: 0x000000
+---
+Fantasy Crafter
+
+---
+label: itemset469_Caption
+attribute: 0x000000
+---
+・Fantasy Crafter {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sapphire x10
+・Can change a Piece's pattern.
+
+---
+label: itemset470_Name
+attribute: 0x000000
+---
+Sushi Chef
+
+---
+label: itemset470_Caption
+attribute: 0x000000
+---
+・Sushi Chef {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Ruby x10
+・Can change a Piece's pattern.
+
+---
+label: itemset471_Name
+attribute: 0x000000
+---
+Confectioner
+
+---
+label: itemset471_Caption
+attribute: 0x000000
+---
+・Confectioner {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Ruby x10
+・Can change a Piece's pattern.
+
+---
+label: itemset472_Name
+attribute: 0x000000
+---
+Fashion Designer
+
+---
+label: itemset472_Caption
+attribute: 0x000000
+---
+・Fashion Designer {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sapphire x10
+・Can change a Piece's pattern.
+
+---
+label: itemset473_Name
+attribute: 0x000000
+---
+Cake Maker
+
+---
+label: itemset473_Caption
+attribute: 0x000000
+---
+・Cake Maker {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Ruby x10
+・Can change a Piece's pattern.
+
+---
+label: itemset474_Name
+attribute: 0x000000
+---
+Dev-Core Crafter
+
+---
+label: itemset474_Caption
+attribute: 0x000000
+---
+・Dev-Core Crafter {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Emerald x10
+・Can change a Piece's pattern.
+
+---
+label: itemset650_Name
+attribute: 0x000000
+---
+Fuser {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset650_Caption
+attribute: 0x000000
+---
+・Fuser {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:2 arg="0x6400"}}
+・Crafted with  Charcoal x20  Stone x20  Copper x20
+・Fuses Pieces into a single straight line.
+
+---
+label: itemset651_Name
+attribute: 0x000000
+---
+Crane (Lv. 1) {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset651_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 1) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:2 arg="0x6400"}}
+・Crafted with  Charcoal x20  Stone x20  Copper x20
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: itemset652_Name
+attribute: 0x000000
+---
+Forklift {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset652_Caption
+attribute: 0x000000
+---
+・Forklift {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+・Crafted with  Charcoal x20  Stone x20  Copper x20
+・Hold assigned button to grab multiple Pieces.
+・Place multiple Pieces all at once.
+
+---
+label: itemset653_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 1) {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset653_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 1) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:2 arg="0x6400"}}
+・Crafted with  Wood x10  Stone x10
+・Strikes Pieces or Oots.
+・Piece Attack Power: 1 / Oot Attack Power: 0.5
+
+---
+label: itemset654_Name
+attribute: 0x000000
+---
+Sword (Lv. 1) {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset654_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 1) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:2 arg="0x6400"}}
+・Crafted with  Wood x10  Eyeball x10
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset655_Name
+attribute: 0x000000
+---
+Hammer {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset655_Caption
+attribute: 0x000000
+---
+・Hammer {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:2 arg="0x6400"}}
+・Crafted with  Wood x10  Stone x10
+・Strikes the ground to create an opening.
+
+---
+label: itemset656_Name
+attribute: 0x000000
+---
+Ancient Uniform
+
+---
+label: itemset656_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset657_Name
+attribute: 0x000000
+---
+Crafts Uniform
+
+---
+label: itemset657_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset658_Name
+attribute: 0x000000
+---
+Developer's Radio {{0:2 arg="0x5000"}}set{{0:2 arg="0x6400"}}
+
+---
+label: itemset658_Caption
+attribute: 0x000000
+---
+・Developer's Radio {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}and material set{{0:2 arg="0x6400"}}
+・Crafted with  Copper x10  Iron x10
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: itemset659_Name
+attribute: 0x000000
+---
+Crane (Lv. 2)
+
+---
+label: itemset659_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 2) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Iron x30
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: itemset660_Name
+attribute: 0x000000
+---
+Steam Iron
+
+---
+label: itemset660_Caption
+attribute: 0x000000
+---
+・Steam Iron {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Iron x20
+・Hold the assigned button to fuse the Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}directly underneath you.
+
+---
+label: itemset661_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 2)
+
+---
+label: itemset661_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 2) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 1) x10  Copper x20
+・Strikes Pieces or Oots.
+・Piece Attack Power: 2 / Oot Attack Power: 0.5
+
+---
+label: itemset662_Name
+attribute: 0x000000
+---
+Sword (Lv. 2)
+
+---
+label: itemset662_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 2) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 1) x10  Shell x20
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 2
+
+---
+label: itemset663_Name
+attribute: 0x000000
+---
+Arrow
+
+---
+label: itemset663_Caption
+attribute: 0x000000
+---
+・Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Wing x10
+・Fires an Arrow in the direction you're aiming.
+・De-fuses Pieces.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset664_Name
+attribute: 0x000000
+---
+Lantern
+
+---
+label: itemset664_Caption
+attribute: 0x000000
+---
+・Lantern {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Oil x10
+・Hold the assigned button to light your surroundings.
+・Even undeveloped land will become visible.
+
+---
+label: itemset666_Name
+attribute: 0x000000
+---
+Exercise Uniform
+
+---
+label: itemset666_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset667_Name
+attribute: 0x000000
+---
+City Uniform
+
+---
+label: itemset667_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset668_Name
+attribute: 0x000000
+---
+Dashing Boots
+
+---
+label: itemset668_Caption
+attribute: 0x000000
+---
+・Dashing Boots {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Gunpowder x10
+・Hold the assigned button to move faster.
+
+---
+label: itemset669_Name
+attribute: 0x000000
+---
+Crane (Lv. 3)
+
+---
+label: itemset669_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 3) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Silver x40
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: itemset670_Name
+attribute: 0x000000
+---
+De-Fuser
+
+---
+label: itemset670_Caption
+attribute: 0x000000
+---
+・De-Fuser {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Silver x20
+・De-fuses fused Pieces.
+
+---
+label: itemset671_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 3)
+
+---
+label: itemset671_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 3) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 2) x10  Iron x30
+・Strikes Pieces or Oots.
+・Piece Attack Power: 3 / Oot Attack Power: 0.5
+
+---
+label: itemset672_Name
+attribute: 0x000000
+---
+Sword (Lv. 3)
+
+---
+label: itemset672_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 3) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 2) x10  Wing x30
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset673_Name
+attribute: 0x000000
+---
+Homing Arrow
+
+---
+label: itemset673_Caption
+attribute: 0x000000
+---
+・Homing Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Eyeball x10
+・Fires an Arrow that homes in on an opponent.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset674_Name
+attribute: 0x000000
+---
+Scatter Arrow
+
+---
+label: itemset674_Caption
+attribute: 0x000000
+---
+・Scatter Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Shell x30
+・Fires three Arrows in a spread formation.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset675_Name
+attribute: 0x000000
+---
+Repeating Arrow
+
+---
+label: itemset675_Caption
+attribute: 0x000000
+---
+・Repeating Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Fang x30
+・Fires three Arrows in succession.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset676_Name
+attribute: 0x000000
+---
+Farmer Uniform
+
+---
+label: itemset676_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset677_Name
+attribute: 0x000000
+---
+Factory Uniform
+
+---
+label: itemset677_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset678_Name
+attribute: 0x000000
+---
+Jumping Boots
+
+---
+label: itemset678_Caption
+attribute: 0x000000
+---
+・Jumping Boots {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Shell x20
+・Press the assigned button to jump six meters.
+
+---
+label: itemset679_Name
+attribute: 0x000000
+---
+Crane (Lv. 4)
+
+---
+label: itemset679_Caption
+attribute: 0x000000
+---
+・Crane (Lv. 4) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Gold x50
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: itemset680_Name
+attribute: 0x000000
+---
+Hurler
+
+---
+label: itemset680_Caption
+attribute: 0x000000
+---
+・Hurler {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Iron x20
+・Throws Pieces far away.
+
+---
+label: itemset681_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 4)
+
+---
+label: itemset681_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 4) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 3) x10  Silver x40
+・Strikes Pieces or Oots.
+・Piece Attack Power: 4 / Oot Attack Power: 0.5
+
+---
+label: itemset682_Name
+attribute: 0x000000
+---
+Sword (Lv. 4)
+
+---
+label: itemset682_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 4) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 3) x10  Fang x40
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 4
+
+---
+label: itemset685_Name
+attribute: 0x000000
+---
+Barrier
+
+---
+label: itemset685_Caption
+attribute: 0x000000
+---
+・Barrier {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Diamond x10  Shell x10
+・Hold down the assigned button to keep
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}your Life from depleting.
+
+---
+label: itemset686_Name
+attribute: 0x000000
+---
+Space Uniform
+
+---
+label: itemset686_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset687_Name
+attribute: 0x000000
+---
+Machine Uniform
+
+---
+label: itemset687_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset688_Name
+attribute: 0x000000
+---
+Rocket Boots
+
+---
+label: itemset688_Caption
+attribute: 0x000000
+---
+・Rocket Boots {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10  Wing x30
+・Hold the assigned button to ascend.
+
+---
+label: itemset689_Name
+attribute: 0x000000
+---
+Airplane
+
+---
+label: itemset689_Caption
+attribute: 0x000000
+---
+・Airplane {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x20  Stone x20  Emerald x20
+・Flies through the sky while carrying Pieces.
+・Costs energy when used outside Beacon Zones.
+
+---
+label: itemset690_Name
+attribute: 0x000000
+---
+Elevator
+
+---
+label: itemset690_Caption
+attribute: 0x000000
+---
+・Elevator {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Craft:  Charcoal x20  Stone x20  Diamond x20
+・Ascends walls.
+
+---
+label: itemset691_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 5)
+
+---
+label: itemset691_Caption
+attribute: 0x000000
+---
+・Pickaxe (Lv. 5) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Pickaxe (Lv. 4) x10  Gold x50
+・Strikes Pieces or Oots.
+・Piece Attack Power: 5 / Oot Attack Power: 0.5
+
+---
+label: itemset692_Name
+attribute: 0x000000
+---
+Sword (Lv. 5)
+
+---
+label: itemset692_Caption
+attribute: 0x000000
+---
+・Sword (Lv. 5) {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sword (Lv. 4) x10  Horn x50
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 5
+
+---
+label: itemset693_Name
+attribute: 0x000000
+---
+Charged Arrow
+
+---
+label: itemset693_Caption
+attribute: 0x000000
+---
+・Charged Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Horn x10
+・Fires a powerful Arrow after holding down the button.
+・Piece Attack Power: 0.5 / Oot Attack Power: 10
+
+---
+label: itemset694_Name
+attribute: 0x000000
+---
+[Prototype] Trash Can
+
+---
+label: itemset694_Caption
+attribute: 0x000000
+---
+・[Prototype] Trash Can {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Charcoal x10  Ruby x10
+・Putting Pieces in will throw them away.
+
+---
+label: itemset695_Name
+attribute: 0x000000
+---
+[Prototype] Conveyor
+
+---
+label: itemset695_Caption
+attribute: 0x000000
+---
+・[Prototype] Conveyor {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Gold x10  Diamond x10
+・Place metal in front of the arrow to turn it into
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}a Conveyor.
+・Conveyors move Pieces placed on top of them.
+
+---
+label: itemset696_Name
+attribute: 0x000000
+---
+Future Uniform
+
+---
+label: itemset696_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset697_Name
+attribute: 0x000000
+---
+Shining Uniform
+
+---
+label: itemset697_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: itemset698_Name
+attribute: 0x000000
+---
+(Under Development)
+
+---
+label: itemset698_Caption
+attribute: 0x000000
+---
+・Useful tools are being developed!
+・New stock coming soon...
+
+---
+label: itemset699_Name
+attribute: 0x000000
+---
+(Under Development)
+
+---
+label: itemset699_Caption
+attribute: 0x000000
+---
+・Useful tools are being developed!
+・New stock coming soon...
+
+---
+label: itemset729_Name
+attribute: 0x000000
+---
+Stoneworker, Basic
+
+---
+label: itemset729_Caption
+attribute: 0x000000
+---
+・Stoneworker, Basic {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset730_Name
+attribute: 0x000000
+---
+Stoneworker, Brick
+
+---
+label: itemset730_Caption
+attribute: 0x000000
+---
+・Stoneworker, Brick {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset731_Name
+attribute: 0x000000
+---
+Stoneworker, Ancient
+
+---
+label: itemset731_Caption
+attribute: 0x000000
+---
+・Stoneworker, Ancient {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset732_Name
+attribute: 0x000000
+---
+Stoneworker, Modern
+
+---
+label: itemset732_Caption
+attribute: 0x000000
+---
+・Stoneworker, Modern {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Stone x10
+・Can change Soil and Rock patterns.
+
+---
+label: itemset735_Name
+attribute: 0x000000
+---
+Woodworker, Stylish
+
+---
+label: itemset735_Caption
+attribute: 0x000000
+---
+・Woodworker, Stylish {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10
+・Can change Wood patterns.
+
+---
+label: itemset736_Name
+attribute: 0x000000
+---
+Woodworker, Interior
+
+---
+label: itemset736_Caption
+attribute: 0x000000
+---
+・Woodworker, Interior {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10
+・Can change Wood patterns.
+
+---
+label: itemset737_Name
+attribute: 0x000000
+---
+Glazier, Window
+
+---
+label: itemset737_Caption
+attribute: 0x000000
+---
+・Glazier, Window {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10
+・Can change Glass patterns.
+
+---
+label: itemset738_Name
+attribute: 0x000000
+---
+Painter
+
+---
+label: itemset738_Caption
+attribute: 0x000000
+---
+・Painter {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Emerald x10
+・Can change a Piece's color.
+
+---
+label: itemset739_Name
+attribute: 0x000000
+---
+Glazier, Decoration
+
+---
+label: itemset739_Caption
+attribute: 0x000000
+---
+・Glazier, Decoration {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Glass x10
+・Can change Glass patterns.
+
+---
+label: itemset740_Name
+attribute: 0x000000
+---
+Metalworker, Basic
+
+---
+label: itemset740_Caption
+attribute: 0x000000
+---
+・Metalworker, Basic {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Iron x10
+・Can change Metal patterns.
+
+---
+label: itemset741_Name
+attribute: 0x000000
+---
+Metalworker, Industrial
+
+---
+label: itemset741_Caption
+attribute: 0x000000
+---
+・Metalworker, Industrial {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Iron x10
+・Can change Metal patterns.
+
+---
+label: itemset742_Name
+attribute: 0x000000
+---
+Metalworker, Future
+
+---
+label: itemset742_Caption
+attribute: 0x000000
+---
+・Metalworker, Future {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Iron x10
+・Can change Metal patterns.
+
+---
+label: itemset743_Name
+attribute: 0x000000
+---
+Jewelcrafter, Basic
+
+---
+label: itemset743_Caption
+attribute: 0x000000
+---
+・Jewelcrafter, Basic {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Diamond x10
+・Can change Jewel patterns.
+
+---
+label: itemset744_Name
+attribute: 0x000000
+---
+Fantasy Crafter
+
+---
+label: itemset744_Caption
+attribute: 0x000000
+---
+・Fantasy Crafter {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sapphire x10
+・Can change a Piece's pattern.
+
+---
+label: itemset745_Name
+attribute: 0x000000
+---
+Sushi Chef
+
+---
+label: itemset745_Caption
+attribute: 0x000000
+---
+・Sushi Chef {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Ruby x10
+・Can change a Piece's pattern.
+
+---
+label: itemset746_Name
+attribute: 0x000000
+---
+Confectioner
+
+---
+label: itemset746_Caption
+attribute: 0x000000
+---
+・Confectioner {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Ruby x10
+・Can change a Piece's pattern.
+
+---
+label: itemset747_Name
+attribute: 0x000000
+---
+Fashion Designer
+
+---
+label: itemset747_Caption
+attribute: 0x000000
+---
+・Fashion Designer {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Sapphire x10
+・Can change a Piece's pattern.
+
+---
+label: itemset748_Name
+attribute: 0x000000
+---
+Cake Maker
+
+---
+label: itemset748_Caption
+attribute: 0x000000
+---
+・Cake Maker {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Ruby x10
+・Can change a Piece's pattern.
+
+---
+label: itemset749_Name
+attribute: 0x000000
+---
+Dev-Core Crafter
+
+---
+label: itemset749_Caption
+attribute: 0x000000
+---
+・Dev-Core Crafter {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Emerald x10
+・Can change a Piece's pattern.
+
+---
+label: itemset1216_Name
+attribute: 0x000000
+---
+ Wood x10
+
+---
+label: itemset1216_Caption
+attribute: 0x000000
+---
+・Appears when Wood is broken.
+
+---
+label: itemset1217_Name
+attribute: 0x000000
+---
+ Stone x10
+
+---
+label: itemset1217_Caption
+attribute: 0x000000
+---
+・Appears when Stones are broken.
+・Find even more on Moons.
+
+---
+label: itemset1218_Name
+attribute: 0x000000
+---
+Pickaxe (Lv. 2) x20
+
+---
+label: itemset1218_Caption
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 2 / Oot Attack Power: 0.5
+
+---
+label: itemset1219_Name
+attribute: 0x000000
+---
+ Iron x10
+
+---
+label: itemset1219_Caption
+attribute: 0x000000
+---
+・Appears when Iron is broken.
+・Find even more on Moons.
+
+---
+label: itemset1220_Name
+attribute: 0x000000
+---
+ Charcoal x10
+
+---
+label: itemset1220_Caption
+attribute: 0x000000
+---
+・Appears when Charcoal is broken.
+・Crafted with Wood and Magma.
+
+---
+label: itemset1222_Name
+attribute: 0x000000
+---
+Dashing Boots
+
+---
+label: itemset1222_Caption
+attribute: 0x000000
+---
+・Crafted with  Glass x10  Gunpowder x10
+・Hold the assigned button to move faster.
+
+---
+label: itemset1224_Name
+attribute: 0x000000
+---
+ Silver x10
+
+---
+label: itemset1224_Caption
+attribute: 0x000000
+---
+・Appears when Silver is broken.
+・Find even more on Moons.
+
+---
+label: itemset1226_Name
+attribute: 0x000000
+---
+Sword (Lv. 3) x20
+
+---
+label: itemset1226_Caption
+attribute: 0x000000
+---
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: itemset1228_Name
+attribute: 0x000000
+---
+ Copper x10
+
+---
+label: itemset1228_Caption
+attribute: 0x000000
+---
+・Appears when Copper is broken.
+・Find even more on Moons.
+
+---
+label: itemset1230_Name
+attribute: 0x000000
+---
+Hammer x20
+
+---
+label: itemset1230_Caption
+attribute: 0x000000
+---
+・Strikes the ground to create an opening.
+
+---
+label: itemset1232_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Top Hat{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1232_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1233_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Disco Ball{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1233_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1234_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Sumo Wrestler{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1234_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1235_Name
+attribute: 0x000000
+---
+Smile
+
+---
+label: itemset1235_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset1236_Name
+attribute: 0x000000
+---
+Exciting #01
+
+---
+label: itemset1236_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset1237_Name
+attribute: 0x000000
+---
+Correct!
+
+---
+label: itemset1237_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset1238_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Piano
+
+---
+label: itemset1238_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset1239_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Nose and Beard{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1239_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1240_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Headphones{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1240_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1241_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Crocodile{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1241_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1242_Name
+attribute: 0x000000
+---
+Catching Rays
+
+---
+label: itemset1242_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset1243_Name
+attribute: 0x000000
+---
+Chuckle Face
+
+---
+label: itemset1243_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset1244_Name
+attribute: 0x000000
+---
+Stylish #01
+
+---
+label: itemset1244_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset1245_Name
+attribute: 0x000000
+---
+Spot On!
+
+---
+label: itemset1245_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset1246_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Bell
+
+---
+label: itemset1246_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset1247_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Eyes{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1247_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1248_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Champion Belt{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1248_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1249_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Archer{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset1249_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset1250_Name
+attribute: 0x000000
+---
+Lie Around
+
+---
+label: itemset1250_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset1251_Name
+attribute: 0x000000
+---
+Crying Face
+
+---
+label: itemset1251_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset1252_Name
+attribute: 0x000000
+---
+Revved Up #01
+
+---
+label: itemset1252_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset1253_Name
+attribute: 0x000000
+---
+Incorrect...
+
+---
+label: itemset1253_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset1254_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Marimba
+
+---
+label: itemset1254_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset1298_Name
+attribute: 0x000000
+---
+Snore
+
+---
+label: itemset1298_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2128_Name
+attribute: 0x000000
+---
+ Diamond x10
+
+---
+label: itemset2128_Caption
+attribute: 0x000000
+---
+・Appears when Diamonds are broken.
+・Find even more on Moons.
+
+---
+label: itemset2130_Name
+attribute: 0x000000
+---
+Arrow x20
+
+---
+label: itemset2130_Caption
+attribute: 0x000000
+---
+・Fires an Arrow in the direction you're aiming.
+・De-fuses Pieces.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: itemset2153_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Side-Part Hairstyle{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2153_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2154_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Duck Hat{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2154_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2155_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Warrior{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2155_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2156_Name
+attribute: 0x000000
+---
+Heart Eyes
+
+---
+label: itemset2156_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2157_Name
+attribute: 0x000000
+---
+Moving #01
+
+---
+label: itemset2157_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2158_Name
+attribute: 0x000000
+---
+Cymbal Crash
+
+---
+label: itemset2158_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2159_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Bass
+
+---
+label: itemset2159_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset2160_Name
+attribute: 0x000000
+---
+Say "Cheeeese!"
+
+---
+label: itemset2160_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2161_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Topknot Hairstyle{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2161_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2162_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Cyclops{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2162_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2163_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Sauna{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2163_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2164_Name
+attribute: 0x000000
+---
+Melting Face
+
+---
+label: itemset2164_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2165_Name
+attribute: 0x000000
+---
+Feeling Good #01
+
+---
+label: itemset2165_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2166_Name
+attribute: 0x000000
+---
+Cow
+
+---
+label: itemset2166_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2167_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Trumpet
+
+---
+label: itemset2167_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset2168_Name
+attribute: 0x000000
+---
+Warm and Cozy
+
+---
+label: itemset2168_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2169_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Sparkles{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2169_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2170_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Angel Wings{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2170_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2171_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Outlaw{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2171_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2172_Name
+attribute: 0x000000
+---
+Sniffle
+
+---
+label: itemset2172_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2173_Name
+attribute: 0x000000
+---
+Chill #01
+
+---
+label: itemset2173_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2174_Name
+attribute: 0x000000
+---
+BOIIING!
+
+---
+label: itemset2174_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2175_Name
+attribute: 0x000000
+---
+Musical Instrument Set: 8-Bit
+
+---
+label: itemset2175_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset2176_Name
+attribute: 0x000000
+---
+KLUNK!
+
+---
+label: itemset2176_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2177_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Island-Head Mask{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2177_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2178_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Skull{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2178_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2179_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Centaur{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2179_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2180_Name
+attribute: 0x000000
+---
+Snore
+
+---
+label: itemset2180_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2181_Name
+attribute: 0x000000
+---
+Mysterious #01
+
+---
+label: itemset2181_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2182_Name
+attribute: 0x000000
+---
+Funny Bounce
+
+---
+label: itemset2182_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2183_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Voice
+
+---
+label: itemset2183_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset2184_Name
+attribute: 0x000000
+---
+Crawling On (1)
+
+---
+label: itemset2184_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2185_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Woohoo{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2185_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2186_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Bolt{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2186_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2187_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Butterfly{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2187_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2188_Name
+attribute: 0x000000
+---
+Licky Face
+
+---
+label: itemset2188_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2189_Name
+attribute: 0x000000
+---
+Exciting #02
+
+---
+label: itemset2189_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2190_Name
+attribute: 0x000000
+---
+Jump Scare
+
+---
+label: itemset2190_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2191_Name
+attribute: 0x000000
+---
+Musical Instrument Set: Strings
+
+---
+label: itemset2191_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: itemset2192_Name
+attribute: 0x000000
+---
+Crawling On (2)
+
+---
+label: itemset2192_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2193_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Fake Eyelashes{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2193_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2194_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Samurai Helmet{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2194_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2195_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Cartoon Meat{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2195_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2196_Name
+attribute: 0x000000
+---
+Silly Face
+
+---
+label: itemset2196_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2197_Name
+attribute: 0x000000
+---
+Stylish #02
+
+---
+label: itemset2197_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2198_Name
+attribute: 0x000000
+---
+Air Horn
+
+---
+label: itemset2198_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2200_Name
+attribute: 0x000000
+---
+Get 'em Next Time
+
+---
+label: itemset2200_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2201_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Oooops{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2201_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2202_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Apple{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2202_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2203_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Muscles{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2203_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2204_Name
+attribute: 0x000000
+---
+Tearing Up
+
+---
+label: itemset2204_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2205_Name
+attribute: 0x000000
+---
+Revved Up #02
+
+---
+label: itemset2205_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2206_Name
+attribute: 0x000000
+---
+Chicken
+
+---
+label: itemset2206_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2208_Name
+attribute: 0x000000
+---
+The Stargazer
+
+---
+label: itemset2208_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2209_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Nose{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2209_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2210_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Cap{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2210_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2211_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Mummy{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2211_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2212_Name
+attribute: 0x000000
+---
+Deep in Thought
+
+---
+label: itemset2212_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2213_Name
+attribute: 0x000000
+---
+Moving #02
+
+---
+label: itemset2213_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2214_Name
+attribute: 0x000000
+---
+The Cat's Meow
+
+---
+label: itemset2214_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2216_Name
+attribute: 0x000000
+---
+The Peaceseeker
+
+---
+label: itemset2216_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2316_Name
+attribute: 0x000000
+---
+[GM-01] Human Mode
+
+---
+label: itemset2316_Caption
+attribute: 0x000000
+---
+・Sets features to match regular profiles.
+
+---
+label: itemset2317_Name
+attribute: 0x000000
+---
+[GM-02] Edit Mode
+
+---
+label: itemset2317_Caption
+attribute: 0x000000
+---
+・Pieces that have been locked for editing can be edited.
+
+---
+label: itemset2318_Name
+attribute: 0x000000
+---
+[GM-03] Spectate Mode
+
+---
+label: itemset2318_Caption
+attribute: 0x000000
+---
+・Cannot be seen by others.
+・Can freely use debug movement.
+
+---
+label: itemset2427_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Fanged Red Lips{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2427_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2428_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Messenger Bag{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2428_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2429_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Power Suit{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2429_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2430_Name
+attribute: 0x000000
+---
+Shock
+
+---
+label: itemset2430_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2431_Name
+attribute: 0x000000
+---
+Feeling Good #02
+
+---
+label: itemset2431_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2432_Name
+attribute: 0x000000
+---
+Raising Sheep
+
+---
+label: itemset2432_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2434_Name
+attribute: 0x000000
+---
+Child of Fortune
+
+---
+label: itemset2434_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2435_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Unibrow{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2435_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2436_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Hot Dog{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2436_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2437_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Bubble Body{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2437_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2438_Name
+attribute: 0x000000
+---
+Goosebumps
+
+---
+label: itemset2438_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2439_Name
+attribute: 0x000000
+---
+Chill #02
+
+---
+label: itemset2439_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2440_Name
+attribute: 0x000000
+---
+Man's Best Friend
+
+---
+label: itemset2440_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2442_Name
+attribute: 0x000000
+---
+Rest, and Watch the Sun
+
+---
+label: itemset2442_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2443_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Smile{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2443_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2444_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Elegant{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2444_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2445_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Solar System{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2445_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2446_Name
+attribute: 0x000000
+---
+Mind Blown
+
+---
+label: itemset2446_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2447_Name
+attribute: 0x000000
+---
+Mysterious #02
+
+---
+label: itemset2447_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2448_Name
+attribute: 0x000000
+---
+Joke Horn
+
+---
+label: itemset2448_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2450_Name
+attribute: 0x000000
+---
+Buddies
+
+---
+label: itemset2450_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2451_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Spiky Punk Hair{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2451_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2452_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Dress{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2452_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2453_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Tulip{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2453_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2454_Name
+attribute: 0x000000
+---
+Just Can't
+
+---
+label: itemset2454_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2455_Name
+attribute: 0x000000
+---
+Exciting #03
+
+---
+label: itemset2455_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2456_Name
+attribute: 0x000000
+---
+Squeaky Toy
+
+---
+label: itemset2456_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2458_Name
+attribute: 0x000000
+---
+Best Friends
+
+---
+label: itemset2458_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset2459_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 1) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Light Bulb{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2459_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2460_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 2) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Bird Clock{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2460_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2461_Name
+attribute: 0x000000
+---
+Deco Starter (Lv. 3) {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Knight Armor{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: itemset2461_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: itemset2462_Name
+attribute: 0x000000
+---
+Zzz...
+
+---
+label: itemset2462_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset2463_Name
+attribute: 0x000000
+---
+Stylish #03
+
+---
+label: itemset2463_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset2464_Name
+attribute: 0x000000
+---
+Welcome In!
+
+---
+label: itemset2464_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates a sound.
+
+---
+label: itemset2466_Name
+attribute: 0x000000
+---
+Can't Watch!
+
+---
+label: itemset2466_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Use this to strike a Pose.
+
+---
+label: itemset4059_Name
+attribute: 0x000000
+---
+Heart Racing
+
+---
+label: itemset4059_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4060_Name
+attribute: 0x000000
+---
+Heart
+
+---
+label: itemset4060_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4061_Name
+attribute: 0x000000
+---
+In Love
+
+---
+label: itemset4061_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4062_Name
+attribute: 0x000000
+---
+Heartbroken
+
+---
+label: itemset4062_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4063_Name
+attribute: 0x000000
+---
+Celebrate
+
+---
+label: itemset4063_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4064_Name
+attribute: 0x000000
+---
+Compass
+
+---
+label: itemset4064_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4065_Name
+attribute: 0x000000
+---
+Siren
+
+---
+label: itemset4065_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4066_Name
+attribute: 0x000000
+---
+Tent
+
+---
+label: itemset4066_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: itemset4067_Name
+attribute: 0x000000
+---
+Cargo (Lv. 2)
+
+---
+label: itemset4067_Caption
+attribute: 0x000000
+---
+・There's something inside.
+
+---
+label: itemset4992_Name
+attribute: 0x000000
+---
+[GM-04] Beacon Penalty
+
+---
+label: itemset4992_Caption
+attribute: 0x000000
+---
+・Used for Beacon Zones that have had reports and
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}have been deemed inappropriate.
+・Everything in the Beacon Zone will be deconstructed
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}and scattered at random.
+
+---
+label: itemset5031_Name
+attribute: 0x000000
+---
+Garden Hoe
+
+---
+label: itemset5031_Caption
+attribute: 0x000000
+---
+・Garden Hoe {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Stone x10
+・Changes Soil to Field Soil.
+・Field Soil accelerates the growth of Seeds.
+
+---
+label: itemset5032_Name
+attribute: 0x000000
+---
+Garden Hoe
+
+---
+label: itemset5032_Caption
+attribute: 0x000000
+---
+・Garden Hoe {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10  Stone x10
+・Changes Soil to Field Soil.
+・Field Soil accelerates the growth of Seeds.
+
+---
+label: itemset5033_Name
+attribute: 0x000000
+---
+Woodworker, Exterior
+
+---
+label: itemset5033_Caption
+attribute: 0x000000
+---
+・Woodworker, Exterior {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Wood x10
+・Can change Wood patterns.
+
+---
+label: itemset5042_Name
+attribute: 0x000000
+---
+Deco (Lv. 1) {{0:2 arg="0x5000"}}UGC License Bonus{{0:2 arg="0x6400"}}
+
+---
+label: itemset5042_Caption
+attribute: 0x000000
+---
+・{{0:3 arg="0x0000"}}A gift given to those who have acquired a UGC License.{{0:3 arg="0xFFFF"}}
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: itemset5046_Name
+attribute: 0x000000
+---
+Explosive Arrow
+
+---
+label: itemset5046_Caption
+attribute: 0x000000
+---
+・Explosive Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Gunpowder x10
+・Fires an Arrow that explodes.
+
+---
+label: itemset5047_Name
+attribute: 0x000000
+---
+Explosive Arrow
+
+---
+label: itemset5047_Caption
+attribute: 0x000000
+---
+・Explosive Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Gunpowder x10
+・Fires an Arrow that explodes.
+
+---
+label: itemset5048_Name
+attribute: 0x000000
+---
+Lightning Arrow
+
+---
+label: itemset5048_Caption
+attribute: 0x000000
+---
+・Lightning Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Oil x10
+・Fires an electrified Arrow.
+・Electricity de-fuses Pieces.
+
+---
+label: itemset5049_Name
+attribute: 0x000000
+---
+Lightning Arrow
+
+---
+label: itemset5049_Caption
+attribute: 0x000000
+---
+・Lightning Arrow {{0:3 arg="0x0200"}}Blueprint{{0:3 arg="0xFFFF"}}
+・Crafted with  Arrow x10  Oil x10
+・Fires an electrified Arrow.
+・Electricity de-fuses Pieces.
+
+---
+label: itemset5112_Name
+attribute: 0x000000
+---
+Deco Display Piece x3
+
+---
+label: itemset5112_Caption
+attribute: 0x000000
+---
+・Includes 3 Deco Display Pieces.
+・You can save the Deco you're wearing and display it.
+・The Deco on display can be taken out by anyone.
+
+---
+label: itemset5030_Name
+attribute: 0x000000
+---
+Test: Multiple type set: Tree
+
+---
+label: itemset5030_Caption
+attribute: 0x000000
+---
+Test data
+
+---
+label: itemset4996_Name
+attribute: 0x000000
+---
+Test: Restock: Pickaxe (Lv. 1)
+
+---
+label: itemset4996_Caption
+attribute: 0x000000
+---
+Test data
+
+---
+label: itemset5167_Name
+attribute: 0x000000
+---
+Lighting: Day
+
+---
+label: itemset5167_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset5169_Name
+attribute: 0x000000
+---
+Lighting: Day
+
+---
+label: itemset5169_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset5177_Name
+attribute: 0x000000
+---
+Lighting: Fog
+
+---
+label: itemset5177_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset5181_Name
+attribute: 0x000000
+---
+Lighting: Night
+
+---
+label: itemset5181_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset5182_Name
+attribute: 0x000000
+---
+Lighting: Dusk
+
+---
+label: itemset5182_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset5247_Name
+attribute: 0x000000
+---
+[GM-A] Move to Section
+
+---
+label: itemset5247_Caption
+attribute: 0x000000
+---
+・Can move to a specified section.
+
+---
+label: itemset5248_Name
+attribute: 0x000000
+---
+[GM-B] Move to Session
+
+---
+label: itemset5248_Caption
+attribute: 0x000000
+---
+・Can move to a specified session.
+
+---
+label: itemset5249_Name
+attribute: 0x000000
+---
+[GM] Move to GM Room
+
+---
+label: itemset5249_Caption
+attribute: 0x000000
+---
+・Can move to a specified GM Room.
+
+---
+label: itemset5278_Name
+attribute: 0x000000
+---
+Lighting: Night
+
+---
+label: itemset5278_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: itemset5681_Name
+attribute: 0x000000
+---
+ Developer's Certificate
+
+---
+label: itemset5681_Caption
+attribute: 0x000000
+---
+・Proof that you have contributed to planetary development.
+・This, your  Developer's Certificate, is a treasure.

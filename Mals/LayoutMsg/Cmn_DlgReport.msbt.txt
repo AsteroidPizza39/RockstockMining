@@ -1,0 +1,175 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 17
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideCursor-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCursor-T_KeyText
+attribute: 0x000000
+---
+Move Cursor
+
+---
+label: L_KeyGuideDecide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideDecide-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: Header_deco
+attribute: 0x000000
+---
+ Report UGC
+
+---
+label: Header_screenshot
+attribute: 0x000000
+---
+ Report UGC
+
+---
+label: Header_text
+attribute: 0x000000
+---
+ Report UGC
+
+---
+label: Header_user
+attribute: 0x000000
+---
+ Report Profile
+
+---
+label: Header_antenna
+attribute: 0x000000
+---
+ Report Beacon Zone
+
+---
+label: Header_section_noowner
+attribute: 0x000000
+---
+ Report Piece(s)/Ground
+
+---
+label: T_Subject
+attribute: 0x000000
+---
+Type of Report
+
+---
+label: T_Reason
+attribute: 0x000000
+---
+Reason for Report
+
+---
+label: Desc
+attribute: 0x000000
+---
+Please select the type of report.
+Your report will be sent to Nintendo,
+not to the person you're reporting.
+
+---
+label: Personal
+attribute: 0x000000
+---
+Disclosure of Personal Information
+
+---
+label: Criminal
+attribute: 0x000000
+---
+Violent Content
+
+---
+label: Immoral
+attribute: 0x000000
+---
+Inappropriate/Harmful
+
+---
+label: Harassment
+attribute: 0x000000
+---
+Hateful/Bullying
+
+---
+label: Commercial
+attribute: 0x000000
+---
+Advertising
+
+---
+label: SexuallyExplicit
+attribute: 0x000000
+---
+Sexually Explicit
+
+---
+label: Other
+attribute: 0x000000
+---
+Other
+
+---
+label: L_BtnInputField-T_PlaceHolder
+attribute: 0x000000
+---
+Please tell us the reason for your report.
+
+---
+label: Cancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Accept_Next
+attribute: 0x000000
+---
+OK
+
+---
+label: Accept_Report
+attribute: 0x000000
+---
+OK
+
+---
+label: AccountName
+attribute: 0x000000
+---
+ {{101:3 arg="0x0001"}}
+
+---
+label: AntennaName
+attribute: 0x000000
+---
+ {{101:3 arg="0x0001"}}
+
+---
+label: AntennaName_Public
+attribute: 0x000000
+---
+ Dev Core Beacon

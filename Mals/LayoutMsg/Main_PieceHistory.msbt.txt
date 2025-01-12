@@ -1,0 +1,65 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 5
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Close
+
+---
+label: AccountName
+attribute: 0x000000
+---
+{{101:3 arg="0x0001"}}
+
+---
+label: T_Empty
+attribute: 0x000000
+---
+No records found.
+
+---
+label: Page
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: PageMax
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_KeyGuideBack-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideNext-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: T_Slash
+attribute: 0x000000
+---
+/

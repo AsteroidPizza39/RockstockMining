@@ -1,0 +1,71 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideCursor-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCursor-T_KeyText
+attribute: 0x000000
+---
+Move Cursor
+
+---
+label: L_KeyGuideDecide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideDecide-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: Button_Accept
+attribute: 0x000000
+---
+OK
+
+---
+label: Button_Cancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: IconColor_Title
+attribute: 0x000000
+---
+Profile Icon Color
+
+---
+label: BodyColor_Title
+attribute: 0x000000
+---
+Skin Tone
+
+---
+label: HairColor_Title
+attribute: 0x000000
+---
+Hair Color
+
+---
+label: First_Desc
+attribute: 0x000000
+---
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Color can be changed later.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}

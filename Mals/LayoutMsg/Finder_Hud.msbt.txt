@@ -1,0 +1,89 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Close
+
+---
+label: L_KeyGuideSetting-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideSetting-T_KeyText
+attribute: 0x000000
+---
+Settings
+
+---
+label: L_KeyGuideReset-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideReset-T_KeyText
+attribute: 0x000000
+---
+Reset Cursor
+
+---
+label: L_Zoom-L_ZoomIn-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_Zoom-L_ZoomOut-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: T_Week
+attribute: 0x000000
+---
+1 week
+
+---
+label: T_Day
+attribute: 0x000000
+---
+1 day
+
+---
+label: T_Hour
+attribute: 0x000000
+---
+1 hour
+
+---
+label: T_10min
+attribute: 0x000000
+---
+10 min.
+
+---
+label: T_min
+attribute: 0x000000
+---
+1 min.

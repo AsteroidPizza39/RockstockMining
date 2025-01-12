@@ -1,0 +1,101 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: A_Edit_Guide
+attribute: 0x000000
+---
+Deco-fy
+
+---
+label: A_Get_Guide
+attribute: 0x000000
+---
+Take Out
+
+---
+label: A_Open_Guide
+attribute: 0x000000
+---
+Open
+
+---
+label: A_Ride_Guide
+attribute: 0x000000
+---
+Start
+
+---
+label: A_Score_Guide
+attribute: 0x000000
+---
++1 Point
+
+---
+label: A_Set_Guide
+attribute: 0x000000
+---
+Put In
+
+---
+label: A_Start_Guide
+attribute: 0x000000
+---
+Start
+
+---
+label: A_Unlock_Guide
+attribute: 0x000000
+---
+Unlock
+
+---
+label: A_Update_Guide
+attribute: 0x000000
+---
+Update
+
+---
+label: A_Wear_Guide
+attribute: 0x000000
+---
+Change Into
+
+---
+label: Left_Report_Guide
+attribute: 0x000000
+---
+Report
+
+---
+label: Right_Nice_Guide
+attribute: 0x000000
+---
+Like
+
+---
+label: X_Get_Guide
+attribute: 0x000000
+---
+Take Out
+
+---
+label: X_Lock_Guide
+attribute: 0x000000
+---
+Lock
+
+---
+label: X_Try_Guide
+attribute: 0x000000
+---
+Sample

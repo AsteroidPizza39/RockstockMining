@@ -1,0 +1,101 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: T_Title
+attribute: 0x000000
+---
+Beacon
+
+---
+label: L_KeyGuide-L_KeyGuide00-T_KeyText
+attribute: 0x000000
+---
+Put In
+
+---
+label: L_KeyGuide-L_KeyGuide01-T_KeyText
+attribute: 0x000000
+---
+Take Out
+
+---
+label: Close
+attribute: 0x000000
+---
+Close
+
+---
+label: Back
+attribute: 0x000000
+---
+Back
+
+---
+label: L_CardBtn00-T_CardNumInfinite
+attribute: 0x000000
+---
+∞
+
+---
+label: L_CardBtn00-T_Unassign
+attribute: 0x000000
+---
+Profile Card Not Set
+
+---
+label: L_CardBtn00-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: T_Empty
+attribute: 0x000000
+---
+You don't have any profile cards to insert.
+
+---
+label: CardNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: CardNumMax
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: BagCardNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_KeyGuide-L_KeyGuide00-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuide-L_KeyGuide01-T_KeyGuide
+attribute: 0x000000
+---
+

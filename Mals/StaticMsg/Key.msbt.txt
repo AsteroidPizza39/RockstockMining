@@ -1,0 +1,113 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: None
+attribute: 0x000000
+---
+
+
+---
+label: A
+attribute: 0x000000
+---
+
+
+---
+label: B
+attribute: 0x000000
+---
+
+
+---
+label: X
+attribute: 0x000000
+---
+
+
+---
+label: Y
+attribute: 0x000000
+---
+
+
+---
+label: L
+attribute: 0x000000
+---
+
+
+---
+label: ZL
+attribute: 0x000000
+---
+
+
+---
+label: R
+attribute: 0x000000
+---
+
+
+---
+label: ZR
+attribute: 0x000000
+---
+
+
+---
+label: Up
+attribute: 0x000000
+---
+
+
+---
+label: Down
+attribute: 0x000000
+---
+
+
+---
+label: Left
+attribute: 0x000000
+---
+
+
+---
+label: Right
+attribute: 0x000000
+---
+
+
+---
+label: Plus
+attribute: 0x000000
+---
+
+
+---
+label: Minus
+attribute: 0x000000
+---
+
+
+---
+label: LStick
+attribute: 0x000000
+---
+
+
+---
+label: RStick
+attribute: 0x000000
+---
+

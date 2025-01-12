@@ -1,0 +1,586 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 53
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: DecoPartsNo
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: L_DecoPartsList-L_KeyGuideDecoBalloon-L_KeyGuideCopy-T_KeyText
+attribute: 0x000000
+---
+Copy
+
+---
+label: L_DecoPartsList-L_KeyGuideDecoBalloon-L_KeyGuidePaste-T_KeyText
+attribute: 0x000000
+---
+Paste
+
+---
+label: L_DecoPartsList-L_KeyGuideDecoBalloon-L_KeyGuideMirror-T_KeyText
+attribute: 0x000000
+---
+Rotate Left/Right
+
+---
+label: InputNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: InputNumF
+attribute: 0x000000
+---
+{{101:1 arg="0x0003010001CD"}}
+
+---
+label: InputNum_None
+attribute: 0x000000
+---
+-
+
+---
+label: T_Shape
+attribute: 0x000000
+---
+◆ Shape
+
+---
+label: ShapeTypeBox
+attribute: 0x000000
+---
+ Cube
+
+---
+label: ShapeTypeBall
+attribute: 0x000000
+---
+ Ball
+
+---
+label: ShapeTypeCylinder
+attribute: 0x000000
+---
+ Cylinder
+
+---
+label: ShapeTypePipe
+attribute: 0x000000
+---
+ Pipe
+
+---
+label: ShapeTypeNone
+attribute: 0x000000
+---
+-
+
+---
+label: JointTypeHead
+attribute: 0x000000
+---
+ Head
+
+---
+label: JointTypeBody
+attribute: 0x000000
+---
+ Body
+
+---
+label: JointTypeLeftArm
+attribute: 0x000000
+---
+ Left Elbow
+
+---
+label: JointTypeRightArm
+attribute: 0x000000
+---
+ Right Elbow
+
+---
+label: JointTypeLeftLeg
+attribute: 0x000000
+---
+ Left Knee
+
+---
+label: JointTypeRightLeg
+attribute: 0x000000
+---
+ Right Knee
+
+---
+label: T_Mod
+attribute: 0x000000
+---
+Modify
+
+---
+label: T_Div
+attribute: 0x000000
+---
+Polygons
+
+---
+label: T_Size
+attribute: 0x000000
+---
+Size
+
+---
+label: T_Pos
+attribute: 0x000000
+---
+Position
+
+---
+label: T_Rot
+attribute: 0x000000
+---
+Rotate
+
+---
+label: T_ModX_Box
+attribute: 0x000000
+---
+   X
+
+---
+label: T_ModY_Box
+attribute: 0x000000
+---
+   Z
+
+---
+label: T_ModX_Ball
+attribute: 0x000000
+---
+  
+
+---
+label: T_ModY_Ball
+attribute: 0x000000
+---
+  
+
+---
+label: T_ModX_Cylinder
+attribute: 0x000000
+---
+  
+
+---
+label: T_ModY_Cylinder
+attribute: 0x000000
+---
+  
+
+---
+label: T_ModX_Pipe
+attribute: 0x000000
+---
+  
+
+---
+label: T_ModY_Pipe
+attribute: 0x000000
+---
+  
+
+---
+label: T_ModX_None
+attribute: 0x000000
+---
+-
+
+---
+label: T_ModY_None
+attribute: 0x000000
+---
+-
+
+---
+label: T_DivX_Ball
+attribute: 0x000000
+---
+  
+
+---
+label: T_DivY_Ball
+attribute: 0x000000
+---
+  
+
+---
+label: T_DivX_Cylinder
+attribute: 0x000000
+---
+  
+
+---
+label: T_DivX_Pipe
+attribute: 0x000000
+---
+  
+
+---
+label: T_DivX_None
+attribute: 0x000000
+---
+-
+
+---
+label: T_DivY_None
+attribute: 0x000000
+---
+-
+
+---
+label: T_Material
+attribute: 0x000000
+---
+● Material
+
+---
+label: MaterialTypeBody
+attribute: 0x000000
+---
+Body Color
+
+---
+label: MaterialTypeHair
+attribute: 0x000000
+---
+Hair Color
+
+---
+label: MaterialTypeSoftvinyl
+attribute: 0x000000
+---
+Soft Vinyl
+
+---
+label: MaterialTypePlastic
+attribute: 0x000000
+---
+Plastic
+
+---
+label: MaterialTypeMetal
+attribute: 0x000000
+---
+Polished Metal
+
+---
+label: MaterialTypeRoughMetal
+attribute: 0x000000
+---
+Rough Metal
+
+---
+label: MaterialTypeLight
+attribute: 0x000000
+---
+Luminescent
+
+---
+label: T_ColorH
+attribute: 0x000000
+---
+Hue
+
+---
+label: T_ColorS
+attribute: 0x000000
+---
+Saturation
+
+---
+label: T_ColorV
+attribute: 0x000000
+---
+Brightness
+
+---
+label: L_BtnCancel-T_Btn
+attribute: 0x000000
+---
+Cancel
+
+---
+label: L_BtnSave-T_Btn
+attribute: 0x000000
+---
+ Save
+
+---
+label: L_BtnSaveRelease-T_Btn
+attribute: 0x000000
+---
+ Make public
+
+---
+label: T_SizeOver
+attribute: 0x000000
+---
+Size exceeded!
+Keep the part within the border.
+
+---
+label: CostNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: L_CostGauge-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: L_CostGauge-T_Cost
+attribute: 0x000000
+---
+Total Cost:
+
+---
+label: L_CostGauge-T_CostOver
+attribute: 0x000000
+---
+Cost exceeded!
+
+---
+label: L_CostGauge-T_CostError
+attribute: 0x000000
+---
+Total Cost: Display limit exceeded!
+
+---
+label: L_CostError-T_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0100"}}◆Total Cost exceeded.
+ ・There is a cost limit to saving/displaying each Deco.
+ ・You cannot save/share Deco if it exceeds the Total Cost.{{0:3 arg="0xFFFF"}}
+
+◆You can reduce the Total Cost in the following ways:
+ ・1. Decrease the number of parts you are using.
+ ・2. Reduce the number of polygons used for parts.
+　{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}*The size of parts does not affect the cost.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+◆If you greatly exceed the Total Cost, Deco will not be
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}displayed correctly.
+
+---
+label: L_DecoSubWdw-L_BtnDecoList-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_DecoPartsList-L_KeyGuideDecoBalloon-L_KeyGuideCopy-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_DecoPartsList-L_KeyGuideDecoBalloon-L_KeyGuidePaste-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_DecoPartsList-L_KeyGuideDecoBalloon-L_KeyGuideMirror-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_DecoPartsList-L_KeyGuideSelectR-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_DecoPartsList-L_KeyGuideSelectL-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountSizeZ-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountSizeZ-T_Axis
+attribute: 0x000000
+---
+Z
+
+---
+label: L_BtnCountModY-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountModY-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: L_BtnCountModX-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountModX-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: L_BtnCountSizeX-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountSizeX-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: L_BtnCountSizeY-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountSizeY-T_Axis
+attribute: 0x000000
+---
+Y
+
+---
+label: L_BtnCountPosZ-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountPosZ-T_Axis
+attribute: 0x000000
+---
+Z
+
+---
+label: L_BtnCountPosY-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountPosY-T_Axis
+attribute: 0x000000
+---
+Y
+
+---
+label: L_BtnCountPosX-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountPosX-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: L_BtnCountRotX-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountRotX-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: L_BtnCountRotY-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountRotY-T_Axis
+attribute: 0x000000
+---
+Y
+
+---
+label: L_BtnCountRotZ-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountRotZ-T_Axis
+attribute: 0x000000
+---
+Z
+
+---
+label: L_BtnCountDivX-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountDivX-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: L_BtnCountDivY-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BtnCountDivY-T_Axis
+attribute: 0x000000
+---
+X
+
+---
+label: T_KeyGuideZoom
+attribute: 0x000000
+---
+ 

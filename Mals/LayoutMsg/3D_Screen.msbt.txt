@@ -1,0 +1,107 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: AntennaHeight
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: 3DAntenna-T_Diameter
+attribute: 0x000000
+---
+Diameter: 
+
+---
+label: AntennaDiameter
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: AccountNameProcess
+attribute: 0x000000
+---
+Connecting...
+
+---
+label: AccountNameFinish
+attribute: 0x000000
+---
+Connected!
+
+---
+label: 3DAccountName-T_Hello
+attribute: 0x000000
+---
+Hold : Greet
+
+---
+label: CardNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: CardNumCurrent
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: CardNumLimit
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: 3DCmnPiece-L_CardBox-L_CardList00-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: 3DCmnPiece-L_CardBox-L_CardList01-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: 3DCmnPiece-L_CardBox-L_CardList02-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: 3DCmnPiece-L_CardBox-L_CardList03-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: 3DHistory-L_PieceHistory-T_Empty
+attribute: 0x000000
+---
+No records found.
+
+---
+label: Ugc_Deco_Published
+attribute: 0x000000
+---
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Connecting...{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: LastUpdate
+attribute: 0x000000
+---
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Updated: {{101:15 arg="0x02CD"}}{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}

@@ -1,0 +1,95 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: MobEnemy
+attribute: 0x000000
+---
+Broot
+
+---
+label: MobNeutral
+attribute: 0x000000
+---
+Kyoot
+
+---
+label: MobInsect
+attribute: 0x000000
+---
+Noot
+
+---
+label: Mob_Weakness
+attribute: 0x000000
+---
+Weakness
+
+---
+label: Mob_Bullet
+attribute: 0x000000
+---
+Orb
+
+---
+label: Egg
+attribute: 0x000000
+---
+Egg
+
+---
+label: FriendlyEgg
+attribute: 0x000000
+---
+Oot Carrier
+
+---
+label: EggEnemy
+attribute: 0x000000
+---
+Broot Egg
+
+---
+label: EggNeutral
+attribute: 0x000000
+---
+Kyoot Egg
+
+---
+label: Nest
+attribute: 0x000000
+---
+Broot Nest
+
+---
+label: Fossil
+attribute: 0x000000
+---
+Fossil
+
+---
+label: Icon_Mob
+attribute: 0x000000
+---
+ 
+
+---
+label: Icon_MobNeutral
+attribute: 0x000000
+---
+ 
+
+---
+label: Icon_Egg
+attribute: 0x000000
+---
+ 

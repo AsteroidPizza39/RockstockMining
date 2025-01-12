@@ -1,0 +1,449 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 37
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Name_Title
+attribute: 0x000000
+---
+Playtest Program
+
+---
+label: Name_Account
+attribute: 0x000000
+---
+Profile
+
+---
+label: Name_Account_Name
+attribute: 0x000000
+---
+Name
+
+---
+label: Name_Antenna
+attribute: 0x000000
+---
+Beacon
+
+---
+label: Name_Antenna_Area
+attribute: 0x000000
+---
+Beacon Zone
+
+---
+label: Name_Sinnature_Originator
+attribute: 0x000000
+---
+Creator
+
+---
+label: Name_Sinnature_Arranger
+attribute: 0x000000
+---
+Modder
+
+---
+label: Name_Frontier
+attribute: 0x000000
+---
+Development
+
+---
+label: Name_Frontier_Player
+attribute: 0x000000
+---
+Developer
+
+---
+label: Name_Frontier_Licence
+attribute: 0x000000
+---
+Developer's License
+
+---
+label: Name_Frontier_Center
+attribute: 0x000000
+---
+Dev Core
+
+---
+label: Name_Frontier_Center_Section
+attribute: 0x000000
+---
+Dev Core
+
+---
+label: Name_Frontier_Heart
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: Name_Frontier_Staff
+attribute: 0x000000
+---
+Dev Core Staff
+
+---
+label: Name_Structure
+attribute: 0x000000
+---
+Development
+
+---
+label: Name_Structure_Score
+attribute: 0x000000
+---
+Dev Points
+
+---
+label: Name_Structure_Shop
+attribute: 0x000000
+---
+Dev Shop
+
+---
+label: Name_Culture
+attribute: 0x000000
+---
+Connection
+
+---
+label: Name_Culture_Score
+attribute: 0x000000
+---
+Connex Points
+
+---
+label: Name_Culture_Shop
+attribute: 0x000000
+---
+Connex Shop
+
+---
+label: Name_Like
+attribute: 0x000000
+---
+Connex Points
+
+---
+label: Name_Like_Send
+attribute: 0x000000
+---
+Send Connex Points
+
+---
+label: Name_Like_Receive
+attribute: 0x000000
+---
+Receive Connex Points
+
+---
+label: Name_Planet
+attribute: 0x000000
+---
+Planet
+
+---
+label: Name_Planet_Address
+attribute: 0x000000
+---
+Planetary Block
+
+---
+label: Name_Finder
+attribute: 0x000000
+---
+DPS
+
+---
+label: Name_Finder_Watch
+attribute: 0x000000
+---
+Spectate
+
+---
+label: Name_Finder_Favorite
+attribute: 0x000000
+---
+Favorite
+
+---
+label: Name_Piece
+attribute: 0x000000
+---
+Piece
+
+---
+label: Name_Card
+attribute: 0x000000
+---
+card
+
+---
+label: Name_Mob
+attribute: 0x000000
+---
+Oot
+
+---
+label: Name_Health
+attribute: 0x000000
+---
+Life
+
+---
+label: Name_Energy
+attribute: 0x000000
+---
+Energy
+
+---
+label: Name_VirtualCurrency
+attribute: 0x000000
+---
+ TEST CREDIT
+
+---
+label: Name_Ugc
+attribute: 0x000000
+---
+UGC
+
+---
+label: Name_Ugc_License
+attribute: 0x000000
+---
+UGC License
+
+---
+label: Name_Ugc_License_Section
+attribute: 0x000000
+---
+UGC License Test Site
+
+---
+label: Name_Ugc_Model
+attribute: 0x000000
+---
+Deco
+
+---
+label: Name_Ugc_Image
+attribute: 0x000000
+---
+Image
+
+---
+label: Name_Ugc_Image_Piece
+attribute: 0x000000
+---
+Image Signboard
+
+---
+label: Name_Ugc_Text
+attribute: 0x000000
+---
+Text
+
+---
+label: Name_Ugc_Text_Piece
+attribute: 0x000000
+---
+Text Signboard
+
+---
+label: Action_Player_Greet
+attribute: 0x000000
+---
+Greeting
+
+---
+label: Action_Player_Aim
+attribute: 0x000000
+---
+Aim
+
+---
+label: Action_Player_Grab
+attribute: 0x000000
+---
+Grab
+
+---
+label: Action_Player_Connect
+attribute: 0x000000
+---
+Fuse
+
+---
+label: Action_Player_Jump
+attribute: 0x000000
+---
+Climb
+
+---
+label: Action_Player_Attack
+attribute: 0x000000
+---
+Strike
+
+---
+label: Action_Card_Pick
+attribute: 0x000000
+---
+Pick Up
+
+---
+label: Action_Card_Equip
+attribute: 0x000000
+---
+Equip
+
+---
+label: Action_Card_Dispose
+attribute: 0x000000
+---
+Discard
+
+---
+label: Action_Card_Recover
+attribute: 0x000000
+---
+Restore
+
+---
+label: Action_UI_Decide
+attribute: 0x000000
+---
+OK
+
+---
+label: Action_UI_Back
+attribute: 0x000000
+---
+Back
+
+---
+label: Action_UI_Open
+attribute: 0x000000
+---
+Open
+
+---
+label: Action_UI_Close
+attribute: 0x000000
+---
+Close
+
+---
+label: Action_UI_OK
+attribute: 0x000000
+---
+OK
+
+---
+label: Action_UI_Stop
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Action_UI_MoveCursor
+attribute: 0x000000
+---
+Move Cursor
+
+---
+label: Unit_Distance
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: Unit_Level
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}
+
+---
+label: Unit_Height
+attribute: 0x000000
+---
+Altitude
+
+---
+label: Unit_Diameter
+attribute: 0x000000
+---
+Diameter
+
+---
+label: Unit_Time
+attribute: 0x000000
+---
+When?
+
+---
+label: Unit_Address
+attribute: 0x000000
+---
+Block
+
+---
+label: Unit_Coordinate
+attribute: 0x000000
+---
+Position
+
+---
+label: Unit_Coordinate_X_Plus
+attribute: 0x000000
+---
+X+
+
+---
+label: Unit_Coordinate_X_Minus
+attribute: 0x000000
+---
+X-
+
+---
+label: Unit_Coordinate_Y_Plus
+attribute: 0x000000
+---
+Y+
+
+---
+label: Unit_Coordinate_Y_Minus
+attribute: 0x000000
+---
+Y-
+
+---
+label: Unit_Coordinate_Z_Plus
+attribute: 0x000000
+---
+Z+
+
+---
+label: Unit_Coordinate_Z_Minus
+attribute: 0x000000
+---
+Z-
+
+---
+label: OfficialHP_Url
+attribute: 0x000000
+---
+https://playtest-p.nintendo.com/playtest

@@ -1,0 +1,221 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 19
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: T_Header
+attribute: 0x000000
+---
+Settings
+
+---
+label: BtnTab_Operate
+attribute: 0x000000
+---
+ Control Settings
+
+---
+label: BtnTab_Player
+attribute: 0x000000
+---
+ Profile Settings
+
+---
+label: BtnTab_UGC
+attribute: 0x000000
+---
+ UGC Settings
+
+---
+label: Operate_CameraVertical
+attribute: 0x000000
+---
+ Vertical Camera Control
+
+---
+label: Operate_CameraHorizontal
+attribute: 0x000000
+---
+ Horizontal Camera Control
+
+---
+label: Operate_CameraSensitivity
+attribute: 0x000000
+---
+ Camera Sensitivity
+
+---
+label: Operate_GyroOperate
+attribute: 0x000000
+---
+ Motion Controls
+
+---
+label: Operate_GyroSensitivity
+attribute: 0x000000
+---
+ Motion Control Sensitivity
+
+---
+label: Operate_ControllerVibration
+attribute: 0x000000
+---
+HD Rumble Settings
+
+---
+label: Operate_Default
+attribute: 0x000000
+---
+Default Settings
+
+---
+label: Player_Name
+attribute: 0x000000
+---
+Profile Name
+
+---
+label: Player_Name_Desc
+attribute: 0x000000
+---
+Your profile name can only be changed once every {{101:0 arg="0x0001000100CD"}} days.
+
+---
+label: Player_IconColor
+attribute: 0x000000
+---
+Profile Icon Color
+
+---
+label: Player_BodyColor
+attribute: 0x000000
+---
+Skin Tone
+
+---
+label: Player_HairColor
+attribute: 0x000000
+---
+Hair Color
+
+---
+label: UGC_Text
+attribute: 0x000000
+---
+Show Text Signboards
+
+---
+label: UGC_Model
+attribute: 0x000000
+---
+Show Deco
+
+---
+label: UGC_Image
+attribute: 0x000000
+---
+Show Image Signboards
+
+---
+label: UGC_ProfileImage
+attribute: 0x000000
+---
+Show Profile Pictures
+
+---
+label: UGC_NiceNotice
+attribute: 0x000000
+---
+Connex Points Sent/Received Notification
+
+---
+label: Toggle_Normal
+attribute: 0x000000
+---
+Standard
+
+---
+label: Toggle_Reverse
+attribute: 0x000000
+---
+Inverted
+
+---
+label: Toggle_On
+attribute: 0x000000
+---
+On
+
+---
+label: Toggle_Off
+attribute: 0x000000
+---
+Off
+
+---
+label: Sequence_Change
+attribute: 0x000000
+---
+Change
+
+---
+label: Sequence_Default
+attribute: 0x000000
+---
+Reset to Defaults
+
+---
+label: SliderCount
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: L_KeyGuideDecide-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: L_KeyGuideCloseB-T_KeyText
+attribute: 0x000000
+---
+Back
+
+---
+label: L_KeyGuideCloseT-T_KeyText
+attribute: 0x000000
+---
+Close
+
+---
+label: L_KeyGuideDecide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCloseT-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCloseB-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_Subject00-L_BtnSlider-T_KeyGuide
+attribute: 0x000000
+---
+

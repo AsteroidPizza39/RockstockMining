@@ -1,0 +1,55 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 5
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Placeholder_AccountName
+attribute: 0x000000
+---
+Please enter text.
+
+---
+label: Placeholder_UgcText
+attribute: 0x000000
+---
+Your text goes here!
+({{101:0 arg="0x0002010100CD"}} characters × {{101:0 arg="0x0001020100CD"}} lines)
+
+---
+label: Placeholder_SectionName
+attribute: 0x000000
+---
+Name this  block ({{101:0 arg="0x0002000100CD"}} characters)
+
+---
+label: Placeholder_Report
+attribute: 0x000000
+---
+Please tell us the reason for your report.
+(Maximum of {{101:0 arg="0x0002000100CD"}} characters)
+
+---
+label: TextNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: TextMax
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}

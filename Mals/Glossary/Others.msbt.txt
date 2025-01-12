@@ -1,0 +1,76 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Cargo
+attribute: 0x000000
+---
+Cargo
+
+---
+label: Antenna
+attribute: 0x000000
+---
+Beacon
+
+---
+label: Road
+attribute: 0x000000
+---
+Road
+
+---
+label: Road_Caption
+attribute: 0x000000
+---
+・Place Rock or Metal next to this Piece to
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}extend the road.
+・Movement speed is increased when on a road.
+・Roads can only be extended horizontally.
+
+---
+label: Road_Card_Caption
+attribute: 0x000000
+---
+・RockやMetalを となりに置けば 道路に 変わる
+・道路の上は 移動が はやくなる
+
+---
+label: BoxFrontier
+attribute: 0x000000
+---
+Developer's Certificate
+
+---
+label: BoxFrontier_Caption
+attribute: 0x000000
+---
+・Thank you for your tireless contributions to development.
+・We present to you this Developer's Certificate card.
+
+---
+label: Card
+attribute: 0x000000
+---
+Card
+
+---
+label: Blueprint
+attribute: 0x000000
+---
+Blueprint
+
+---
+label: Piece
+attribute: 0x000000
+---
+Piece

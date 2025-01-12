@@ -1,0 +1,263 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 23
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideCursor-T_KeyText
+attribute: 0x000000
+---
+Move Cursor
+
+---
+label: L_KeyGuideDecide-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Close
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCursor-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideDecide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: Requirement
+attribute: 0x000000
+---
+Required
+
+---
+label: ItemName
+attribute: 0x000000
+---
+Product Name
+
+---
+label: Cost
+attribute: 0x000000
+---
+Price
+
+---
+label: L_MyBalance-T_Title
+attribute: 0x000000
+---
+Balance
+
+---
+label: StructureLevel
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Lv. {{101:0 arg="0x0003000100CD"}}
+
+---
+label: CultureLevel
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Lv. {{101:0 arg="0x0003000100CD"}}
+
+---
+label: Price
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: CardNumber
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: Lock_Structure
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Lock_Culture
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Condition_LackOfStructureLevel
+attribute: 0x000000
+---
+・Insufficient {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level.
+
+---
+label: Condition_LackOfCultureLevel
+attribute: 0x000000
+---
+・Insufficient {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level.
+
+---
+label: Condition_NeedUGCLicense
+attribute: 0x000000
+---
+・A UGC License is required.
+
+---
+label: Condition_LimitOfPurchasableNum
+attribute: 0x000000
+---
+・You have reached the limit of this item.
+
+---
+label: L_ListDetail-L_KeyGuideDetail-T_KeyText
+attribute: 0x000000
+---
+View the contents.
+
+---
+label: L_KeyGuideVcShop-T_KeyText
+attribute: 0x000000
+---
+ TEST CREDIT Shop
+
+---
+label: L_KeyGuideRecover-T_KeyText
+attribute: 0x000000
+---
+Recovery
+
+---
+label: L_SetItemWdw-L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Back
+
+---
+label: L_SetItemWdw-L_Btn00-L_KeyGuideDetail-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_Btn-L_KeyGuideDetail-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_SetItemWdw-L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideRecover-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideVcShop-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: Teleport_Planet_Title
+attribute: 0x000000
+---
+Develop  Planet
+
+---
+label: Teleport_Planet_Content
+attribute: 0x000000
+---
+Move to Planetary Block [{{101:0 arg="0x0104010100CD"}}, {{101:0 arg="0x0104020100CD"}}]
+
+---
+label: CurrentPlayerNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_Btn-L_PlayerNum-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: MaxPlayerNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: Teleport_Satellite_Future_Title
+attribute: 0x000000
+---
+ Future Moons {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Cannot enter until the time comes.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Teleport_Satellite_Current_Title
+attribute: 0x000000
+---
+ Current Moons {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Can currently enter. Be aware of remaining time.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Teleport_Satellite_Past_Title
+attribute: 0x000000
+---
+ Past Moons {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}The time is expired. Cannot enter anymore.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Teleport_Stage_Title
+attribute: 0x000000
+---
+Gateway of Darkness {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Clear to purify this area.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: L_KeyGuideWatch-T_KeyText
+attribute: 0x000000
+---
+Spectate
+
+---
+label: L_SetItemWdw-L_Btn00-L_PlayerNum-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: L_ListDetail-L_KeyGuideDetail-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideWatch-T_KeyGuide
+attribute: 0x000000
+---
+

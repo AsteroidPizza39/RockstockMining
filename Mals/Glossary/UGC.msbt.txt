@@ -1,0 +1,629 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 53
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Ugc_Deco
+attribute: 0x000000
+---
+Deco
+
+---
+label: Ugc_Deco_Preset
+attribute: 0x000000
+---
+Deco Starter
+
+---
+label: Ugc_Image
+attribute: 0x000000
+---
+Image Signboard
+
+---
+label: Ugc_Text
+attribute: 0x000000
+---
+Text Signboard
+
+---
+label: Ugc__DecoLv1_Preset01
+attribute: 0x000000
+---
+Top Hat
+
+---
+label: Ugc__DecoLv1_Preset02
+attribute: 0x000000
+---
+Nose and Beard
+
+---
+label: Ugc__DecoLv1_Preset03
+attribute: 0x000000
+---
+Eyes
+
+---
+label: Ugc__DecoLv1_Preset04
+attribute: 0x000000
+---
+Side-Part Hairstyle
+
+---
+label: Ugc__DecoLv1_Preset05
+attribute: 0x000000
+---
+Topknot Hairstyle
+
+---
+label: Ugc__DecoLv1_Preset06
+attribute: 0x000000
+---
+Sparkles
+
+---
+label: Ugc__DecoLv1_Preset07
+attribute: 0x000000
+---
+Island-Head Mask
+
+---
+label: Ugc__DecoLv1_Preset08
+attribute: 0x000000
+---
+Woohoo
+
+---
+label: Ugc__DecoLv1_Preset09
+attribute: 0x000000
+---
+Fake Eyelashes
+
+---
+label: Ugc__DecoLv1_Preset10
+attribute: 0x000000
+---
+Oooops
+
+---
+label: Ugc__DecoLv1_Preset11
+attribute: 0x000000
+---
+Nose
+
+---
+label: Ugc__DecoLv1_Preset12
+attribute: 0x000000
+---
+Fanged Red Lips
+
+---
+label: Ugc__DecoLv1_Preset13
+attribute: 0x000000
+---
+Unibrow
+
+---
+label: Ugc__DecoLv1_Preset14
+attribute: 0x000000
+---
+Smile
+
+---
+label: Ugc__DecoLv1_Preset15
+attribute: 0x000000
+---
+Spiky Punk Hair
+
+---
+label: Ugc__DecoLv1_Preset16
+attribute: 0x000000
+---
+Light Bulb
+
+---
+label: Ugc__DecoLv1_Preset17
+attribute: 0x000000
+---
+Surprise
+
+---
+label: Ugc__DecoLv1_Preset18
+attribute: 0x000000
+---
+Beret
+
+---
+label: Ugc__DecoLv1_Preset19
+attribute: 0x000000
+---
+Scuba Diving Mask
+
+---
+label: Ugc__DecoLv1_Preset20
+attribute: 0x000000
+---
+Party Hat
+
+---
+label: Ugc__DecoLv1_Preset21
+attribute: 0x000000
+---
+Glasses
+
+---
+label: Ugc__DecoLv1_Preset22
+attribute: 0x000000
+---
+Horns
+
+---
+label: Ugc__DecoLv1_Preset23
+attribute: 0x000000
+---
+Medical Mask
+
+---
+label: Ugc__DecoLv1_Preset24
+attribute: 0x000000
+---
+Animal Mouth
+
+---
+label: Ugc__DecoLv1_Preset25
+attribute: 0x000000
+---
+Bowl-Cut Hairstyle
+
+---
+label: Ugc__DecoLv1_Preset26
+attribute: 0x000000
+---
+Mystic Circlet
+
+---
+label: Ugc__DecoLv1_Preset27
+attribute: 0x000000
+---
+Bow Tie
+
+---
+label: Ugc__DecoLv1_Preset28
+attribute: 0x000000
+---
+Elephant Disguise
+
+---
+label: Ugc__DecoLv1_Preset29
+attribute: 0x000000
+---
+Earrings
+
+---
+label: Ugc__DecoLv1_Preset30
+attribute: 0x000000
+---
+Rabbit Ears
+
+---
+label: Ugc__DecoLv1_Preset31
+attribute: 0x000000
+---
+Head Lamp
+
+---
+label: Ugc__DecoLv1_Preset32
+attribute: 0x000000
+---
+Buns Hairstyle
+
+---
+label: Ugc__DecoLv1_Preset33
+attribute: 0x000000
+---
+Grass Straw
+
+---
+label: Ugc__DecoLv2_Preset01
+attribute: 0x000000
+---
+Disco Ball
+
+---
+label: Ugc__DecoLv2_Preset02
+attribute: 0x000000
+---
+Headphones
+
+---
+label: Ugc__DecoLv2_Preset03
+attribute: 0x000000
+---
+Champion Belt
+
+---
+label: Ugc__DecoLv2_Preset04
+attribute: 0x000000
+---
+Duck Hat
+
+---
+label: Ugc__DecoLv2_Preset05
+attribute: 0x000000
+---
+Cyclops
+
+---
+label: Ugc__DecoLv2_Preset06
+attribute: 0x000000
+---
+Angel Wings
+
+---
+label: Ugc__DecoLv2_Preset07
+attribute: 0x000000
+---
+Skull
+
+---
+label: Ugc__DecoLv2_Preset08
+attribute: 0x000000
+---
+Bolt
+
+---
+label: Ugc__DecoLv2_Preset09
+attribute: 0x000000
+---
+Samurai Helmet
+
+---
+label: Ugc__DecoLv2_Preset10
+attribute: 0x000000
+---
+Apple
+
+---
+label: Ugc__DecoLv2_Preset11
+attribute: 0x000000
+---
+Cap
+
+---
+label: Ugc__DecoLv2_Preset12
+attribute: 0x000000
+---
+Messenger Bag
+
+---
+label: Ugc__DecoLv2_Preset13
+attribute: 0x000000
+---
+Hot Dog
+
+---
+label: Ugc__DecoLv2_Preset14
+attribute: 0x000000
+---
+Elegant
+
+---
+label: Ugc__DecoLv2_Preset15
+attribute: 0x000000
+---
+Dress
+
+---
+label: Ugc__DecoLv2_Preset16
+attribute: 0x000000
+---
+Bird Clock
+
+---
+label: Ugc__DecoLv2_Preset17
+attribute: 0x000000
+---
+Photographer
+
+---
+label: Ugc__DecoLv2_Preset18
+attribute: 0x000000
+---
+Shoulder Parrot
+
+---
+label: Ugc__DecoLv2_Preset19
+attribute: 0x000000
+---
+Dog Disguise
+
+---
+label: Ugc__DecoLv2_Preset20
+attribute: 0x000000
+---
+Sleepy Eyes
+
+---
+label: Ugc__DecoLv2_Preset21
+attribute: 0x000000
+---
+Acoustic Guitar
+
+---
+label: Ugc__DecoLv2_Preset22
+attribute: 0x000000
+---
+School Bag
+
+---
+label: Ugc__DecoLv2_Preset23
+attribute: 0x000000
+---
+Carrying Pole
+
+---
+label: Ugc__DecoLv2_Preset24
+attribute: 0x000000
+---
+Red Riding Hood
+
+---
+label: Ugc__DecoLv2_Preset25
+attribute: 0x000000
+---
+Jomon Figurine
+
+---
+label: Ugc__DecoLv2_Preset26
+attribute: 0x000000
+---
+Flan
+
+---
+label: Ugc__DecoLv2_Preset27
+attribute: 0x000000
+---
+Tie
+
+---
+label: Ugc__DecoLv2_Preset28
+attribute: 0x000000
+---
+Carnival Mask
+
+---
+label: Ugc__DecoLv2_Preset29
+attribute: 0x000000
+---
+Medal
+
+---
+label: Ugc__DecoLv2_Preset30
+attribute: 0x000000
+---
+Jetpack
+
+---
+label: Ugc__DecoLv2_Preset31
+attribute: 0x000000
+---
+Wrestling Mask
+
+---
+label: Ugc__DecoLv2_Preset32
+attribute: 0x000000
+---
+Mushroom
+
+---
+label: Ugc__DecoLv2_Preset33
+attribute: 0x000000
+---
+Cape
+
+---
+label: Ugc__DecoLv3_Preset01
+attribute: 0x000000
+---
+Sumo Wrestler
+
+---
+label: Ugc__DecoLv3_Preset02
+attribute: 0x000000
+---
+Crocodile
+
+---
+label: Ugc__DecoLv3_Preset03
+attribute: 0x000000
+---
+Archer
+
+---
+label: Ugc__DecoLv3_Preset04
+attribute: 0x000000
+---
+Warrior
+
+---
+label: Ugc__DecoLv3_Preset05
+attribute: 0x000000
+---
+Sauna
+
+---
+label: Ugc__DecoLv3_Preset06
+attribute: 0x000000
+---
+Outlaw
+
+---
+label: Ugc__DecoLv3_Preset07
+attribute: 0x000000
+---
+Centaur
+
+---
+label: Ugc__DecoLv3_Preset08
+attribute: 0x000000
+---
+Butterfly
+
+---
+label: Ugc__DecoLv3_Preset09
+attribute: 0x000000
+---
+Cartoon Meat
+
+---
+label: Ugc__DecoLv3_Preset10
+attribute: 0x000000
+---
+Muscles
+
+---
+label: Ugc__DecoLv3_Preset11
+attribute: 0x000000
+---
+Mummy
+
+---
+label: Ugc__DecoLv3_Preset12
+attribute: 0x000000
+---
+Power Suit
+
+---
+label: Ugc__DecoLv3_Preset13
+attribute: 0x000000
+---
+Bubble Body
+
+---
+label: Ugc__DecoLv3_Preset14
+attribute: 0x000000
+---
+Solar System
+
+---
+label: Ugc__DecoLv3_Preset15
+attribute: 0x000000
+---
+Tulip
+
+---
+label: Ugc__DecoLv3_Preset16
+attribute: 0x000000
+---
+Knight Armor
+
+---
+label: Ugc__DecoLv3_Preset17
+attribute: 0x000000
+---
+Sky Guardian
+
+---
+label: Ugc__DecoLv3_Preset18
+attribute: 0x000000
+---
+Drum
+
+---
+label: Ugc__DecoLv3_Preset19
+attribute: 0x000000
+---
+Football Player
+
+---
+label: Ugc__DecoLv3_Preset20
+attribute: 0x000000
+---
+Potty Time
+
+---
+label: Ugc__DecoLv3_Preset21
+attribute: 0x000000
+---
+Ninja
+
+---
+label: Ugc__DecoLv3_Preset22
+attribute: 0x000000
+---
+Rave Ready
+
+---
+label: Ugc__DecoLv3_Preset23
+attribute: 0x000000
+---
+Ice-Cream Cone
+
+---
+label: Ugc__DecoLv3_Preset24
+attribute: 0x000000
+---
+Bird Wings
+
+---
+label: Ugc__DecoLv3_Preset25
+attribute: 0x000000
+---
+Crown
+
+---
+label: Ugc__DecoLv3_Preset26
+attribute: 0x000000
+---
+Cheeseburger
+
+---
+label: Ugc__DecoLv3_Preset27
+attribute: 0x000000
+---
+Filth Fighter
+
+---
+label: Ugc__DecoLv3_Preset28
+attribute: 0x000000
+---
+Staff ID
+
+---
+label: Ugc__DecoLv3_Preset29
+attribute: 0x000000
+---
+Nomad Traveler
+
+---
+label: Ugc__DecoLv3_Preset30
+attribute: 0x000000
+---
+Police Car
+
+---
+label: Ugc__DecoLv3_Preset31
+attribute: 0x000000
+---
+Boxer
+
+---
+label: Ugc__DecoLv3_Preset32
+attribute: 0x000000
+---
+Robot
+
+---
+label: Ugc__DecoLv3_Preset33
+attribute: 0x000000
+---
+Sunday Best

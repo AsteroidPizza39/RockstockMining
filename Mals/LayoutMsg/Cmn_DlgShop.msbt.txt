@@ -1,0 +1,71 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideCursor-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCursor-T_KeyText
+attribute: 0x000000
+---
+Move Cursor
+
+---
+label: L_KeyGuideDecide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideDecide-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: Header
+attribute: 0x000000
+---
+Cannot Acquire
+
+---
+label: Condition_LackOfStructureLevel
+attribute: 0x000000
+---
+・Insufficient {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level.
+
+---
+label: Condition_LackOfCultureLevel
+attribute: 0x000000
+---
+・Insufficient {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Level.
+
+---
+label: Condition_LimitOfPurchasableNum
+attribute: 0x000000
+---
+・Maximum number already acquired.
+
+---
+label: Condition_LackOfRequirement
+attribute: 0x000000
+---
+・Insufficient resources.
+
+---
+label: Accept
+attribute: 0x000000
+---
+OK

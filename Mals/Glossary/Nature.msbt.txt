@@ -1,0 +1,221 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 19
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Group_Sand
+attribute: 0x000000
+---
+Sand
+
+---
+label: Group_Soil
+attribute: 0x000000
+---
+Soil
+
+---
+label: Group_Rock
+attribute: 0x000000
+---
+Rock
+
+---
+label: Group_Metal
+attribute: 0x000000
+---
+Metal
+
+---
+label: Group_Gem
+attribute: 0x000000
+---
+Jewel
+
+---
+label: Group_Tree
+attribute: 0x000000
+---
+Tree
+
+---
+label: Group_Glass
+attribute: 0x000000
+---
+Glass
+
+---
+label: Bud
+attribute: 0x000000
+---
+Sprout
+
+---
+label: Seed
+attribute: 0x000000
+---
+Seed
+
+---
+label: Wood
+attribute: 0x000000
+---
+Wood
+
+---
+label: WoodTrunkLv0
+attribute: 0x000000
+---
+Dead Wood
+
+---
+label: WoodTrunkLv1
+attribute: 0x000000
+---
+Tree Trunk
+
+---
+label: WoodLeafLv1
+attribute: 0x000000
+---
+Tree Leaf
+
+---
+label: Grass
+attribute: 0x000000
+---
+Grass
+
+---
+label: Charcoal
+attribute: 0x000000
+---
+Charcoal
+
+---
+label: Sand
+attribute: 0x000000
+---
+Sand
+
+---
+label: Soil
+attribute: 0x000000
+---
+Soil
+
+---
+label: SoilClay
+attribute: 0x000000
+---
+Clay
+
+---
+label: SoilFarm
+attribute: 0x000000
+---
+Field Soil
+
+---
+label: RockNone
+attribute: 0x000000
+---
+Junk Stone
+
+---
+label: Ore
+attribute: 0x000000
+---
+Ore
+
+---
+label: GemRough
+attribute: 0x000000
+---
+Raw Ore
+
+---
+label: Stone
+attribute: 0x000000
+---
+Stone
+
+---
+label: Copper
+attribute: 0x000000
+---
+Copper
+
+---
+label: Iron
+attribute: 0x000000
+---
+Iron
+
+---
+label: Silver
+attribute: 0x000000
+---
+Silver
+
+---
+label: Gold
+attribute: 0x000000
+---
+Gold
+
+---
+label: Glass
+attribute: 0x000000
+---
+Glass
+
+---
+label: Diamond
+attribute: 0x000000
+---
+Diamond
+
+---
+label: Ruby
+attribute: 0x000000
+---
+Ruby
+
+---
+label: Emerald
+attribute: 0x000000
+---
+Emerald
+
+---
+label: Sapphire
+attribute: 0x000000
+---
+Sapphire
+
+---
+label: Float
+attribute: 0x000000
+---
+Float Stone
+
+---
+label: Light
+attribute: 0x000000
+---
+Shine Stone
+
+---
+label: Health
+attribute: 0x000000
+---
+Life Stone

@@ -1,0 +1,107 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Instrument
+attribute: 0x000000
+---
+Musical Instrument
+
+---
+label: Piano
+attribute: 0x000000
+---
+Piano
+
+---
+label: Bell
+attribute: 0x000000
+---
+Bell
+
+---
+label: Marimba
+attribute: 0x000000
+---
+Marimba
+
+---
+label: ElectricBass
+attribute: 0x000000
+---
+Bass
+
+---
+label: Trumpet
+attribute: 0x000000
+---
+Trumpet
+
+---
+label: Square Wave
+attribute: 0x000000
+---
+8-Bit
+
+---
+label: Voice
+attribute: 0x000000
+---
+Voice
+
+---
+label: Strings
+attribute: 0x000000
+---
+Strings
+
+---
+label: Music_01
+attribute: 0x000000
+---
+Exciting
+
+---
+label: Music_02
+attribute: 0x000000
+---
+Stylish
+
+---
+label: Music_03
+attribute: 0x000000
+---
+Revved Up
+
+---
+label: Music_04
+attribute: 0x000000
+---
+Moving
+
+---
+label: Music_05
+attribute: 0x000000
+---
+Feeling Good
+
+---
+label: Music_06
+attribute: 0x000000
+---
+Chill
+
+---
+label: Music_07
+attribute: 0x000000
+---
+Mysterious

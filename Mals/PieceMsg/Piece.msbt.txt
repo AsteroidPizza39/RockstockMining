@@ -1,0 +1,8103 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: AntennaCenter_Name
+attribute: 0x000000
+---
+ Dev Core Beacon
+
+---
+label: AntennaCenter_Caption
+attribute: 0x000000
+---
+・The Beacon that watches over this
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+・It will illuminate the entire area once
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}development has been completed.
+
+---
+label: AntennaMain_Name
+attribute: 0x000000
+---
+ Beacon
+
+---
+label: AntennaMain_Caption
+attribute: 0x000000
+---
+・Integrity and daily progress are the keys
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}to successful development.
+・Place this higher to widen the Beacon Zone.
+・Lighting land earns you Dev Points.
+
+---
+label: AntennaPublic_Name
+attribute: 0x000000
+---
+ Unity Beacon
+
+---
+label: AntennaPublic_Caption
+attribute: 0x000000
+---
+・While developing, be considerate of others
+   to help each other grow and progress.
+・Place this higher to widen the Beacon Zone.
+・Lighting land earns you Dev Points.
+
+---
+label: AntennaSub_Name
+attribute: 0x000000
+---
+ Sub Beacon
+
+---
+label: AntennaSub_Caption
+attribute: 0x000000
+---
+・With your creative mind and a few helpful
+   tools, there's nothing you can't create.
+・Place this higher to widen the Beacon Zone.
+・Lighting land earns you Dev Points.
+
+---
+label: Ash_Name
+attribute: 0x000000
+---
+ Ash
+
+---
+label: Ash_Caption
+attribute: 0x000000
+---
+・Crafted with Swamp and Magma.
+・Produces Smoke when struck.
+・Smoke explodes when struck.
+
+---
+label: BlockRed_Name
+attribute: 0x000000
+---
+Color Piece
+
+---
+label: Blp_AntennaPublic_Name
+attribute: 0x000000
+---
+ Unity Beacon Trade Post
+
+---
+label: Blp_AntennaPublic_Caption
+attribute: 0x000000
+---
+・Creates a Unity Beacon card.
+・The area grows when placed up high.
+・Anyone can develop a Unity Beacon area.
+
+---
+label: Blp_Arrow_Name
+attribute: 0x000000
+---
+ Arrow
+
+---
+label: Blp_Arrow_Caption
+attribute: 0x000000
+---
+・Creates an Arrow.
+・Fires an Arrow in the direction you're aiming.
+・De-fuses Pieces.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: Blp_ArrowChargeLv10_Name
+attribute: 0x000000
+---
+ Charged Arrow
+
+---
+label: Blp_ArrowChargeLv10_Caption
+attribute: 0x000000
+---
+・Creates a Charged Arrow card.
+・Fires a powerful Arrow after holding down the button.
+・Piece Attack Power: 0.5 / Oot Attack Power: 10
+
+---
+label: Blp_ArrowChaseLv1_Name
+attribute: 0x000000
+---
+ Homing Arrow
+
+---
+label: Blp_ArrowChaseLv1_Caption
+attribute: 0x000000
+---
+・Creates a Homing Arrow card.
+・Fires an Arrow that homes in on an opponent.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: Blp_ArrowElec_Name
+attribute: 0x000000
+---
+ Lightning Arrow
+
+---
+label: Blp_ArrowElec_Caption
+attribute: 0x000000
+---
+・Creates a Lightning Arrow card.
+・Fires an electrified Arrow.
+・Electricity de-fuses Pieces.
+
+---
+label: Blp_ArrowExplode_Name
+attribute: 0x000000
+---
+ Explosive Arrow
+
+---
+label: Blp_ArrowExplode_Caption
+attribute: 0x000000
+---
+・Creates an Explosive Arrow card.
+・Fires an Arrow that explodes.
+
+---
+label: Blp_ArrowRadialLv3_Name
+attribute: 0x000000
+---
+ Scatter Arrow
+
+---
+label: Blp_ArrowRadialLv3_Caption
+attribute: 0x000000
+---
+・Creates a Scatter Arrow card.
+・Fires three Arrows in a spread formation.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: Blp_ArrowReflectLv1_Name
+attribute: 0x000000
+---
+ Bouncing Arrow
+
+---
+label: Blp_ArrowReflectLv1_Caption
+attribute: 0x000000
+---
+[#設計図][#道具]矢：反射：Lv1 is ...
+
+---
+label: Blp_ArrowSerialLv3_Name
+attribute: 0x000000
+---
+ Repeating Arrow
+
+---
+label: Blp_ArrowSerialLv3_Caption
+attribute: 0x000000
+---
+・Creates a Repeating Arrow card.
+・Fires three Arrows in succession.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: Blp_Arrow_Swamp_Name
+attribute: 0x000000
+---
+[#設計図][#道具]矢：沼
+
+---
+label: Blp_Arrow_Swamp_Caption
+attribute: 0x000000
+---
+[#設計図][#道具]矢：沼 is ...
+
+---
+label: Blp_Cr_01_Name
+attribute: 0x000000
+---
+ Stoneworker, Basic
+
+---
+label: Blp_Cr_01_Caption
+attribute: 0x000000
+---
+・Creates a Stoneworker, Basic card.
+・Can change Soil and Rock patterns.
+
+---
+label: Blp_Cr_02_Name
+attribute: 0x000000
+---
+ Stoneworker, Brick
+
+---
+label: Blp_Cr_02_Caption
+attribute: 0x000000
+---
+・Creates a Stoneworker, Brick card.
+・Can change Soil and Rock patterns.
+
+---
+label: Blp_Cr_03_Name
+attribute: 0x000000
+---
+ Stoneworker, Ancient
+
+---
+label: Blp_Cr_03_Caption
+attribute: 0x000000
+---
+・Creates a Stoneworker, Ancient card.
+・Can change Soil and Rock patterns.
+
+---
+label: Blp_Cr_04_Name
+attribute: 0x000000
+---
+ Stoneworker, Modern
+
+---
+label: Blp_Cr_04_Caption
+attribute: 0x000000
+---
+・Creates a Stoneworker, Modern card.
+・Can change Soil and Rock patterns.
+
+---
+label: Blp_Cr_06_Name
+attribute: 0x000000
+---
+ Woodworker, Exterior
+
+---
+label: Blp_Cr_06_Caption
+attribute: 0x000000
+---
+・Creates a Woodworker, Exterior card.
+・Can change Wood patterns.
+
+---
+label: Blp_Cr_07_Name
+attribute: 0x000000
+---
+ Woodworker, Stylish
+
+---
+label: Blp_Cr_07_Caption
+attribute: 0x000000
+---
+・Creates a Woodworker, Stylish card.
+・Can change Wood patterns.
+
+---
+label: Blp_Cr_08_Name
+attribute: 0x000000
+---
+ Woodworker, Interior
+
+---
+label: Blp_Cr_08_Caption
+attribute: 0x000000
+---
+・Creates a Woodworker, Interior card.
+・Can change Wood patterns.
+
+---
+label: Blp_Cr_09_Name
+attribute: 0x000000
+---
+ Glazier, Window
+
+---
+label: Blp_Cr_09_Caption
+attribute: 0x000000
+---
+・Creates a Glazier, Window card.
+・Can change Glass patterns.
+
+---
+label: Blp_Cr_10_Name
+attribute: 0x000000
+---
+ Glazier, Decoration
+
+---
+label: Blp_Cr_10_Caption
+attribute: 0x000000
+---
+・Creates a Glazier, Decoration card.
+・Can change Glass patterns.
+
+---
+label: Blp_Cr_11_Name
+attribute: 0x000000
+---
+ Metalworker, Basic
+
+---
+label: Blp_Cr_11_Caption
+attribute: 0x000000
+---
+・Creates a Metalworker, Basic card.
+・Can change Metal patterns.
+
+---
+label: Blp_Cr_12_Name
+attribute: 0x000000
+---
+ Metalworker, Industrial
+
+---
+label: Blp_Cr_12_Caption
+attribute: 0x000000
+---
+・Creates a Metalworker, Industrial card.
+・Can change Metal patterns.
+
+---
+label: Blp_Cr_13_Name
+attribute: 0x000000
+---
+ Metalworker, Future
+
+---
+label: Blp_Cr_13_Caption
+attribute: 0x000000
+---
+・Creates a Metalworker, Future card.
+・Can change Metal patterns.
+
+---
+label: Blp_Cr_14_Name
+attribute: 0x000000
+---
+ Jewelcrafter, Basic
+
+---
+label: Blp_Cr_14_Caption
+attribute: 0x000000
+---
+・Creates a Jewelcrafter, Basic card.
+・Can change Jewel patterns.
+
+---
+label: Blp_Cr_15_Name
+attribute: 0x000000
+---
+ Fantasy Crafter
+
+---
+label: Blp_Cr_15_Caption
+attribute: 0x000000
+---
+・Creates a Fantasy Crafter card.
+・Can change a Piece's pattern.
+
+---
+label: Blp_Cr_16_Name
+attribute: 0x000000
+---
+ Sushi Chef
+
+---
+label: Blp_Cr_16_Caption
+attribute: 0x000000
+---
+・Creates a Sushi Chef card.
+・Can change a Piece's pattern.
+
+---
+label: Blp_Cr_17_Name
+attribute: 0x000000
+---
+ Confectioner
+
+---
+label: Blp_Cr_17_Caption
+attribute: 0x000000
+---
+・Creates a Confectioner card.
+・Can change a Piece's pattern.
+
+---
+label: Blp_Cr_18_Name
+attribute: 0x000000
+---
+ Fashion Designer
+
+---
+label: Blp_Cr_18_Caption
+attribute: 0x000000
+---
+・Creates a Fashion Designer card.
+・Can change a Piece's pattern.
+
+---
+label: Blp_Cr_19_Name
+attribute: 0x000000
+---
+ Cake Maker
+
+---
+label: Blp_Cr_19_Caption
+attribute: 0x000000
+---
+・Creates a Cake Maker card.
+・Can change a Piece's pattern.
+
+---
+label: Blp_Cr_20_Name
+attribute: 0x000000
+---
+ Dev-Core Crafter
+
+---
+label: Blp_Cr_20_Caption
+attribute: 0x000000
+---
+・Creates a Dev-Core Crafter card.
+・Can change a Piece's pattern.
+
+---
+label: Blp_Cr_Color_01_Name
+attribute: 0x000000
+---
+ Painter
+
+---
+label: Blp_Cr_Color_01_Caption
+attribute: 0x000000
+---
+・Creates a Painter card.
+・Can change a Piece's color.
+
+---
+label: Blp_HammerLv1_Name
+attribute: 0x000000
+---
+ Hammer
+
+---
+label: Blp_HammerLv1_Caption
+attribute: 0x000000
+---
+・Creates a Hammer card.
+・Strikes the ground to create an opening.
+
+---
+label: Blp_HoeLv1_Name
+attribute: 0x000000
+---
+ Garden Hoe
+
+---
+label: Blp_HoeLv1_Caption
+attribute: 0x000000
+---
+・Creates a Garden Hoe card.
+・Changes Soil to Field Soil.
+・Field Soil accelerates the growth of Seeds.
+
+---
+label: Blp_Mech_Bike_Name
+attribute: 0x000000
+---
+ Motorcycle
+
+---
+label: Blp_Mech_Boat_Name
+attribute: 0x000000
+---
+ Boat
+
+---
+label: Blp_Mech_Connect_Name
+attribute: 0x000000
+---
+ Fuser
+
+---
+label: Blp_Mech_Connect_Caption
+attribute: 0x000000
+---
+・Creates a Fuser card.
+・Fuses Pieces into a single straight line.
+
+---
+label: Blp_Mech_ConnectSlide_Name
+attribute: 0x000000
+---
+ Steam Iron
+
+---
+label: Blp_Mech_ConnectSlide_Caption
+attribute: 0x000000
+---
+・Creates a Steam Iron card.
+・Hold the assigned button to fuse the Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}directly underneath you.
+
+---
+label: Blp_Mech_CraneLv1_Name
+attribute: 0x000000
+---
+ Crane (Lv. 1)
+
+---
+label: Blp_Mech_CraneLv1_Caption
+attribute: 0x000000
+---
+・Creates a Crane (Lv. 1) card.
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: Blp_Mech_CraneLv2_Name
+attribute: 0x000000
+---
+ Crane (Lv. 2)
+
+---
+label: Blp_Mech_CraneLv2_Caption
+attribute: 0x000000
+---
+・Creates a Crane (Lv. 2) card.
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: Blp_Mech_CraneLv3_Name
+attribute: 0x000000
+---
+ Crane (Lv. 3)
+
+---
+label: Blp_Mech_CraneLv3_Caption
+attribute: 0x000000
+---
+・Creates a Crane (Lv. 3) card.
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: Blp_Mech_CraneLv4_Name
+attribute: 0x000000
+---
+ Crane (Lv. 4)
+
+---
+label: Blp_Mech_CraneLv4_Caption
+attribute: 0x000000
+---
+・Creates a Crane (Lv. 4) card.
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: Blp_Mech_Destroy_Name
+attribute: 0x000000
+---
+ Breaker
+
+---
+label: Blp_Mech_Disconnect_Name
+attribute: 0x000000
+---
+ De-Fuser
+
+---
+label: Blp_Mech_Disconnect_Caption
+attribute: 0x000000
+---
+・Creates a De-Fuser card.
+・De-fuses fused Pieces.
+
+---
+label: Blp_Mech_Elevate_Name
+attribute: 0x000000
+---
+ Elevator
+
+---
+label: Blp_Mech_Elevate_Caption
+attribute: 0x000000
+---
+・Creates an Elevator card.
+・Ascends walls.
+
+---
+label: Blp_Mech_Lift_Name
+attribute: 0x000000
+---
+ Forklift
+
+---
+label: Blp_Mech_Lift_Caption
+attribute: 0x000000
+---
+・Creates a Forklift card.
+・Hold assigned button to grab multiple Pieces.
+・Place multiple Pieces all at once.
+
+---
+label: Blp_Mech_Plane_Name
+attribute: 0x000000
+---
+ Airplane
+
+---
+label: Blp_Mech_Plane_Caption
+attribute: 0x000000
+---
+・Creates an Airplane card.
+・Flies through the sky while carrying Pieces.
+・Costs energy when used outside Beacon Zones.
+
+---
+label: Blp_Mech_Throw_Name
+attribute: 0x000000
+---
+ Hurler
+
+---
+label: Blp_Mech_Throw_Caption
+attribute: 0x000000
+---
+・Creates a Hurler card.
+・Throws Pieces far away.
+
+---
+label: Blp_PickaxeLv1_Name
+attribute: 0x000000
+---
+ Pickaxe (Lv. 1)
+
+---
+label: Blp_PickaxeLv1_Caption
+attribute: 0x000000
+---
+・Creates a Pickaxe (Lv. 1) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 1 / Oot Attack Power: 0.5
+
+---
+label: Blp_PickaxeLv2_Name
+attribute: 0x000000
+---
+ Pickaxe (Lv. 2)
+
+---
+label: Blp_PickaxeLv2_Caption
+attribute: 0x000000
+---
+・Creates a Pickaxe (Lv. 2) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 2 / Oot Attack Power: 0.5
+
+---
+label: Blp_PickaxeLv3_Name
+attribute: 0x000000
+---
+ Pickaxe (Lv. 3)
+
+---
+label: Blp_PickaxeLv3_Caption
+attribute: 0x000000
+---
+・Creates a Pickaxe (Lv. 3) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 3 / Oot Attack Power: 0.5
+
+---
+label: Blp_PickaxeLv4_Name
+attribute: 0x000000
+---
+ Pickaxe (Lv. 4)
+
+---
+label: Blp_PickaxeLv4_Caption
+attribute: 0x000000
+---
+・Creates a Pickaxe (Lv. 4) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 4 / Oot Attack Power: 0.5
+
+---
+label: Blp_PickaxeLv5_Name
+attribute: 0x000000
+---
+ Pickaxe (Lv. 5)
+
+---
+label: Blp_PickaxeLv5_Caption
+attribute: 0x000000
+---
+・Creates a Pickaxe (Lv. 5) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 5 / Oot Attack Power: 0.5
+
+---
+label: Blp_Pl_Dash_Name
+attribute: 0x000000
+---
+ Dashing Boots
+
+---
+label: Blp_Pl_Dash_Caption
+attribute: 0x000000
+---
+・Creates a Dashing Boots card.
+・Hold the assigned button to move faster.
+
+---
+label: Blp_Pl_JumpLv1_Name
+attribute: 0x000000
+---
+ Jumping Boots
+
+---
+label: Blp_Pl_JumpLv1_Caption
+attribute: 0x000000
+---
+・Creates a Jumping Boots card.
+・Press the assigned button to jump six meters.
+
+---
+label: Blp_Pl_Light_Name
+attribute: 0x000000
+---
+ Lantern
+
+---
+label: Blp_Pl_Light_Caption
+attribute: 0x000000
+---
+・Creates a Lantern card.
+・Hold the assigned button to light your surroundings.
+・Even undeveloped land will become visible.
+
+---
+label: Blp_Pl_Rise_Name
+attribute: 0x000000
+---
+ Rocket Boots
+
+---
+label: Blp_Pl_Rise_Caption
+attribute: 0x000000
+---
+・Creates a Rocket Boots card.
+・Hold the assigned button to ascend.
+
+---
+label: Blp_Pl_Shield_Name
+attribute: 0x000000
+---
+ Barrier
+
+---
+label: Blp_Pl_Shield_Caption
+attribute: 0x000000
+---
+・Makes a Barrier card.
+・Hold down the assigned button to keep
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}your Life from depleting.
+
+---
+label: Blp_RoadPrivate_StartSet_Name
+attribute: 0x000000
+---
+ Road
+
+---
+label: Blp_RoadPrivate_StartSet_Caption
+attribute: 0x000000
+---
+・Place Rock or Metal next to this Piece to
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}extend the road.
+・Movement speed is increased when on a road.
+・Roads can only be extended horizontally.
+
+---
+label: Blp_Sound_RadioCmn_Name
+attribute: 0x000000
+---
+ Developer's Radio
+
+---
+label: Blp_Sound_RadioCmn_Caption
+attribute: 0x000000
+---
+・Makes a Developer's Radio card.
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: Blp_SwordLv1_Name
+attribute: 0x000000
+---
+ Sword (Lv. 1)
+
+---
+label: Blp_SwordLv1_Caption
+attribute: 0x000000
+---
+・Creates a Sword (Lv. 1) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 1
+
+---
+label: Blp_SwordLv2_Name
+attribute: 0x000000
+---
+ Sword (Lv. 2)
+
+---
+label: Blp_SwordLv2_Caption
+attribute: 0x000000
+---
+・Creates a Sword (Lv. 2) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 2
+
+---
+label: Blp_SwordLv3_Name
+attribute: 0x000000
+---
+ Sword (Lv. 3)
+
+---
+label: Blp_SwordLv3_Caption
+attribute: 0x000000
+---
+・Creates a Sword (Lv. 3) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 3
+
+---
+label: Blp_SwordLv4_Name
+attribute: 0x000000
+---
+ Sword (Lv. 4)
+
+---
+label: Blp_SwordLv4_Caption
+attribute: 0x000000
+---
+・Creates a Sword (Lv. 4) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 4
+
+---
+label: Blp_SwordLv5_Name
+attribute: 0x000000
+---
+ Sword (Lv. 5)
+
+---
+label: Blp_SwordLv5_Caption
+attribute: 0x000000
+---
+・Creates a Sword (Lv. 5) card.
+・Strikes Pieces or Oots.
+・Piece Attack Power: 0.5 / Oot Attack Power: 5
+
+---
+label: Blp_Tool_Conveyor_Start_Name
+attribute: 0x000000
+---
+ [Prototype] Conveyor
+
+---
+label: Blp_Tool_Conveyor_Start_Caption
+attribute: 0x000000
+---
+・Makes a [Prototype] Conveyor card.
+・Place metal in front of the arrow to turn it into
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}a Conveyor.
+・Conveyors move Pieces placed on top of them.
+
+---
+label: Blp_Tool_TrashCan_Name
+attribute: 0x000000
+---
+ [Prototype] Trash Can
+
+---
+label: Blp_Tool_TrashCan_Caption
+attribute: 0x000000
+---
+・Makes a [Prototype] Trash Can card.
+・Putting Pieces in will throw them away.
+
+---
+label: BodyTex_Str_00_Name
+attribute: 0x000000
+---
+ Cave Dweller Clothes
+
+---
+label: BodyTex_Str_00_Caption
+attribute: 0x000000
+---
+・Primitive clothes provided to you at the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}start of your journey.
+
+---
+label: BodyTex_Str_01_Name
+attribute: 0x000000
+---
+ Ancient Uniform
+
+---
+label: BodyTex_Str_01_Caption
+attribute: 0x000000
+---
+・Remember, developers: safety first!
+
+---
+label: BodyTex_Str_02_Name
+attribute: 0x000000
+---
+ Crafts Uniform
+
+---
+label: BodyTex_Str_03_Name
+attribute: 0x000000
+---
+ Exercise Uniform
+
+---
+label: BodyTex_Str_04_Name
+attribute: 0x000000
+---
+ City Uniform
+
+---
+label: BodyTex_Str_05_Name
+attribute: 0x000000
+---
+ Farmer Uniform
+
+---
+label: BodyTex_Str_06_Name
+attribute: 0x000000
+---
+ Factory Uniform
+
+---
+label: BodyTex_Str_07_Name
+attribute: 0x000000
+---
+ Space Uniform
+
+---
+label: BodyTex_Str_08_Name
+attribute: 0x000000
+---
+ Machine Uniform
+
+---
+label: BodyTex_Str_09_Name
+attribute: 0x000000
+---
+ Future Uniform
+
+---
+label: BodyTex_Str_10_Name
+attribute: 0x000000
+---
+ Shining Uniform
+
+---
+label: BoxCargoLv1_Name
+attribute: 0x000000
+---
+Cargo (Lv. 1)
+
+---
+label: BoxCargoLv1_Caption
+attribute: 0x000000
+---
+・There's something inside.
+
+---
+label: BoxCargoLv2_Name
+attribute: 0x000000
+---
+Cargo (Lv. 2)
+
+---
+label: BoxCargoLv3_Name
+attribute: 0x000000
+---
+Cargo (Lv. 3)
+
+---
+label: BoxCargoLv4_Name
+attribute: 0x000000
+---
+Cargo (Lv. 4)
+
+---
+label: BoxCargoLv5_Name
+attribute: 0x000000
+---
+Cargo (Lv. 5)
+
+---
+label: BoxElec_Name
+attribute: 0x000000
+---
+ Battery
+
+---
+label: BoxElec_Caption
+attribute: 0x000000
+---
+・Generates Electricity when struck.
+・Electricity de-fuses Pieces.
+
+---
+label: BoxExplodeLv1_Name
+attribute: 0x000000
+---
+ Bomb (Lv. 1)
+
+---
+label: BoxExplodeLv1_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+
+---
+label: BoxExplodeLv1Wait_Name
+attribute: 0x000000
+---
+ Bomb is arming...
+
+---
+label: BoxExplodeLv1Wait_Caption
+attribute: 0x000000
+---
+Brace yourself!
+
+---
+label: BoxExplodeLv2_Name
+attribute: 0x000000
+---
+ Bomb (Lv. 2)
+
+---
+label: BoxExplodeLv2_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+
+---
+label: BoxExplodeLv2Wait_Name
+attribute: 0x000000
+---
+ Bomb is arming...
+
+---
+label: BoxExplodeLv2Wait_Caption
+attribute: 0x000000
+---
+Brace yourself!
+
+---
+label: BoxExplodeLv3_Name
+attribute: 0x000000
+---
+ Bomb (Lv. 3)
+
+---
+label: BoxExplodeLv3_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+
+---
+label: BoxExplodeLv3Wait_Name
+attribute: 0x000000
+---
+ Bomb is arming...
+
+---
+label: BoxExplodeLv3Wait_Caption
+attribute: 0x000000
+---
+Brace yourself!
+
+---
+label: BoxExplodeLv4_Name
+attribute: 0x000000
+---
+ Bomb (Lv. 4)
+
+---
+label: BoxExplodeLv4_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+
+---
+label: BoxExplodeLv4Wait_Name
+attribute: 0x000000
+---
+ Bomb is arming...
+
+---
+label: BoxExplodeLv4Wait_Caption
+attribute: 0x000000
+---
+Brace yourself!
+
+---
+label: BoxExplodeLv5_Name
+attribute: 0x000000
+---
+ Bomb (Lv. 5)
+
+---
+label: BoxExplodeLv5_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+
+---
+label: BoxExplodeLv5Wait_Name
+attribute: 0x000000
+---
+ Bomb is arming...
+
+---
+label: BoxExplodeLv5Wait_Caption
+attribute: 0x000000
+---
+Brace yourself!
+
+---
+label: BoxFrontierLv1_Name
+attribute: 0x000000
+---
+Developer's Certificate (Lv. 1)
+
+---
+label: BoxFrontierLv1_Caption
+attribute: 0x000000
+---
+・To celebrate your dedication to progress,
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}we award you this Developer's Certificate.
+・Inside is your Developer's Certificate card.
+
+---
+label: BoxFrontierLv2_Name
+attribute: 0x000000
+---
+Developer's Certificate (Lv. 2)
+
+---
+label: BoxFrontierLv3_Name
+attribute: 0x000000
+---
+Developer's Certificate (Lv. 3)
+
+---
+label: BoxFrontierLv4_Name
+attribute: 0x000000
+---
+Developer's Certificate (Lv. 4)
+
+---
+label: BoxFrontierLv5_Name
+attribute: 0x000000
+---
+Developer's Certificate (Lv. 5)
+
+---
+label: BudWait_Caption
+attribute: 0x000000
+---
+・When broken, the size and type are revealed.
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_01_Name
+attribute: 0x000000
+---
+ Sprout
+
+---
+label: Bud_Large_01_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: A
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_02_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: B
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_03_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: C
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_04_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: D
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_05_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: E
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_06_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: F
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_07_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: G
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Large_08_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Large, Type: H
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_01_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: A
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_02_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: B
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_03_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: C
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_04_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: D
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_05_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: E
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_06_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: F
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_07_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: G
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Medium_08_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Medium, Type: H
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_01_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: A
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_02_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: B
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_03_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: C
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_04_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: D
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_05_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: E
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_06_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: F
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_07_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: G
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Bud_Small_08_Caption
+attribute: 0x000000
+---
+・Changes to a Tree in Water.
+・Size: Small, Type: H
+・Sprout types differ depending on the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Planetary Block.
+
+---
+label: Charcoal_Name
+attribute: 0x000000
+---
+ Charcoal
+
+---
+label: Charcoal_Caption
+attribute: 0x000000
+---
+・When broken, a  Charcoal card appears.
+・Crafted with Wood and Magma.
+・Nearby Charcoal also breaks when struck.
+
+---
+label: CharcoalDamage_Name
+attribute: 0x000000
+---
+ Charcoal
+
+---
+label: CharcoalDamage_Caption
+attribute: 0x000000
+---
+・When broken, a  Charcoal card appears.
+・Crafted with Wood and Magma.
+・When struck, nearby Charcoal also breaks.
+
+---
+label: Cloud_Name
+attribute: 0x000000
+---
+ Cloud
+
+---
+label: Cloud_Caption
+attribute: 0x000000
+---
+・Crafted with Smoke and Frost.
+・Floats in the air.
+・Electricity is produced when struck.
+
+---
+label: CmnIce_Name
+attribute: 0x000000
+---
+ Ice
+
+---
+label: CmnIce_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: CmnLock_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} Locked
+
+---
+label: CmnLock_Caption
+attribute: 0x000000
+---
+・Locked.
+・Can only be unlocked by the Creator.
+
+---
+label: Cold_Name
+attribute: 0x000000
+---
+ Frost
+
+---
+label: Cold_Caption
+attribute: 0x000000
+---
+・Changes Water to Ice.
+・Changes Magma to Soil.
+・Changes Smoke to Clouds.
+
+---
+label: Cr_01_Name
+attribute: 0x000000
+---
+ Stoneworker, Basic
+
+---
+label: Cr_01_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Soil and Rock patterns.
+
+---
+label: Cr_02_Name
+attribute: 0x000000
+---
+ Stoneworker, Brick
+
+---
+label: Cr_02_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Soil and Rock patterns.
+
+---
+label: Cr_03_Name
+attribute: 0x000000
+---
+ Stoneworker, Ancient
+
+---
+label: Cr_03_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Soil and Rock patterns.
+
+---
+label: Cr_04_Name
+attribute: 0x000000
+---
+ Stoneworker, Modern
+
+---
+label: Cr_04_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Soil and Rock patterns.
+
+---
+label: Cr_05_Name
+attribute: 0x000000
+---
+[Scheduled for sorting] Stoneworker
+
+---
+label: Cr_05_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Soil and Rock patterns.
+
+---
+label: Cr_06_Name
+attribute: 0x000000
+---
+ Woodworker, Exterior
+
+---
+label: Cr_06_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Wood patterns.
+
+---
+label: Cr_07_Name
+attribute: 0x000000
+---
+ Woodworker, Stylish
+
+---
+label: Cr_07_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Wood patterns.
+
+---
+label: Cr_08_Name
+attribute: 0x000000
+---
+ Woodworker, Interior
+
+---
+label: Cr_08_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Wood patterns.
+
+---
+label: Cr_09_Name
+attribute: 0x000000
+---
+ Glazier, Window
+
+---
+label: Cr_09_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Glass patterns.
+
+---
+label: Cr_10_Name
+attribute: 0x000000
+---
+ Glazier, Decoration
+
+---
+label: Cr_10_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Glass patterns.
+
+---
+label: Cr_11_Name
+attribute: 0x000000
+---
+ Metalworker, Basic
+
+---
+label: Cr_11_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Metal patterns.
+
+---
+label: Cr_12_Name
+attribute: 0x000000
+---
+ Metalworker, Industrial
+
+---
+label: Cr_12_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Metal patterns.
+
+---
+label: Cr_13_Name
+attribute: 0x000000
+---
+ Metalworker, Future
+
+---
+label: Cr_13_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Metal patterns.
+
+---
+label: Cr_14_Name
+attribute: 0x000000
+---
+ Jewelcrafter, Basic
+
+---
+label: Cr_14_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change Jewel patterns.
+
+---
+label: Cr_15_Name
+attribute: 0x000000
+---
+ Fantasy Crafter
+
+---
+label: Cr_15_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a Piece's pattern.
+
+---
+label: Cr_16_Name
+attribute: 0x000000
+---
+ Sushi Chef
+
+---
+label: Cr_16_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a piece's pattern. 
+
+---
+label: Cr_17_Name
+attribute: 0x000000
+---
+ Confectioner
+
+---
+label: Cr_17_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a Piece's pattern.
+
+---
+label: Cr_18_Name
+attribute: 0x000000
+---
+ Fashion Designer
+
+---
+label: Cr_18_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a Piece's pattern.
+
+---
+label: Cr_19_Name
+attribute: 0x000000
+---
+ Cake Maker
+
+---
+label: Cr_19_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a Piece's pattern.
+
+---
+label: Cr_20_Name
+attribute: 0x000000
+---
+ Dev-Core Crafter
+
+---
+label: Cr_20_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a Piece's pattern.
+
+---
+label: Cr_Color_01_Name
+attribute: 0x000000
+---
+ Painter
+
+---
+label: Cr_Color_01_Caption
+attribute: 0x000000
+---
+・Style the world with your spark of creativity.
+・Can change a Piece's color.
+
+---
+label: Cr_Unique_Name
+attribute: 0x000000
+---
+Decorative Piece
+
+---
+label: Cr_Unique_Caption
+attribute: 0x000000
+---
+A Piece that's been modified
+with an Artisan Outfit.
+
+---
+label: Ctr_Haircut_Name
+attribute: 0x000000
+---
+Barber
+
+---
+label: Ctr_Haircut_Caption
+attribute: 0x000000
+---
+Cut a Developer's hair.
+Requires cooperation from another Developer.
+
+---
+label: Ctr_ImageSmall_Announce_Name
+attribute: 0x000000
+---
+Piece
+
+---
+label: Ctr_ImageSmall_Announce_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Ctr_LockOff_Name
+attribute: 0x000000
+---
+Piece
+
+---
+label: Ctr_LockOff_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Ctr_LockOn_Name
+attribute: 0x000000
+---
+Piece
+
+---
+label: Ctr_LockOn_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Ctr_Parts_BreakAll_01_Name
+attribute: 0x000000
+---
+Destroy All
+
+---
+label: Ctr_Parts_BreakAll_01_Caption
+attribute: 0x000000
+---
+・Beat the game by destroying all Pieces.
+・Destroy all linked Pieces of the same color at once.
+
+---
+label: Ctr_Parts_ConnectFour_01_Name
+attribute: 0x000000
+---
+Four-in-a-Row
+
+---
+label: Ctr_Parts_ConnectFour_01_Caption
+attribute: 0x000000
+---
+・Win by lining up four Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}vertically, horizontally, or diagonally.
+
+---
+label: Ctr_Parts_ConnectFour_07_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}}Winner!{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_ConnectFour_14_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}}Winner!{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FallingBlock_01_Name
+attribute: 0x000000
+---
+Falling Pieces
+
+---
+label: Ctr_Parts_FallingBlock_01_Caption
+attribute: 0x000000
+---
+・Pieces disappear when they line up horizontally.
+・Get points for each row you make disappear.
+
+---
+label: Ctr_Parts_FriendChecker_01_Name
+attribute: 0x000000
+---
+Begins once both are ready: 0/2
+
+---
+label: Ctr_Parts_FriendChecker_01_Caption
+attribute: 0x000000
+---
+・Tests the compatibility of two people.
+・If compatibility is good, {{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}will be recovered!
+
+---
+label: Ctr_Parts_FriendChecker_02_Name
+attribute: 0x000000
+---
+Begins once both are ready: 1/2
+
+---
+label: Ctr_Parts_FriendChecker_03_Name
+attribute: 0x000000
+---
+Testing compatibility...
+
+---
+label: Ctr_Parts_FriendChecker_04_Name
+attribute: 0x000000
+---
+Your compatibility is {{0:3 arg="0x0000"}}perfect{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecker_05_Name
+attribute: 0x000000
+---
+Your compatibility is {{0:3 arg="0x0A00"}}average{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecker_06_Name
+attribute: 0x000000
+---
+Your compatibility {{0:3 arg="0x0900"}}isn't great{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecker_07_Name
+attribute: 0x000000
+---
+Compatibility Test
+
+---
+label: Ctr_Parts_Lightsout_01_Name
+attribute: 0x000000
+---
+Solid Grid
+
+---
+label: Ctr_Parts_Lightsout_01_Caption
+attribute: 0x000000
+---
+・Use  to turn lights {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF {{0:3 arg="0xFFFF"}}in a cross shape.
+・Turn all lights off to recover {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}.
+
+---
+label: Ctr_Parts_Lightsout_09_Name
+attribute: 0x000000
+---
+Cleared!
+
+---
+label: Ctr_Parts_LuckyChair_01_Name
+attribute: 0x000000
+---
+Lucky Piece
+
+---
+label: Ctr_Parts_LuckyChair_01_Caption
+attribute: 0x000000
+---
+・One winner is chosen from among four players.
+・The chosen one will have {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} recovered.
+
+---
+label: Ctr_Parts_LuckyChair_19_Name_WithoutReplaceTag
+attribute: 0x000000
+---
+-
+
+---
+label: Ctr_Parts_LuckyChair_19_Name
+attribute: 0x000000
+---
+Required Participants: {{101:2 arg="0x0005010002CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003200"}}/4
+
+---
+label: Ctr_Parts_Omikuji_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}10 for Fortune Teller
+
+---
+label: Ctr_Parts_Omikuji_01_Caption
+attribute: 0x000000
+---
+・The better your luck, the more {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} is recovered.
+・If your luck is bad, {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} will decrease!
+
+---
+label: Ctr_Parts_Omikuji_02_Name
+attribute: 0x000000
+---
+Pulling a fortune...
+
+---
+label: Ctr_Parts_Omikuji_03_Name
+attribute: 0x000000
+---
+You pulled an {{0:3 arg="0x0C00"}}excellent luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_04_Name
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0D00"}}good luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_05_Name
+attribute: 0x000000
+---
+You pulled an {{0:3 arg="0x0A00"}}average luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_06_Name
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0F00"}}bad luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_07_Name
+attribute: 0x000000
+---
+You pulled a{{0:3 arg="0x0900"}} horrible luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_08_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0300"}}Insufficient{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0C00"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_QuickGun_04_Name
+attribute: 0x000000
+---
+Get ready...
+
+---
+label: Ctr_Parts_QuickGun_08_Name
+attribute: 0x000000
+---
+Quick Draw
+
+---
+label: Ctr_Parts_QuickGun_08_Caption
+attribute: 0x000000
+---
+・The person who presses the button first wins.
+・Press the button when "Go!" appears.
+
+---
+label: Ctr_Parts_QuickGun_10_Name
+attribute: 0x000000
+---
+ Go!
+
+---
+label: Ctr_Parts_Reversi_01_Name
+attribute: 0x000000
+---
+Renegade
+
+---
+label: Ctr_Parts_Reversi_01_Caption
+attribute: 0x000000
+---
+・A Piece will switch between black and white
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}if sandwiched by two Pieces of the same color.
+・Win by having the most Pieces remaining.
+
+---
+label: Ctr_Parts_Roulette_01_Name
+attribute: 0x000000
+---
+Unlucky Piece
+
+---
+label: Ctr_Parts_Roulette_01_Caption
+attribute: 0x000000
+---
+・Only one of these Pieces isn't a winner.
+・Every winning Piece you find will restore {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}!
+
+---
+label: Ctr_Parts_Roulette_03_Name
+attribute: 0x000000
+---
+Winner!
+
+---
+label: Ctr_Parts_Roulette_04_Name
+attribute: 0x000000
+---
+Unlucky
+
+---
+label: Ctr_Parts_Shooting_01_Name
+attribute: 0x000000
+---
+Hit the Target
+
+---
+label: Ctr_Parts_Shooting_01_Caption
+attribute: 0x000000
+---
+・Throw Pieces at the targets.
+・Get points for each you destroy.
+
+---
+label: Ctr_RuleScore_Name
+attribute: 0x000000
+---
+Progress
+
+---
+label: Ctr_RuleScore_Caption
+attribute: 0x000000
+---
+Displays game information.
+
+---
+label: Ctr_RuleScoreClear_Result_Name
+attribute: 0x000000
+---
+Cleared!
+
+---
+label: Ctr_RuleScore_Result_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}}Try harder{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_RuleScore_Result_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0F00"}}Passable{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_RuleScore_Result_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}}Looking good!{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_RuleScore_Result_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}}Amazing!{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_RuleScore_Result_05_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}Really amazing!{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_WaterHotspring_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}Energy Hot Spring
+
+---
+label: Ctr_WaterHotspring_01_Caption
+attribute: 0x000000
+---
+・Enjoy a nice, relaxing soak.
+・Recovers {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} up to a certain value.
+
+---
+label: Ctr_WaterHotspring_Health_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} {{0:3 arg="0xFFFF"}}Health Hot Spring
+
+---
+label: Ctr_WaterHotspring_Health_01_Caption
+attribute: 0x000000
+---
+・Enjoy a nice, relaxing soak.
+・Recovers {{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}} up to a certain value.
+
+---
+label: CurseL_Check_Name
+attribute: 0x000000
+---
+Nest of Darkness
+
+---
+label: CurseL_Check_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}100m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseL_Lock_Name
+attribute: 0x000000
+---
+Nest of Darkness
+
+---
+label: CurseL_Lock_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}100m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseL_MobBoss_Name
+attribute: 0x000000
+---
+Nest of Darkness
+
+---
+label: CurseL_MobBoss_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseL_Unlock_Name
+attribute: 0x000000
+---
+Nest of Darkness
+
+---
+label: CurseL_Unlock_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseM_Check_Name
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: CurseM_Check_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}50m{{0:3 arg="0xFFFF"}}.
+・3. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.
+
+---
+label: CurseM_Grow_Name
+attribute: 0x000000
+---
+???
+
+---
+label: CurseM_Grow_Caption
+attribute: 0x000000
+---
+???
+
+---
+label: CurseM_GrowSub_Name
+attribute: 0x000000
+---
+???
+
+---
+label: CurseM_GrowSub_Caption
+attribute: 0x000000
+---
+???
+
+---
+label: CurseM_Lock_Name
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: CurseM_Lock_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}50m{{0:3 arg="0xFFFF"}}.
+・3. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.
+
+---
+label: CurseM_Unlock_Name
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: CurseM_Unlock_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.
+
+---
+label: CurseS_Check_Name
+attribute: 0x000000
+---
+Egg of Darkness
+
+---
+label: CurseS_Check_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}10m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseS_Lock_Name
+attribute: 0x000000
+---
+Egg of Darkness
+
+---
+label: CurseS_Lock_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}10m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseS_Mob_Name
+attribute: 0x000000
+---
+Egg of Darkness
+
+---
+label: CurseS_Mob_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: CurseS_Unlock_Name
+attribute: 0x000000
+---
+Egg of Darkness
+
+---
+label: CurseS_Unlock_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: Egg_Name
+attribute: 0x000000
+---
+ Broot Egg
+
+---
+label: Egg_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・What might be born is a mystery.
+
+---
+label: EggNeutral_Name
+attribute: 0x000000
+---
+ Kyoot Egg
+
+---
+label: EggNeutral_Caption
+attribute: 0x000000
+---
+・When destroyed, a tamable Oot is born.
+・What might be born is a mystery.
+
+---
+label: EggNeutralLv1_Name
+attribute: 0x000000
+---
+ Kyoot Egg
+
+---
+label: EggNeutralLv2_Name
+attribute: 0x000000
+---
+ Kyoot Egg
+
+---
+label: EggNeutralLv3_Name
+attribute: 0x000000
+---
+ Kyoot Egg
+
+---
+label: Elec_Name
+attribute: 0x000000
+---
+ Electricity
+
+---
+label: Elec_Caption
+attribute: 0x000000
+---
+・De-fuse Piece.
+
+---
+label: Emoji_001_Name
+attribute: 0x000000
+---
+ Smile
+
+---
+label: Emoji_001_Caption
+attribute: 0x000000
+---
+・Express your emotions with emojis.
+
+---
+label: Emoji_002_Name
+attribute: 0x000000
+---
+ Chuckle Face
+
+---
+label: Emoji_003_Name
+attribute: 0x000000
+---
+ Crying Face
+
+---
+label: Emoji_004_Name
+attribute: 0x000000
+---
+ Heart Eyes
+
+---
+label: Emoji_005_Name
+attribute: 0x000000
+---
+ Melting Face
+
+---
+label: Emoji_006_Name
+attribute: 0x000000
+---
+ Sniffle
+
+---
+label: Emoji_007_Name
+attribute: 0x000000
+---
+ Snore
+
+---
+label: Emoji_008_Name
+attribute: 0x000000
+---
+ Licky Face
+
+---
+label: Emoji_009_Name
+attribute: 0x000000
+---
+ Silly Face
+
+---
+label: Emoji_010_Name
+attribute: 0x000000
+---
+ Tearing Up
+
+---
+label: Emoji_011_Name
+attribute: 0x000000
+---
+ Deep in Thought
+
+---
+label: Emoji_012_Name
+attribute: 0x000000
+---
+ Shock
+
+---
+label: Emoji_013_Name
+attribute: 0x000000
+---
+ Goosebumps
+
+---
+label: Emoji_014_Name
+attribute: 0x000000
+---
+ Mind Blown
+
+---
+label: Emoji_015_Name
+attribute: 0x000000
+---
+ Just Can't
+
+---
+label: Emoji_016_Name
+attribute: 0x000000
+---
+ Zzz...
+
+---
+label: Emoji_017_Name
+attribute: 0x000000
+---
+ Cool
+
+---
+label: Emoji_018_Name
+attribute: 0x000000
+---
+ Laugh
+
+---
+label: Emoji_019_Name
+attribute: 0x000000
+---
+ Yay!
+
+---
+label: Emoji_020_Name
+attribute: 0x000000
+---
+ Moved
+
+---
+label: Emoji_021_Name
+attribute: 0x000000
+---
+ What?!
+
+---
+label: Emoji_022_Name
+attribute: 0x000000
+---
+ Funny Glasses
+
+---
+label: Emoji_023_Name
+attribute: 0x000000
+---
+ Uhhh?
+
+---
+label: Emoji_024_Name
+attribute: 0x000000
+---
+ Uhuh...
+
+---
+label: Emoji_025_Name
+attribute: 0x000000
+---
+ A-OK
+
+---
+label: Emoji_026_Name
+attribute: 0x000000
+---
+ Here
+
+---
+label: Emoji_027_Name
+attribute: 0x000000
+---
+ Thumbs Up!
+
+---
+label: Emoji_028_Name
+attribute: 0x000000
+---
+ Fist
+
+---
+label: Emoji_029_Name
+attribute: 0x000000
+---
+ Peace Sign
+
+---
+label: Emoji_030_Name
+attribute: 0x000000
+---
+ Open Hand
+
+---
+label: Emoji_031_Name
+attribute: 0x000000
+---
+ Heart Racing
+
+---
+label: Emoji_032_Name
+attribute: 0x000000
+---
+ Heart
+
+---
+label: Emoji_033_Name
+attribute: 0x000000
+---
+ In Love
+
+---
+label: Emoji_034_Name
+attribute: 0x000000
+---
+ Heartbroken
+
+---
+label: Emoji_035_Name
+attribute: 0x000000
+---
+ Celebrate
+
+---
+label: Emoji_036_Name
+attribute: 0x000000
+---
+ Compass
+
+---
+label: Emoji_037_Name
+attribute: 0x000000
+---
+ Siren
+
+---
+label: Emoji_038_Name
+attribute: 0x000000
+---
+ Tent
+
+---
+label: Emoji_039_Name
+attribute: 0x000000
+---
+ Anchor
+
+---
+label: Emoji_040_Name
+attribute: 0x000000
+---
+ Island
+
+---
+label: Emoji_041_Name
+attribute: 0x000000
+---
+ Holiday Tree
+
+---
+label: Emoji_042_Name
+attribute: 0x000000
+---
+ Jack-o'-Lantern
+
+---
+label: Emoji_043_Name
+attribute: 0x000000
+---
+ 1st Place Medal
+
+---
+label: Emoji_044_Name
+attribute: 0x000000
+---
+ 2nd Place Medal
+
+---
+label: Emoji_045_Name
+attribute: 0x000000
+---
+ 3rd Place Medal
+
+---
+label: Emoji_046_Name
+attribute: 0x000000
+---
+ Goal
+
+---
+label: Emoji_047_Name
+attribute: 0x000000
+---
+ Camera
+
+---
+label: Emoji_048_Name
+attribute: 0x000000
+---
+ Top Hat
+
+---
+label: Emoji_049_Name
+attribute: 0x000000
+---
+ Target
+
+---
+label: Emoji_050_Name
+attribute: 0x000000
+---
+ Paint Palette
+
+---
+label: Emoji_051_Name
+attribute: 0x000000
+---
+ Headphones
+
+---
+label: Emoji_052_Name
+attribute: 0x000000
+---
+ Battery
+
+---
+label: Emoji_053_Name
+attribute: 0x000000
+---
+ Eureka!
+
+---
+label: Emoji_054_Name
+attribute: 0x000000
+---
+ Crown
+
+---
+label: Emoji_055_Name
+attribute: 0x000000
+---
+ Bag
+
+---
+label: Emoji_056_Name
+attribute: 0x000000
+---
+ Present
+
+---
+label: Emoji_057_Name
+attribute: 0x000000
+---
+ Diamond
+
+---
+label: Emoji_058_Name
+attribute: 0x000000
+---
+ Cog
+
+---
+label: Emoji_059_Name
+attribute: 0x000000
+---
+ Pin
+
+---
+label: Emoji_060_Name
+attribute: 0x000000
+---
+ Notes
+
+---
+label: Emoji_061_Name
+attribute: 0x000000
+---
+ Mailbox
+
+---
+label: Emoji_062_Name
+attribute: 0x000000
+---
+ Letter
+
+---
+label: Emoji_063_Name
+attribute: 0x000000
+---
+ Alarm Clock
+
+---
+label: Emoji_064_Name
+attribute: 0x000000
+---
+ Magnifying Glass
+
+---
+label: Emoji_065_Name
+attribute: 0x000000
+---
+ Swords
+
+---
+label: Emoji_066_Name
+attribute: 0x000000
+---
+ Truck
+
+---
+label: Emoji_067_Name
+attribute: 0x000000
+---
+ Spin
+
+---
+label: Emoji_068_Name
+attribute: 0x000000
+---
+ Exclamation Point
+
+---
+label: Emoji_069_Name
+attribute: 0x000000
+---
+ Question Mark
+
+---
+label: Emoji_070_Name
+attribute: 0x000000
+---
+ Interrobang
+
+---
+label: Emoji_071_Name
+attribute: 0x000000
+---
+ Dash
+
+---
+label: Emoji_072_Name
+attribute: 0x000000
+---
+ Check
+
+---
+label: Emoji_073_Name
+attribute: 0x000000
+---
+ X in a Box
+
+---
+label: Emoji_074_Name
+attribute: 0x000000
+---
+ SOS
+
+---
+label: Emoji_075_Name
+attribute: 0x000000
+---
+ Forbidden
+
+---
+label: Emoji_076_Name
+attribute: 0x000000
+---
+ Warning
+
+---
+label: Emoji_077_Name
+attribute: 0x000000
+---
+ ...
+
+---
+label: Emoji_078_Name
+attribute: 0x000000
+---
+ Flag
+
+---
+label: Emoji_079_Name
+attribute: 0x000000
+---
+ Soccer Ball
+
+---
+label: Emoji_080_Name
+attribute: 0x000000
+---
+ Fishing
+
+---
+label: Emoji_081_Name
+attribute: 0x000000
+---
+ Microphone
+
+---
+label: Emoji_082_Name
+attribute: 0x000000
+---
+ Doughnut
+
+---
+label: Emoji_083_Name
+attribute: 0x000000
+---
+ Star
+
+---
+label: Emoji_084_Name
+attribute: 0x000000
+---
+ Poop
+
+---
+label: Emoji_085_Name
+attribute: 0x000000
+---
+ Robot
+
+---
+label: Emoji_086_Name
+attribute: 0x000000
+---
+ In Construction
+
+---
+label: Emoji_087_Name
+attribute: 0x000000
+---
+ Ghost
+
+---
+label: Emoji_088_Name
+attribute: 0x000000
+---
+ Bone
+
+---
+label: Emoji_089_Name
+attribute: 0x000000
+---
+ Skull
+
+---
+label: Emoji_090_Name
+attribute: 0x000000
+---
+ Bouquet
+
+---
+label: Emoji_091_Name
+attribute: 0x000000
+---
+ Tengu Mask
+
+---
+label: Emoji_092_Name
+attribute: 0x000000
+---
+ Cake
+
+---
+label: Emoji_093_Name
+attribute: 0x000000
+---
+ Meal
+
+---
+label: Emoji_094_Name
+attribute: 0x000000
+---
+ Looking
+
+---
+label: Emoji_095_Name
+attribute: 0x000000
+---
+ Craftsman's Tools
+
+---
+label: Emoji_096_Name
+attribute: 0x000000
+---
+ Arrow
+
+---
+label: Emoji_097_Name
+attribute: 0x000000
+---
+ Popcorn
+
+---
+label: Emoji_098_Name
+attribute: 0x000000
+---
+ Trash Bin
+
+---
+label: Emoji_099_Name
+attribute: 0x000000
+---
+ Die
+
+---
+label: Emoji_100_Name
+attribute: 0x000000
+---
+ Tennis
+
+---
+label: Env_01_Name
+attribute: 0x000000
+---
+Lighting: Day {{0:2 arg="0x5000"}}({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_01_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: Env_01_Check_Name
+attribute: 0x000000
+---
+ Confirming...
+
+---
+label: Env_01_Check_Caption
+attribute: 0x000000
+---
+ Confirming...
+
+---
+label: Env_01_On_Name
+attribute: 0x000000
+---
+Lighting: Day {{0:2 arg="0x5000"}}({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_01_On_Caption
+attribute: 0x000000
+---
+・Changes the lighting inside the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: Env_02_Name
+attribute: 0x000000
+---
+Lighting: Dusk {{0:2 arg="0x5000"}}({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_02_On_Name
+attribute: 0x000000
+---
+Lighting: Dusk {{0:2 arg="0x5000"}}({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_03_Name
+attribute: 0x000000
+---
+Lighting: Night {{0:2 arg="0x5000"}}({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_03_On_Name
+attribute: 0x000000
+---
+Lighting: Night {{0:2 arg="0x5000"}}({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_04_Name
+attribute: 0x000000
+---
+Lighting: Fog {{0:2 arg="0x5000"}}({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Env_04_On_Name
+attribute: 0x000000
+---
+Lighting: Fog {{0:2 arg="0x5000"}}({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Explode_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: Explode_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: ExplodeStartLv1_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: ExplodeStartLv1_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: ExplodeStartLv2_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: ExplodeStartLv2_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: ExplodeStartLv3_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: ExplodeStartLv3_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: ExplodeStartLv4_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: ExplodeStartLv4_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: ExplodeStartLv5_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: ExplodeStartLv5_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: ExplodeStart_CurseS_Name
+attribute: 0x000000
+---
+ Explosion
+
+---
+label: ExplodeStart_CurseS_Caption
+attribute: 0x000000
+---
+・Dangerous! Don't touch!
+
+---
+label: Fire_Name
+attribute: 0x000000
+---
+Burning...
+
+---
+label: Fire_Caption
+attribute: 0x000000
+---
+Hot! Don't touch!
+
+---
+label: Fossil_Name
+attribute: 0x000000
+---
+ Fossil
+
+---
+label: FossilLv1_01_Caption
+attribute: 0x000000
+---
+・Changes into an Egg with your Beacon's light
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}when placed at an altitude of [{{0:3 arg="0x0100"}}50m{{0:3 arg="0xFFFF"}}] or more.
+
+---
+label: FossilLv2_01_Caption
+attribute: 0x000000
+---
+・Changes into an Egg with your Beacon's light
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}when placed at an altitude of [{{0:3 arg="0x0100"}}100m{{0:3 arg="0xFFFF"}}] or more.
+
+---
+label: FossilLv3_01_Caption
+attribute: 0x000000
+---
+・Changes into an Egg with your Beacon's light
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}when placed at an altitude of [{{0:3 arg="0x0100"}}150m{{0:3 arg="0xFFFF"}}] or more.
+
+---
+label: FriendlyEgg_Name
+attribute: 0x000000
+---
+ Oot Carrier
+
+---
+label: FriendlyEgg_Caption
+attribute: 0x000000
+---
+・When broken, a {{101:5 arg="0x00000000"}} appears.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: FriendlyEggNeutral_Name
+attribute: 0x000000
+---
+ Oot Carrier
+
+---
+label: FriendlyEggNeutral_Caption
+attribute: 0x000000
+---
+・When broken, a {{101:5 arg="0x00000000"}} appears.
+
+---
+label: GemDiamond_Name
+attribute: 0x000000
+---
+ Diamond
+
+---
+label: GemDiamond_Caption
+attribute: 0x000000
+---
+・A  Diamond card appears when destroyed.
+
+---
+label: GemEmerald_Name
+attribute: 0x000000
+---
+ Emerald
+
+---
+label: GemEmerald_Caption
+attribute: 0x000000
+---
+・An  Emerald card appears when destroyed.
+
+---
+label: GemFloat_Name
+attribute: 0x000000
+---
+ Float Stone
+
+---
+label: GemFloat_Caption
+attribute: 0x000000
+---
+・A  Float Stone card appears when destroyed.
+・Floats in the air.
+
+---
+label: GemHealth_Name
+attribute: 0x000000
+---
+ Life Stone
+
+---
+label: GemHealth_Caption
+attribute: 0x000000
+---
+・A  Life Stone card appears when destroyed.
+
+---
+label: GemLight_Name
+attribute: 0x000000
+---
+ Shine Stone
+
+---
+label: GemLight_Caption
+attribute: 0x000000
+---
+・A  Shine Stone card appears when destroyed.
+
+---
+label: GemRuby_Name
+attribute: 0x000000
+---
+ Ruby
+
+---
+label: GemRuby_Caption
+attribute: 0x000000
+---
+・A  Ruby card appears when destroyed.
+
+---
+label: GemSapphire_Name
+attribute: 0x000000
+---
+ Sapphire
+
+---
+label: GemSapphire_Caption
+attribute: 0x000000
+---
+・A  Sapphire card appears when destroyed.
+
+---
+label: Glass_Name
+attribute: 0x000000
+---
+ Glass
+
+---
+label: Glass_Caption
+attribute: 0x000000
+---
+・When broken, a  Glass card appears.
+・Changes to Sand in Swamp.
+
+---
+label: GlassSpike_Name
+attribute: 0x000000
+---
+ Glass Spike
+
+---
+label: GlassSpike_Caption
+attribute: 0x000000
+---
+・Crafted with Sand and Magma.
+・The spike goes away when struck.
+・Changes to Sand in Swamp.
+
+---
+label: Grass_Name
+attribute: 0x000000
+---
+ Grass
+
+---
+label: Grass_Caption
+attribute: 0x000000
+---
+・Transforms into Sand in Swamp.
+・Burns in Magma.
+
+---
+label: HairColor_01_Name
+attribute: 0x000000
+---
+[服]髪色_01
+
+---
+label: HairColor_01_Caption
+attribute: 0x000000
+---
+[服]髪色_01 is ...
+
+---
+label: HairTex_01_Name
+attribute: 0x000000
+---
+[服]髪型_01
+
+---
+label: HairTex_01_Caption
+attribute: 0x000000
+---
+[服]髪型_01 is ...
+
+---
+label: Health_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}} Life
+
+---
+label: Health_Caption
+attribute: 0x000000
+---
+・When you climb on, {{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}} Life will be restored.
+・Disappears after a certain amount of time.
+
+---
+label: Hst_Cmn_SectionEntry_Name
+attribute: 0x000000
+---
+ Entrance/Exit Log
+
+---
+label: Hst_Cmn_SectionEntry_Caption
+attribute: 0x000000
+---
+・When you climb on, you can confirm the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}players that have entered and exited.
+
+---
+label: Hst_Ctr_Parts_FriendChecker_Name
+attribute: 0x000000
+---
+Compatibility Analyzer Log
+
+---
+label: Hst_Ctr_Parts_FriendChecker_Caption
+attribute: 0x000000
+---
+・When you climb on, you can confirm the results.
+
+---
+label: Hst_Ctr_Parts_Omikuji_Name
+attribute: 0x000000
+---
+Fortune-Telling Log
+
+---
+label: Hst_Ctr_Parts_Omikuji_Caption
+attribute: 0x000000
+---
+・When you climb on, you can confirm the results.
+
+---
+label: Hst_FrnGlobal_Name
+attribute: 0x000000
+---
+ Planet Development Log
+
+---
+label: Hst_FrnGlobal_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view a log of
+   fully developed Planetary Blocks.
+
+---
+label: Hst_FrnSect_Name_WithoutReplaceTag
+attribute: 0x000000
+---
+-
+
+---
+label: Hst_FrnSect_Name
+attribute: 0x000000
+---
+ [{{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005800"}}, {{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005A00"}}] Development Log
+
+---
+label: Hst_FrnSect_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view the 
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Development Log of this Planetary Block.
+
+---
+label: Hst_LicenceUpdateClt_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}License Registration Log
+
+---
+label: Hst_LicenceUpdateClt_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}{{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level-up log.
+
+---
+label: Hst_LicenceUpdateStr_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}License Registration Log
+
+---
+label: Hst_LicenceUpdateStr_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level-up log.
+
+---
+label: Hst_LicenceUpdateUgc_Name
+attribute: 0x000000
+---
+UGC License Test Passers
+
+---
+label: Hst_LicenceUpdateUgc_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view those 
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}who have passed the UGC License Test.
+
+---
+label: Hst_List_Deliver_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}Daily Supplies Log
+
+---
+label: Hst_List_Deliver_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view a log of
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}received supplies.
+
+---
+label: Hst_List_ShopClt_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Shop Acquisition Log
+
+---
+label: Hst_List_ShopClt_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view a log of
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Connex Shop acquisitions.
+
+---
+label: Hst_List_ShopStr_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}}{{0:3 arg="0x0500"}}{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Dev Shop Acquisition Log
+
+---
+label: Hst_List_ShopStr_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view a log of
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Dev Shop acquisitions.
+
+---
+label: Hst_ProfileUpdate_Name
+attribute: 0x000000
+---
+Profile Photography Log
+
+---
+label: Hst_ProfileUpdate_Caption
+attribute: 0x000000
+---
+・When you climb on, you can view a log of
+   Developers who have changed their profile photo.
+
+---
+label: Ice_Name
+attribute: 0x000000
+---
+ Ice
+
+---
+label: Ice_Caption
+attribute: 0x000000
+---
+・Frost is generated when struck.
+・Changes Water to Ice.
+・Changes Magma to Soil.
+
+---
+label: LicenceUpdateClt_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}License Registration
+
+---
+label: LicenceUpdateClt_Caption
+attribute: 0x000000
+---
+・Present the fruits of your connection labor.
+・You can raise your Connection Level with
+  {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connex Points.
+
+---
+label: LicenceUpdateClt_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Level Up
+
+---
+label: LicenceUpdateClt_02_Name
+attribute: 0x000000
+---
+Update failed...
+
+---
+label: LicenceUpdateStr_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}License Registration
+
+---
+label: LicenceUpdateStr_Caption
+attribute: 0x000000
+---
+・Present the fruits of your development labor.
+・You can raise your Development Level with
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points.
+
+---
+label: LicenceUpdateStr_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level Up
+
+---
+label: LicenceUpdateStr_02_Name
+attribute: 0x000000
+---
+Update failed...
+
+---
+label: LicenceUpdateUgc_Name
+attribute: 0x000000
+---
+ UGC License Update
+
+---
+label: LicenceUpdateUgc_Caption
+attribute: 0x000000
+---
+・Confirm that you've passed the UGC License Test.
+
+---
+label: LicenceUpdateUgc_01_Name
+attribute: 0x000000
+---
+You've passed. Congrats!
+
+---
+label: LicenceUpdateUgc_02_Name
+attribute: 0x000000
+---
+Sorry, you haven't passed...
+
+---
+label: LicenceUpdateUgc_03_Name
+attribute: 0x000000
+---
+You've already passed.
+
+---
+label: List_Deliver_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}Daily Supplies
+
+---
+label: List_Deliver_Caption
+attribute: 0x000000
+---
+・Thank you to each and every developer!
+・You can receive supplies every day.
+
+---
+label: List_GateCenter_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Teleporter
+
+---
+label: List_GateCenter_Caption
+attribute: 0x000000
+---
+・Warps you to your chosen destination.
+
+---
+label: List_GatePlanetToStage_Name
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: List_GatePlanetToStage_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.
+
+---
+label: List_ShopClt_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Shop
+
+---
+label: List_ShopClt_Caption
+attribute: 0x000000
+---
+・Stocks items used to connect with others.
+
+---
+label: List_ShopGm_Name
+attribute: 0x000000
+---
+GM Shop
+
+---
+label: List_ShopGm_Caption
+attribute: 0x000000
+---
+・For Game Masters only.
+
+---
+label: List_ShopStr_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Dev Shop
+
+---
+label: List_ShopStr_Caption
+attribute: 0x000000
+---
+・Stocks items that help with development.
+
+---
+label: Magma_Name
+attribute: 0x000000
+---
+ Magma
+
+---
+label: Magma_Caption
+attribute: 0x000000
+---
+・Changes Sand to a Glass Spike.
+・Changes Wood to Charcoal.
+・Fuses Rock and Metal.
+
+---
+label: MagmaIce_Name
+attribute: 0x000000
+---
+ Magma
+
+---
+label: MagmaIce_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Mech_Connect_Name
+attribute: 0x000000
+---
+ Fuser
+
+---
+label: Mech_Connect_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Fuses Pieces into a single straight line.
+
+---
+label: Mech_ConnectSlide_Name
+attribute: 0x000000
+---
+ Steam Iron
+
+---
+label: Mech_ConnectSlide_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Hold the assigned button to fuse the Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}directly underneath you.
+
+---
+label: Mech_CraneLv1_Name
+attribute: 0x000000
+---
+ Crane (Lv. 1)
+
+---
+label: Mech_CraneLv1_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: Mech_CraneLv1_Off_Name
+attribute: 0x000000
+---
+ Crane (Lv. 1)
+
+---
+label: Mech_CraneLv1_Off_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: Mech_CraneLv1_Set_Name
+attribute: 0x000000
+---
+ Crane (Lv. 1)
+
+---
+label: Mech_CraneLv1_Set_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (24m radius / 80m height).
+
+---
+label: Mech_CraneLv2_Name
+attribute: 0x000000
+---
+ Crane (Lv. 2)
+
+---
+label: Mech_CraneLv2_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: Mech_CraneLv2_Off_Name
+attribute: 0x000000
+---
+ Crane (Lv. 2)
+
+---
+label: Mech_CraneLv2_Off_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: Mech_CraneLv2_Set_Name
+attribute: 0x000000
+---
+ Crane (Lv. 2)
+
+---
+label: Mech_CraneLv2_Set_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (48m radius / 160m height).
+
+---
+label: Mech_CraneLv3_Name
+attribute: 0x000000
+---
+ Crane (Lv. 3)
+
+---
+label: Mech_CraneLv3_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: Mech_CraneLv3_Off_Name
+attribute: 0x000000
+---
+ Crane (Lv. 3)
+
+---
+label: Mech_CraneLv3_Off_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: Mech_CraneLv3_Set_Name
+attribute: 0x000000
+---
+ Crane (Lv. 3)
+
+---
+label: Mech_CraneLv3_Set_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (72m radius / 320m height).
+
+---
+label: Mech_CraneLv4_Name
+attribute: 0x000000
+---
+ Crane (Lv. 4)
+
+---
+label: Mech_CraneLv4_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: Mech_CraneLv4_Off_Name
+attribute: 0x000000
+---
+ Crane (Lv. 4)
+
+---
+label: Mech_CraneLv4_Off_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: Mech_CraneLv4_Set_Name
+attribute: 0x000000
+---
+ Crane (Lv. 4)
+
+---
+label: Mech_CraneLv4_Set_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Grabs Pieces within (96m radius / 640m height).
+
+---
+label: Mech_Disconnect_Name
+attribute: 0x000000
+---
+ De-Fuser
+
+---
+label: Mech_Disconnect_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・De-fuses fused Pieces.
+
+---
+label: Mech_Elevate_Name
+attribute: 0x000000
+---
+ Elevator
+
+---
+label: Mech_Elevate_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Ascends walls.
+
+---
+label: Mech_Lift_Name
+attribute: 0x000000
+---
+ Forklift
+
+---
+label: Mech_Lift_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Hold assigned button to grab multiple Pieces.
+・Place multiple Pieces all at once.
+
+---
+label: Mech_Plane_Name
+attribute: 0x000000
+---
+ Airplane
+
+---
+label: Mech_Plane_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Flies through the sky while carrying Pieces.
+・Costs energy when used outside Beacon Zones.
+
+---
+label: Mech_Throw_Name
+attribute: 0x000000
+---
+ Hurler
+
+---
+label: Mech_Throw_Caption
+attribute: 0x000000
+---
+・Master the art of flexible development.
+・Throws Pieces far away.
+
+---
+label: MetalCopper_Name
+attribute: 0x000000
+---
+ Copper
+
+---
+label: MetalCopper_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Copper card appears.
+・Fuses in Magma.
+
+---
+label: MetalCopper_01_Name
+attribute: 0x000000
+---
+ Copper
+
+---
+label: MetalCopper_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Copper card appears.
+・Fuses in Magma.
+
+---
+label: MetalCopper_02_Name
+attribute: 0x000000
+---
+ Copper
+
+---
+label: MetalCopper_02_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Copper card appears.
+・Fuses in Magma.
+
+---
+label: MetalGold_Name
+attribute: 0x000000
+---
+ Gold
+
+---
+label: MetalGold_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Gold card appears.
+・Fuses in Magma.
+
+---
+label: MetalGold_01_Name
+attribute: 0x000000
+---
+ Gold
+
+---
+label: MetalGold_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Gold card appears.
+・Fuses in Magma.
+
+---
+label: MetalGold_02_Name
+attribute: 0x000000
+---
+ Gold
+
+---
+label: MetalGold_02_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Gold card appears.
+・Fuses in Magma.
+
+---
+label: MetalIron_Name
+attribute: 0x000000
+---
+ Iron
+
+---
+label: MetalIron_Caption
+attribute: 0x000000
+---
+・When destroyed, an  Iron card appears.
+・Fuses in Magma.
+
+---
+label: MetalIron_01_Name
+attribute: 0x000000
+---
+ Iron
+
+---
+label: MetalIron_01_Caption
+attribute: 0x000000
+---
+・When destroyed, an  Iron card appears.
+・Fuses in Magma.
+
+---
+label: MetalIron_02_Name
+attribute: 0x000000
+---
+ Iron
+
+---
+label: MetalIron_02_Caption
+attribute: 0x000000
+---
+・When destroyed, an  Iron card appears.
+・Fuses in Magma.
+
+---
+label: MetalSilver_Name
+attribute: 0x000000
+---
+ Silver
+
+---
+label: MetalSilver_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Silver card appears.
+・Fuses in Magma.
+
+---
+label: MetalSilver_01_Name
+attribute: 0x000000
+---
+ Silver
+
+---
+label: MetalSilver_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Silver card appears.
+・Fuses in Magma.
+
+---
+label: MetalSilver_02_Name
+attribute: 0x000000
+---
+ Silver
+
+---
+label: MetalSilver_02_Caption
+attribute: 0x000000
+---
+・When destroyed, a  Silver card appears.
+・Fuses in Magma.
+
+---
+label: MobBoss_01_Name
+attribute: 0x000000
+---
+ Hopeslayer Broot Egg
+
+---
+label: MobBoss_01_Caption
+attribute: 0x000000
+---
+・When destroyed, Hopeslayer Broot is born.
+・Shoots flaming Orbs at you from the air.
+
+---
+label: MobBoss_Reward_01_Name
+attribute: 0x000000
+---
+-
+
+---
+label: MobBoss_Reward_01_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: MobChaseBullet_01_Name
+attribute: 0x000000
+---
+ Blastcannon Broot Egg
+
+---
+label: MobChaseBullet_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Shoots Orbs while chasing after you.
+
+---
+label: MobChaseFlyBullet_01_Name
+attribute: 0x000000
+---
+ Skycannon Broot Egg
+
+---
+label: MobChaseFlyBullet_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Shoots Orbs while chasing after you in the air.
+
+---
+label: MobChaseFly_01_Name
+attribute: 0x000000
+---
+ Skysweeper Broot Egg
+
+---
+label: MobChaseFly_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Chases after you from the air.
+
+---
+label: MobChaseFly_Bomb_01_Name
+attribute: 0x000000
+---
+ Skybomb Broot Egg
+
+---
+label: MobChaseFly_Bomb_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Chases you through the air and explodes.
+
+---
+label: MobChase_01_Name
+attribute: 0x000000
+---
+ Hunter Broot Egg
+
+---
+label: MobChase_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Chases after you.
+
+---
+label: MobChase_Bomb_01_Name
+attribute: 0x000000
+---
+ Bomb Broot Egg
+
+---
+label: MobChase_Bomb_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Chases after you and explodes.
+
+---
+label: MobEscapeFlyBullet_01_Name
+attribute: 0x000000
+---
+ Life Stone Broot Egg
+
+---
+label: MobEscapeFlyBullet_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Shoots flaming Orbs from the air while evading you.
+
+---
+label: MobFixedBullet_01_Name
+attribute: 0x000000
+---
+ Sniper Broot Egg
+
+---
+label: MobFixedBullet_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Shoots Orbs at you while stationary.
+
+---
+label: MobFixedFlyBullet_01_Name
+attribute: 0x000000
+---
+ Cloudsniper Broot Egg
+
+---
+label: MobFixedFlyBullet_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Shoots Orbs at you while hovering in place.
+
+---
+label: MobFixedFly_01_Name
+attribute: 0x000000
+---
+ Hoverthorn Broot Egg
+
+---
+label: MobFixedFly_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Remains stationary and airborne.
+
+---
+label: MobFixed_01_Name
+attribute: 0x000000
+---
+ Sentry Broot Egg
+
+---
+label: MobFixed_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Remains stationary.
+
+---
+label: MobFixed_Bomb_01_Name
+attribute: 0x000000
+---
+ Timebomb Broot Egg
+
+---
+label: MobFixed_Bomb_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Explodes when discovered.
+
+---
+label: MobNeutral_01_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Mouse is born.
+
+---
+label: MobNeutral_02_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Cow is born.
+
+---
+label: MobNeutral_03_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Tiger is born.
+
+---
+label: MobNeutral_04_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Rabbit is born.
+
+---
+label: MobNeutral_05_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Dragon is born.
+
+---
+label: MobNeutral_06_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Snake is born.
+
+---
+label: MobNeutral_07_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Horse is born.
+
+---
+label: MobNeutral_08_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Sheep is born.
+
+---
+label: MobNeutral_09_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Monkey is born.
+
+---
+label: MobNeutral_10_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Hen is born.
+
+---
+label: MobNeutral_11_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Dog is born.
+
+---
+label: MobNeutral_12_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Boar is born.
+
+---
+label: MobNeutral_13_Caption
+attribute: 0x000000
+---
+・When broken, a Kyoot Cat is born.
+
+---
+label: MobRushFly_01_Name
+attribute: 0x000000
+---
+ Nosediver Broot Egg
+
+---
+label: MobRushFly_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Charges at you from the air.
+
+---
+label: MobRush_01_Name
+attribute: 0x000000
+---
+ Rammer Broot Egg
+
+---
+label: MobRush_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・Charges at you from the ground.
+
+---
+label: MobTiny_Material_Name
+attribute: 0x000000
+---
+ 
+
+---
+label: MobTiny_Material_Caption
+attribute: 0x000000
+---
+ 
+
+---
+label: Mob_PieceChange_Name
+attribute: 0x000000
+---
+ Petrified Oot
+
+---
+label: Mob_PieceChange_Caption
+attribute: 0x000000
+---
+・It's turned to stone...
+
+---
+label: Mob_PoseChange_01_Name
+attribute: 0x000000
+---
+ 
+
+---
+label: Mob_PoseChange_01_Caption
+attribute: 0x000000
+---
+ 
+
+---
+label: Mob_Spawner_01_Name
+attribute: 0x000000
+---
+ Stone Broot Egg
+
+---
+label: Mob_Spawner_01_Caption
+attribute: 0x000000
+---
+・When destroyed, a wild Oot is born.
+・What might be born is a mystery.
+
+---
+label: Mob_Spawner_02_Name
+attribute: 0x000000
+---
+ Copper Broot Egg
+
+---
+label: Mob_Spawner_03_Name
+attribute: 0x000000
+---
+ Iron Broot Egg
+
+---
+label: Mob_Spawner_04_Name
+attribute: 0x000000
+---
+ Silver Broot Egg
+
+---
+label: Mob_Spawner_05_Name
+attribute: 0x000000
+---
+ Gold Broot Egg
+
+---
+label: Mob_Spawner_06_Name
+attribute: 0x000000
+---
+ Sand Broot Egg
+
+---
+label: Mob_Spawner_07_Name
+attribute: 0x000000
+---
+ Glass Broot Egg
+
+---
+label: Mob_Spawner_10_Name
+attribute: 0x000000
+---
+ Diamond Broot Egg
+
+---
+label: Mob_Spawner_11_Name
+attribute: 0x000000
+---
+ Ruby Broot Egg
+
+---
+label: Mob_Spawner_12_Name
+attribute: 0x000000
+---
+ Emerald Broot Egg
+
+---
+label: Mob_Spawner_13_Name
+attribute: 0x000000
+---
+ Sapphire Broot Egg
+
+---
+label: Mush_Name
+attribute: 0x000000
+---
+[#植]キノコ
+
+---
+label: Mush_Caption
+attribute: 0x000000
+---
+キノコ
+
+---
+label: Nest_01_Name
+attribute: 0x000000
+---
+ Broot Nest
+
+---
+label: Nest_01_Caption
+attribute: 0x000000
+---
+・When struck, wild Oots are born.
+・What might be born is a mystery.
+
+---
+label: No_Message_Required_Name
+attribute: 0x000000
+---
+-
+
+---
+label: No_Message_Required_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Player_Name
+attribute: 0x000000
+---
+ Stone Statue
+
+---
+label: Player_Caption
+attribute: 0x000000
+---
+・It seems they've shape-shifted into a Piece...
+
+---
+label: PlayerFinder_Name
+attribute: 0x000000
+---
+ DPS
+
+---
+label: PlayerFinder_Caption
+attribute: 0x000000
+---
+It seems they're looking through their  DPS...
+
+---
+label: PlayerIce_Name
+attribute: 0x000000
+---
+ Frozen
+
+---
+label: PlayerIce_Caption
+attribute: 0x000000
+---
+・It seems they've been frozen...
+
+---
+label: Pose_001_Name
+attribute: 0x000000
+---
+ Idle
+
+---
+label: Pose_001_Caption
+attribute: 0x000000
+---
+・Developers communicate through Poses!
+・Step onto this Piece to strike a Pose.
+
+---
+label: Pose_002_Name
+attribute: 0x000000
+---
+ Catching Rays
+
+---
+label: Pose_003_Name
+attribute: 0x000000
+---
+ Lie Around
+
+---
+label: Pose_004_Name
+attribute: 0x000000
+---
+ Say "Cheeeese!"
+
+---
+label: Pose_005_Name
+attribute: 0x000000
+---
+ Warm and Cozy
+
+---
+label: Pose_006_Name
+attribute: 0x000000
+---
+ KLUNK!
+
+---
+label: Pose_007_Name
+attribute: 0x000000
+---
+ Crawling On (1)
+
+---
+label: Pose_008_Name
+attribute: 0x000000
+---
+ Crawling On (2)
+
+---
+label: Pose_009_Name
+attribute: 0x000000
+---
+ Get 'em Next Time
+
+---
+label: Pose_010_Name
+attribute: 0x000000
+---
+ The Stargazer
+
+---
+label: Pose_011_Name
+attribute: 0x000000
+---
+ The Peaceseeker
+
+---
+label: Pose_012_Name
+attribute: 0x000000
+---
+ Child of Fortune
+
+---
+label: Pose_013_Name
+attribute: 0x000000
+---
+ Rest, and Watch the Sun
+
+---
+label: Pose_014_Name
+attribute: 0x000000
+---
+ Buddies
+
+---
+label: Pose_015_Name
+attribute: 0x000000
+---
+ Best Friends
+
+---
+label: Pose_016_Name
+attribute: 0x000000
+---
+ Can't Watch!
+
+---
+label: Pose_017_Name
+attribute: 0x000000
+---
+ I Can't Hear You
+
+---
+label: Pose_018_Name
+attribute: 0x000000
+---
+ Plan and Progress
+
+---
+label: Pose_019_Name
+attribute: 0x000000
+---
+ A Minor Setback
+
+---
+label: Pose_020_Name
+attribute: 0x000000
+---
+ In the Dumps
+
+---
+label: Pose_021_Name
+attribute: 0x000000
+---
+ Hang On a Sec
+
+---
+label: Pose_022_Name
+attribute: 0x000000
+---
+ Whoa!
+
+---
+label: Pose_023_Name
+attribute: 0x000000
+---
+ Huh?!
+
+---
+label: Pose_024_Name
+attribute: 0x000000
+---
+ Attennnntion!
+
+---
+label: Pose_025_Name
+attribute: 0x000000
+---
+ Uh... Huh?
+
+---
+label: Pose_026_Name
+attribute: 0x000000
+---
+ With This, It Ends!
+
+---
+label: Pose_027_Name
+attribute: 0x000000
+---
+ Reach for the Sky
+
+---
+label: Pose_028_Name
+attribute: 0x000000
+---
+ What to Do...
+
+---
+label: Pose_029_Name
+attribute: 0x000000
+---
+ I See... I See...
+
+---
+label: Pose_030_Name
+attribute: 0x000000
+---
+ Aha!
+
+---
+label: Pose_031_Name
+attribute: 0x000000
+---
+ Aaaand...POSE!
+
+---
+label: Pose_032_Name
+attribute: 0x000000
+---
+ Challenge Accepted
+
+---
+label: Pose_033_Name
+attribute: 0x000000
+---
+ Revolves Around Me
+
+---
+label: Pose_034_Name
+attribute: 0x000000
+---
+ Oh...
+
+---
+label: Pose_035_Name
+attribute: 0x000000
+---
+ Material Worker
+
+---
+label: Pose_036_Name
+attribute: 0x000000
+---
+ Observing Thine Works
+
+---
+label: Pose_037_Name
+attribute: 0x000000
+---
+ Well Done
+
+---
+label: Pose_038_Name
+attribute: 0x000000
+---
+ Heeeeey! Over Here!
+
+---
+label: Pose_039_Name
+attribute: 0x000000
+---
+ You've Got This!
+
+---
+label: Pose_040_Name
+attribute: 0x000000
+---
+ Go, Go, Go!
+
+---
+label: Pose_041_Name
+attribute: 0x000000
+---
+ Bring It On!
+
+---
+label: Pose_042_Name
+attribute: 0x000000
+---
+ Safe!
+
+---
+label: Pose_043_Name
+attribute: 0x000000
+---
+ Muscle Up!
+
+---
+label: Pose_044_Name
+attribute: 0x000000
+---
+ Whaaa?
+
+---
+label: Pose_045_Name
+attribute: 0x000000
+---
+ Ta-da!
+
+---
+label: Pose_046_Name
+attribute: 0x000000
+---
+ Behold!
+
+---
+label: Pose_047_Name
+attribute: 0x000000
+---
+ Woo-hoo!
+
+---
+label: Pose_048_Name
+attribute: 0x000000
+---
+ Like Water
+
+---
+label: Pose_049_Name
+attribute: 0x000000
+---
+ Hayooo!
+
+---
+label: Pose_050_Name
+attribute: 0x000000
+---
+ Ha! Yes!
+
+---
+label: Pose_051_Name
+attribute: 0x000000
+---
+ Cartwheel
+
+---
+label: Pose_052_Name
+attribute: 0x000000
+---
+ Headspin
+
+---
+label: Pose_053_Name
+attribute: 0x000000
+---
+ The Quasar
+
+---
+label: Pose_054_Name
+attribute: 0x000000
+---
+ The Whip-Whap
+
+---
+label: Pose_055_Name
+attribute: 0x000000
+---
+ The Joopaloop
+
+---
+label: Pose_056_Name
+attribute: 0x000000
+---
+ Autumn Morning
+
+---
+label: Pose_057_Name
+attribute: 0x000000
+---
+ Dance of Comets
+
+---
+label: Pose_058_Name
+attribute: 0x000000
+---
+ The Shake
+
+---
+label: Pose_059_Name
+attribute: 0x000000
+---
+ The Wibby-Wobble
+
+---
+label: Pose_060_Name
+attribute: 0x000000
+---
+ Sliding In
+
+---
+label: Pose_061_Name
+attribute: 0x000000
+---
+ Coming in Hot
+
+---
+label: Pose_062_Name
+attribute: 0x000000
+---
+ Act Natural
+
+---
+label: Pose_063_Name
+attribute: 0x000000
+---
+ Ya!
+
+---
+label: Pose_064_Name
+attribute: 0x000000
+---
+ Best Of...
+
+---
+label: Pose_065_Name
+attribute: 0x000000
+---
+ Friends!
+
+---
+label: Pose_066_Name
+attribute: 0x000000
+---
+ Have No Fear, I'm Here
+
+---
+label: Pose_067_Name
+attribute: 0x000000
+---
+ The Hero Has Arrived
+
+---
+label: Pose_068_Name
+attribute: 0x000000
+---
+ In the Flesh!
+
+---
+label: Pose_069_Name
+attribute: 0x000000
+---
+ Ready...Set...
+
+---
+label: Pose_070_Name
+attribute: 0x000000
+---
+ FIGHT!
+
+---
+label: Pose_071_Name
+attribute: 0x000000
+---
+ Rrraaahhh!
+
+---
+label: Pose_072_Name
+attribute: 0x000000
+---
+ Helm Splitter
+
+---
+label: Pose_073_Name
+attribute: 0x000000
+---
+ Recon
+
+---
+label: Pose_074_Name
+attribute: 0x000000
+---
+ Hello?
+
+---
+label: Pose_075_Name
+attribute: 0x000000
+---
+ R&R
+
+---
+label: Pose_076_Name
+attribute: 0x000000
+---
+ Peace!
+
+---
+label: Pose_077_Name
+attribute: 0x000000
+---
+ Working Hard
+
+---
+label: Pose_078_Name
+attribute: 0x000000
+---
+ Stare
+
+---
+label: Pose_079_Name
+attribute: 0x000000
+---
+ Try Again Tomorrow
+
+---
+label: Pose_080_Name
+attribute: 0x000000
+---
+ One with the Universe
+
+---
+label: Pose_081_Name
+attribute: 0x000000
+---
+ Save Me!
+
+---
+label: Pose_082_Name
+attribute: 0x000000
+---
+ Starborn of the Universe
+
+---
+label: Pose_083_Name
+attribute: 0x000000
+---
+ Sky Glider
+
+---
+label: Pose_084_Name
+attribute: 0x000000
+---
+ Jump!
+
+---
+label: Pose_085_Name
+attribute: 0x000000
+---
+ Refined
+
+---
+label: Pose_086_Name
+attribute: 0x000000
+---
+ Yay!
+
+---
+label: Pose_087_Name
+attribute: 0x000000
+---
+ Wahoo!
+
+---
+label: Pose_088_Name
+attribute: 0x000000
+---
+ Hero's Landing
+
+---
+label: Pose_089_Name
+attribute: 0x000000
+---
+ Big and Scary
+
+---
+label: Pose_090_Name
+attribute: 0x000000
+---
+ Scratchy Scratch
+
+---
+label: Pose_091_Name
+attribute: 0x000000
+---
+ En Garde!
+
+---
+label: Pose_092_Name
+attribute: 0x000000
+---
+ Hmmm...
+
+---
+label: Pose_093_Name
+attribute: 0x000000
+---
+ Huh?
+
+---
+label: Pose_094_Name
+attribute: 0x000000
+---
+ What's That?
+
+---
+label: Pose_095_Name
+attribute: 0x000000
+---
+ What in the World is That?
+
+---
+label: Pose_096_Name
+attribute: 0x000000
+---
+ What Is That Thing?
+
+---
+label: Pose_097_Name
+attribute: 0x000000
+---
+ Not Today...
+
+---
+label: Pose_098_Name
+attribute: 0x000000
+---
+ Dreamwalker
+
+---
+label: Pose_099_Name
+attribute: 0x000000
+---
+ Tomorrow's Problem
+
+---
+label: Pose_100_Name
+attribute: 0x000000
+---
+ Child of Joy
+
+---
+label: ProfileUpdate_Name
+attribute: 0x000000
+---
+ Profile Photo Cam
+
+---
+label: ProfileUpdate_Caption
+attribute: 0x000000
+---
+・Take and update your profile pictures. 
+・Pictures are displayed in the  DPS.
+
+---
+label: PvP_Score_01_Name
+attribute: 0x000000
+---
++1 Point
+
+---
+label: PvP_Score_01_Caption
+attribute: 0x000000
+---
+・Appears when you defeat an opponent.
+・Adds a point to your count when obtained.
+・You can't collect Pieces lost when you are defeated.
+
+---
+label: Road_Name
+attribute: 0x000000
+---
+Road
+
+---
+label: Road_Caption
+attribute: 0x000000
+---
+・Place Rock or Metal next to this Piece to
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}extend the road.
+・Movement speed is increased when on a road.
+・Roads can only be extended horizontally.
+
+---
+label: Rock_Name
+attribute: 0x000000
+---
+ Raw Ore
+
+---
+label: Rock_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Stone. 
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockCopper_Name
+attribute: 0x000000
+---
+ Copper Junk Stone
+
+---
+label: RockCopper_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockDiamond_Name
+attribute: 0x000000
+---
+ Diamond Junk Stone
+
+---
+label: RockDiamond_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockEmerald_Name
+attribute: 0x000000
+---
+ Emerald Junk Stone
+
+---
+label: RockEmerald_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockGemDiamond_Name
+attribute: 0x000000
+---
+ Diamond Ore
+
+---
+label: RockGemDiamond_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Diamond.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockGemEmerald_Name
+attribute: 0x000000
+---
+ Emerald Ore
+
+---
+label: RockGemEmerald_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Emerald.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockGemRuby_Name
+attribute: 0x000000
+---
+ Ruby Ore
+
+---
+label: RockGemRuby_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Ruby.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockGemSapphire_Name
+attribute: 0x000000
+---
+ Sapphire Ore
+
+---
+label: RockGemSapphire_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Sapphire.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockGold_Name
+attribute: 0x000000
+---
+ Gold Junk Stone
+
+---
+label: RockGold_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockIron_Name
+attribute: 0x000000
+---
+ Iron Junk Stone
+
+---
+label: RockIron_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockMetalCopper_Name
+attribute: 0x000000
+---
+ Copper Ore
+
+---
+label: RockMetalCopper_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Copper.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockMetalGold_Name
+attribute: 0x000000
+---
+ Gold Ore
+
+---
+label: RockMetalGold_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Gold.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockMetalIron_Name
+attribute: 0x000000
+---
+ Iron Ore
+
+---
+label: RockMetalIron_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Iron.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockMetalSilver_Name
+attribute: 0x000000
+---
+ Silver Ore
+
+---
+label: RockMetalSilver_Caption
+attribute: 0x000000
+---
+・Strike it to dig up Silver.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockNone_Name
+attribute: 0x000000
+---
+ Junk Stone
+
+---
+label: RockNone_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockRuby_Name
+attribute: 0x000000
+---
+ Ruby Junk Stone
+
+---
+label: RockRuby_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockSapphire_Name
+attribute: 0x000000
+---
+ Sapphire Junk Stone
+
+---
+label: RockSapphire_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockSilver_Name
+attribute: 0x000000
+---
+ Silver Junk Stone
+
+---
+label: RockSilver_Caption
+attribute: 0x000000
+---
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockStone_Name
+attribute: 0x000000
+---
+ Stone
+
+---
+label: RockStone_Caption
+attribute: 0x000000
+---
+・When broken, a  Stone card appears.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockStone_01_Name
+attribute: 0x000000
+---
+ Stone
+
+---
+label: RockStone_01_Caption
+attribute: 0x000000
+---
+・When broken, a  Stone card appears.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: RockStone_02_Name
+attribute: 0x000000
+---
+ Stone
+
+---
+label: RockStone_02_Caption
+attribute: 0x000000
+---
+・When broken, a  Stone card appears.
+・Fuses in Magma.
+・Changes to Clay in Swamp.
+
+---
+label: Sand_Name
+attribute: 0x000000
+---
+ Sand
+
+---
+label: Sand_Caption
+attribute: 0x000000
+---
+・When struck, nearby Sand breaks.
+・Changes to a Glass Spike in Magma.
+・Changes to Soil in Water.
+
+---
+label: SandDamage_Name
+attribute: 0x000000
+---
+ Sand
+
+---
+label: SandDamage_Caption
+attribute: 0x000000
+---
+・When struck, nearby Sand also breaks.
+・Changes to a Glass Spike in Magma.
+・Changes to Soil in Water.
+
+---
+label: SectCaption_Name_WithoutReplaceTag
+attribute: 0x000000
+---
+-
+
+---
+label: SectCaption_Name
+attribute: 0x000000
+---
+ [{{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005800"}}, {{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005A00"}}] Connection Info
+
+---
+label: SectCaption_Caption
+attribute: 0x000000
+---
+・Displays the Connection information for this block.
+
+---
+label: Section_Complete_Name
+attribute: 0x000000
+---
+Gaia Pulse Switch
+
+---
+label: Section_Complete_Caption
+attribute: 0x000000
+---
+・Can be activated when this block's
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}Dev Points are maximized.
+・When activated, this block will be released
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}from the darkness.
+
+---
+label: Section_Complete_Off_Name
+attribute: 0x000000
+---
+ Warp Card
+
+---
+label: Section_Complete_Off_Caption
+attribute: 0x000000
+---
+・Take out a card that can warp you to this block.
+・Consider giving the card to someone else.
+
+---
+label: Seed_Name
+attribute: 0x000000
+---
+ Seed
+
+---
+label: Seed_Caption
+attribute: 0x000000
+---
+・Grows when planted in Soil.
+・Transforms into a Sprout over time.
+・When destroyed, restores a small amount of {{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}} Life.
+
+---
+label: SeedGrow_01_Name
+attribute: 0x000000
+---
+ Growing Seed
+
+---
+label: SeedGrow_01_Caption
+attribute: 0x000000
+---
+・Begins growing with light from a Beacon.
+・Grows into a Sprout over time.
+・A Sprout's potential is a mystery.
+
+---
+label: Seq_CmnGameover_Name
+attribute: 0x000000
+---
+Danger Spike
+
+---
+label: Seq_CmnGameover_Caption
+attribute: 0x000000
+---
+・Touching this results in a Game Over.
+
+---
+label: Seq_CmnSet_Name
+attribute: 0x000000
+---
+Embarkation Point
+
+---
+label: Seq_CmnSet_Caption
+attribute: 0x000000
+---
+・From here, developers set forth.
+
+---
+label: Seq_Spirit_Name
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: Seq_Spirit_Caption
+attribute: 0x000000
+---
+・Welcome, developer.
+・Remember to be considerate of others.
+・I'm always watching through your {{0:3 arg="0x0400"}} Beacon{{0:3 arg="0xFFFF"}}.
+
+---
+label: Seq_UgcExam_Guideline_Name
+attribute: 0x000000
+---
+Community Guidelines
+
+---
+label: Seq_UgcExam_Guideline_Caption
+attribute: 0x000000
+---
+・This is very important information.
+・We thank you for your cooperation.
+
+---
+label: SmokeIce_Name
+attribute: 0x000000
+---
+ Smoke
+
+---
+label: SmokeIce_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: SmokeLv1_Name
+attribute: 0x000000
+---
+ Smoke
+
+---
+label: SmokeLv1_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+・Changes to Cloud in Frost.
+
+---
+label: SmokeLv3_Name
+attribute: 0x000000
+---
+ Smoke
+
+---
+label: SmokeLv3_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+・Changes to Cloud in Frost.
+
+---
+label: SmokeLv5_Name
+attribute: 0x000000
+---
+ Smoke
+
+---
+label: SmokeLv5_Caption
+attribute: 0x000000
+---
+・Creates an explosion when struck.
+・Changes to Cloud in Frost.
+
+---
+label: Soil_Name
+attribute: 0x000000
+---
+ Soil
+
+---
+label: Soil_Caption
+attribute: 0x000000
+---
+・Sprouts grow when Seeds are placed on top.
+・Changes to Sand in Swamp.
+
+---
+label: SoilClay_Name
+attribute: 0x000000
+---
+ Clay
+
+---
+label: SoilClay_Caption
+attribute: 0x000000
+---
+・Fuses with Clay and Soil.
+・Fuses with Wood and Rock.
+
+---
+label: SoilFarm_Name
+attribute: 0x000000
+---
+ Field Soil
+
+---
+label: SoilFarm_Caption
+attribute: 0x000000
+---
+・Sprouts grow when Seeds are placed on top.
+・Seeds grow faster in Field Soil.
+・Changes to Sand in Swamp.
+
+---
+label: Sound_Music_A_01_Name
+attribute: 0x000000
+---
+ Exciting #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_01_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: Sound_Music_A_01_Check_Name
+attribute: 0x000000
+---
+ Confirming...
+
+---
+label: Sound_Music_A_01_Check_Caption
+attribute: 0x000000
+---
+ Confirming...
+
+---
+label: Sound_Music_A_01_On_Name
+attribute: 0x000000
+---
+ Exciting #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_01_On_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Broadcasts music within the Beacon Zone.
+・Strike to turn {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+
+---
+label: Sound_Music_A_02_Name
+attribute: 0x000000
+---
+ Exciting #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_02_On_Name
+attribute: 0x000000
+---
+ Exciting #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_03_Name
+attribute: 0x000000
+---
+ Exciting #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_03_On_Name
+attribute: 0x000000
+---
+ Exciting #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_04_Name
+attribute: 0x000000
+---
+ Exciting #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_04_On_Name
+attribute: 0x000000
+---
+ Exciting #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_05_Name
+attribute: 0x000000
+---
+ Exciting #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_05_On_Name
+attribute: 0x000000
+---
+ Exciting #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_06_Name
+attribute: 0x000000
+---
+ Exciting #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_06_On_Name
+attribute: 0x000000
+---
+ Exciting #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_07_Name
+attribute: 0x000000
+---
+ Exciting #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_07_On_Name
+attribute: 0x000000
+---
+ Exciting #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_08_Name
+attribute: 0x000000
+---
+ Exciting #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_08_On_Name
+attribute: 0x000000
+---
+ Exciting #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_09_Name
+attribute: 0x000000
+---
+ Exciting #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_A_09_On_Name
+attribute: 0x000000
+---
+ Exciting #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_01_Name
+attribute: 0x000000
+---
+ Stylish #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_01_On_Name
+attribute: 0x000000
+---
+ Stylish #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_02_Name
+attribute: 0x000000
+---
+ Stylish #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_02_On_Name
+attribute: 0x000000
+---
+ Stylish #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_03_Name
+attribute: 0x000000
+---
+ Stylish #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_03_On_Name
+attribute: 0x000000
+---
+ Stylish #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_04_Name
+attribute: 0x000000
+---
+ Stylish #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_04_On_Name
+attribute: 0x000000
+---
+ Stylish #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_05_Name
+attribute: 0x000000
+---
+ Stylish #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_05_On_Name
+attribute: 0x000000
+---
+ Stylish #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_06_Name
+attribute: 0x000000
+---
+ Stylish #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_06_On_Name
+attribute: 0x000000
+---
+ Stylish #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_07_Name
+attribute: 0x000000
+---
+ Stylish #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_07_On_Name
+attribute: 0x000000
+---
+ Stylish #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_08_Name
+attribute: 0x000000
+---
+ Stylish #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_08_On_Name
+attribute: 0x000000
+---
+ Stylish #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_09_Name
+attribute: 0x000000
+---
+ Stylish #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_B_09_On_Name
+attribute: 0x000000
+---
+ Stylish #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_01_Name
+attribute: 0x000000
+---
+ Revved Up #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_01_On_Name
+attribute: 0x000000
+---
+ Revved Up #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_02_Name
+attribute: 0x000000
+---
+ Revved Up #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_02_On_Name
+attribute: 0x000000
+---
+ Revved Up #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_03_Name
+attribute: 0x000000
+---
+ Revved Up #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_03_On_Name
+attribute: 0x000000
+---
+ Revved Up #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_04_Name
+attribute: 0x000000
+---
+ Revved Up #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_04_On_Name
+attribute: 0x000000
+---
+ Revved Up #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_05_Name
+attribute: 0x000000
+---
+ Revved Up #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_05_On_Name
+attribute: 0x000000
+---
+ Revved Up #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_06_Name
+attribute: 0x000000
+---
+ Revved Up #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_06_On_Name
+attribute: 0x000000
+---
+ Revved Up #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_07_Name
+attribute: 0x000000
+---
+ Revved Up #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_C_07_On_Name
+attribute: 0x000000
+---
+ Revved Up #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_01_Name
+attribute: 0x000000
+---
+ Moving #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_01_On_Name
+attribute: 0x000000
+---
+ Moving #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_02_Name
+attribute: 0x000000
+---
+ Moving #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_02_On_Name
+attribute: 0x000000
+---
+ Moving #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_03_Name
+attribute: 0x000000
+---
+ Moving #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_03_On_Name
+attribute: 0x000000
+---
+ Moving #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_04_Name
+attribute: 0x000000
+---
+ Moving #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_04_On_Name
+attribute: 0x000000
+---
+ Moving #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_05_Name
+attribute: 0x000000
+---
+ Moving #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_05_On_Name
+attribute: 0x000000
+---
+ Moving #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_06_Name
+attribute: 0x000000
+---
+ Moving #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_06_On_Name
+attribute: 0x000000
+---
+ Moving #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_07_Name
+attribute: 0x000000
+---
+ Moving #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_D_07_On_Name
+attribute: 0x000000
+---
+ Moving #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_01_Name
+attribute: 0x000000
+---
+ Feeling Good #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_01_On_Name
+attribute: 0x000000
+---
+ Feeling Good #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_02_Name
+attribute: 0x000000
+---
+ Feeling Good #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_02_On_Name
+attribute: 0x000000
+---
+ Feeling Good #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_03_Name
+attribute: 0x000000
+---
+ Feeling Good #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_03_On_Name
+attribute: 0x000000
+---
+ Feeling Good #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_04_Name
+attribute: 0x000000
+---
+ Feeling Good #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_04_On_Name
+attribute: 0x000000
+---
+ Feeling Good #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_05_Name
+attribute: 0x000000
+---
+ Feeling Good #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_05_On_Name
+attribute: 0x000000
+---
+ Feeling Good #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_06_Name
+attribute: 0x000000
+---
+ Feeling Good #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_06_On_Name
+attribute: 0x000000
+---
+ Feeling Good #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_07_Name
+attribute: 0x000000
+---
+ Feeling Good #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_07_On_Name
+attribute: 0x000000
+---
+ Feeling Good #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_08_Name
+attribute: 0x000000
+---
+ Feeling Good #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_08_On_Name
+attribute: 0x000000
+---
+ Feeling Good #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_09_Name
+attribute: 0x000000
+---
+ Feeling Good #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_09_On_Name
+attribute: 0x000000
+---
+ Feeling Good #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_10_Name
+attribute: 0x000000
+---
+ Feeling Good #10{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_10_On_Name
+attribute: 0x000000
+---
+ Feeling Good #10{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_11_Name
+attribute: 0x000000
+---
+ Feeling Good #11{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_11_On_Name
+attribute: 0x000000
+---
+ Feeling Good #11{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_12_Name
+attribute: 0x000000
+---
+ Feeling Good #12{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_12_On_Name
+attribute: 0x000000
+---
+ Feeling Good #12{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_13_Name
+attribute: 0x000000
+---
+ Feeling Good #13{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_E_13_On_Name
+attribute: 0x000000
+---
+ Feeling Good #13{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_01_Name
+attribute: 0x000000
+---
+ Chill #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_01_On_Name
+attribute: 0x000000
+---
+ Chill #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_02_Name
+attribute: 0x000000
+---
+ Chill #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_02_On_Name
+attribute: 0x000000
+---
+ Chill #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_03_Name
+attribute: 0x000000
+---
+ Chill #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_03_On_Name
+attribute: 0x000000
+---
+ Chill #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_04_Name
+attribute: 0x000000
+---
+ Chill #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_04_On_Name
+attribute: 0x000000
+---
+ Chill #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_05_Name
+attribute: 0x000000
+---
+ Chill #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_05_On_Name
+attribute: 0x000000
+---
+ Chill #05{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_06_Name
+attribute: 0x000000
+---
+ Chill #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_06_On_Name
+attribute: 0x000000
+---
+ Chill #06{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_07_Name
+attribute: 0x000000
+---
+ Chill #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_07_On_Name
+attribute: 0x000000
+---
+ Chill #07{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_08_Name
+attribute: 0x000000
+---
+ Chill #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_08_On_Name
+attribute: 0x000000
+---
+ Chill #08{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_09_Name
+attribute: 0x000000
+---
+ Chill #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_09_On_Name
+attribute: 0x000000
+---
+ Chill #09{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_10_Name
+attribute: 0x000000
+---
+ Chill #10{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_F_10_On_Name
+attribute: 0x000000
+---
+ Chill #10{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_01_Name
+attribute: 0x000000
+---
+ Mysterious #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_01_On_Name
+attribute: 0x000000
+---
+ Mysterious #01{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_02_Name
+attribute: 0x000000
+---
+ Mysterious #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_02_On_Name
+attribute: 0x000000
+---
+ Mysterious #02{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_03_Name
+attribute: 0x000000
+---
+ Mysterious #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_03_On_Name
+attribute: 0x000000
+---
+ Mysterious #03{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_04_Name
+attribute: 0x000000
+---
+ Mysterious #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_Music_G_04_On_Name
+attribute: 0x000000
+---
+ Mysterious #04{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_RadioCmn_Name
+attribute: 0x000000
+---
+Developer's Radio{{0:2 arg="0x5000"}} ({{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_RadioCmn_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: Sound_RadioCmn_On_Name
+attribute: 0x000000
+---
+Developer's Radio{{0:2 arg="0x5000"}} ({{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}}){{0:2 arg="0x6400"}}
+
+---
+label: Sound_RadioCmn_On_Caption
+attribute: 0x000000
+---
+・Music and development go hand-in-hand!
+・Strike to turn {{0:3 arg="0x0000"}}ON {{0:3 arg="0xFFFF"}}or {{0:3 arg="0x0100"}}OFF{{0:3 arg="0xFFFF"}}.
+・Music changes depending on the location it's placed.
+
+---
+label: Sound_Sfx_Inst_001_A3_Name
+attribute: 0x000000
+---
+ Piano: La
+
+---
+label: Sound_Sfx_Inst_001_A3_Caption
+attribute: 0x000000
+---
+・Play a tune to the rhythm of development.
+・Creates sound when stepped on.
+
+---
+label: Sound_Sfx_Inst_001_B3_Name
+attribute: 0x000000
+---
+ Piano: Ti
+
+---
+label: Sound_Sfx_Inst_001_C3_Name
+attribute: 0x000000
+---
+ Piano: Do
+
+---
+label: Sound_Sfx_Inst_001_C4_Name
+attribute: 0x000000
+---
+ Piano: Raised Do
+
+---
+label: Sound_Sfx_Inst_001_D3_Name
+attribute: 0x000000
+---
+ Piano: Re
+
+---
+label: Sound_Sfx_Inst_001_E3_Name
+attribute: 0x000000
+---
+ Piano: Mi
+
+---
+label: Sound_Sfx_Inst_001_F3_Name
+attribute: 0x000000
+---
+ Piano: Fa
+
+---
+label: Sound_Sfx_Inst_001_G3_Name
+attribute: 0x000000
+---
+ Piano: Sol
+
+---
+label: Sound_Sfx_Inst_002_A3_Name
+attribute: 0x000000
+---
+ Bell: La
+
+---
+label: Sound_Sfx_Inst_002_B3_Name
+attribute: 0x000000
+---
+ Bell: Ti
+
+---
+label: Sound_Sfx_Inst_002_C3_Name
+attribute: 0x000000
+---
+ Bell: Do
+
+---
+label: Sound_Sfx_Inst_002_C4_Name
+attribute: 0x000000
+---
+ Bell: Raised Do
+
+---
+label: Sound_Sfx_Inst_002_D3_Name
+attribute: 0x000000
+---
+ Bell: Re
+
+---
+label: Sound_Sfx_Inst_002_E3_Name
+attribute: 0x000000
+---
+ Bell: Mi
+
+---
+label: Sound_Sfx_Inst_002_F3_Name
+attribute: 0x000000
+---
+ Bell: Fa
+
+---
+label: Sound_Sfx_Inst_002_G3_Name
+attribute: 0x000000
+---
+ Bell: Sol
+
+---
+label: Sound_Sfx_Inst_003_A3_Name
+attribute: 0x000000
+---
+ Marimba: La
+
+---
+label: Sound_Sfx_Inst_003_B3_Name
+attribute: 0x000000
+---
+ Marimba: Ti
+
+---
+label: Sound_Sfx_Inst_003_C3_Name
+attribute: 0x000000
+---
+ Marimba: Do
+
+---
+label: Sound_Sfx_Inst_003_C4_Name
+attribute: 0x000000
+---
+ Marimba: Raised Do
+
+---
+label: Sound_Sfx_Inst_003_D3_Name
+attribute: 0x000000
+---
+ Marimba: Re
+
+---
+label: Sound_Sfx_Inst_003_E3_Name
+attribute: 0x000000
+---
+ Marimba: Mi
+
+---
+label: Sound_Sfx_Inst_003_F3_Name
+attribute: 0x000000
+---
+ Marimba: Fa
+
+---
+label: Sound_Sfx_Inst_003_G3_Name
+attribute: 0x000000
+---
+ Marimba: Sol
+
+---
+label: Sound_Sfx_Inst_004_A3_Name
+attribute: 0x000000
+---
+ Bass: La
+
+---
+label: Sound_Sfx_Inst_004_B3_Name
+attribute: 0x000000
+---
+ Bass: Ti
+
+---
+label: Sound_Sfx_Inst_004_C3_Name
+attribute: 0x000000
+---
+ Bass: Do
+
+---
+label: Sound_Sfx_Inst_004_C4_Name
+attribute: 0x000000
+---
+ Bass: Raised Do
+
+---
+label: Sound_Sfx_Inst_004_D3_Name
+attribute: 0x000000
+---
+ Bass: Re
+
+---
+label: Sound_Sfx_Inst_004_E3_Name
+attribute: 0x000000
+---
+ Bass: Mi
+
+---
+label: Sound_Sfx_Inst_004_F3_Name
+attribute: 0x000000
+---
+ Bass: Fa
+
+---
+label: Sound_Sfx_Inst_004_G3_Name
+attribute: 0x000000
+---
+ Bass: Sol
+
+---
+label: Sound_Sfx_Inst_005_A3_Name
+attribute: 0x000000
+---
+ Trumpet: La
+
+---
+label: Sound_Sfx_Inst_005_B3_Name
+attribute: 0x000000
+---
+ Trumpet: Ti
+
+---
+label: Sound_Sfx_Inst_005_C3_Name
+attribute: 0x000000
+---
+ Trumpet: Do
+
+---
+label: Sound_Sfx_Inst_005_C4_Name
+attribute: 0x000000
+---
+ Trumpet: Raised Do
+
+---
+label: Sound_Sfx_Inst_005_D3_Name
+attribute: 0x000000
+---
+ Trumpet: Re
+
+---
+label: Sound_Sfx_Inst_005_E3_Name
+attribute: 0x000000
+---
+ Trumpet: Mi
+
+---
+label: Sound_Sfx_Inst_005_F3_Name
+attribute: 0x000000
+---
+ Trumpet: Fa
+
+---
+label: Sound_Sfx_Inst_005_G3_Name
+attribute: 0x000000
+---
+ Trumpet: Sol
+
+---
+label: Sound_Sfx_Inst_006_A3_Name
+attribute: 0x000000
+---
+ 8-Bit: La
+
+---
+label: Sound_Sfx_Inst_006_B3_Name
+attribute: 0x000000
+---
+ 8-Bit: Ti
+
+---
+label: Sound_Sfx_Inst_006_C3_Name
+attribute: 0x000000
+---
+ 8-Bit: Do
+
+---
+label: Sound_Sfx_Inst_006_C4_Name
+attribute: 0x000000
+---
+ 8-Bit: Raised Do
+
+---
+label: Sound_Sfx_Inst_006_D3_Name
+attribute: 0x000000
+---
+ 8-Bit: Re
+
+---
+label: Sound_Sfx_Inst_006_E3_Name
+attribute: 0x000000
+---
+ 8-Bit: Mi
+
+---
+label: Sound_Sfx_Inst_006_F3_Name
+attribute: 0x000000
+---
+ 8-Bit: Fa
+
+---
+label: Sound_Sfx_Inst_006_G3_Name
+attribute: 0x000000
+---
+ 8-Bit: Sol
+
+---
+label: Sound_Sfx_Inst_007_A3_Name
+attribute: 0x000000
+---
+ Voice: La
+
+---
+label: Sound_Sfx_Inst_007_B3_Name
+attribute: 0x000000
+---
+ Voice: Ti
+
+---
+label: Sound_Sfx_Inst_007_C3_Name
+attribute: 0x000000
+---
+ Voice: Do
+
+---
+label: Sound_Sfx_Inst_007_C4_Name
+attribute: 0x000000
+---
+ Voice: Raised Do
+
+---
+label: Sound_Sfx_Inst_007_D3_Name
+attribute: 0x000000
+---
+ Voice: Re
+
+---
+label: Sound_Sfx_Inst_007_E3_Name
+attribute: 0x000000
+---
+ Voice: Mi
+
+---
+label: Sound_Sfx_Inst_007_F3_Name
+attribute: 0x000000
+---
+ Voice: Fa
+
+---
+label: Sound_Sfx_Inst_007_G3_Name
+attribute: 0x000000
+---
+ Voice: Sol
+
+---
+label: Sound_Sfx_Inst_008_A3_Name
+attribute: 0x000000
+---
+ Strings: La
+
+---
+label: Sound_Sfx_Inst_008_B3_Name
+attribute: 0x000000
+---
+ Strings: Ti
+
+---
+label: Sound_Sfx_Inst_008_C3_Name
+attribute: 0x000000
+---
+ Strings: Do
+
+---
+label: Sound_Sfx_Inst_008_C4_Name
+attribute: 0x000000
+---
+ Strings: Raised Do
+
+---
+label: Sound_Sfx_Inst_008_D3_Name
+attribute: 0x000000
+---
+ Strings: Re
+
+---
+label: Sound_Sfx_Inst_008_E3_Name
+attribute: 0x000000
+---
+ Strings: Mi
+
+---
+label: Sound_Sfx_Inst_008_F3_Name
+attribute: 0x000000
+---
+ Strings: Fa
+
+---
+label: Sound_Sfx_Inst_008_G3_Name
+attribute: 0x000000
+---
+ Strings: Sol
+
+---
+label: Sound_Sfx_Sfx_001_Name
+attribute: 0x000000
+---
+ Correct!
+
+---
+label: Sound_Sfx_Sfx_001_Caption
+attribute: 0x000000
+---
+・Make some noise.
+・Creates sound when stepped on.
+
+---
+label: Sound_Sfx_Sfx_002_Name
+attribute: 0x000000
+---
+ Spot On!
+
+---
+label: Sound_Sfx_Sfx_003_Name
+attribute: 0x000000
+---
+ Incorrect...
+
+---
+label: Sound_Sfx_Sfx_004_Name
+attribute: 0x000000
+---
+ Cymbal Crash
+
+---
+label: Sound_Sfx_Sfx_005_Name
+attribute: 0x000000
+---
+ KABOOM!
+
+---
+label: Sound_Sfx_Sfx_006_Name
+attribute: 0x000000
+---
+ BOIIING!
+
+---
+label: Sound_Sfx_Sfx_007_Name
+attribute: 0x000000
+---
+ Funny Bounce
+
+---
+label: Sound_Sfx_Sfx_008_Name
+attribute: 0x000000
+---
+ Jump Scare
+
+---
+label: Sound_Sfx_Sfx_009_Name
+attribute: 0x000000
+---
+ Air Horn
+
+---
+label: Sound_Sfx_Sfx_010_Name
+attribute: 0x000000
+---
+ Chicken
+
+---
+label: Sound_Sfx_Sfx_011_Name
+attribute: 0x000000
+---
+ The Cat's Meow
+
+---
+label: Sound_Sfx_Sfx_012_Name
+attribute: 0x000000
+---
+ Raising Sheep
+
+---
+label: Sound_Sfx_Sfx_013_Name
+attribute: 0x000000
+---
+ Man's Best Friend
+
+---
+label: Sound_Sfx_Sfx_014_Name
+attribute: 0x000000
+---
+ Joke Horn
+
+---
+label: Sound_Sfx_Sfx_015_Name
+attribute: 0x000000
+---
+ Squeaky Toy
+
+---
+label: Sound_Sfx_Sfx_016_Name
+attribute: 0x000000
+---
+ Welcome In!
+
+---
+label: Sound_Sfx_Sfx_017_Name
+attribute: 0x000000
+---
+ Heartbeat
+
+---
+label: Sound_Sfx_Sfx_018_Name
+attribute: 0x000000
+---
+ Camera
+
+---
+label: Sound_Sfx_Sfx_019_Name
+attribute: 0x000000
+---
+ Shutter Storm
+
+---
+label: Sound_Sfx_Sfx_020_Name
+attribute: 0x000000
+---
+ Applause
+
+---
+label: Sound_Sfx_Sfx_021_Name
+attribute: 0x000000
+---
+ Car Horn
+
+---
+label: Sound_Sfx_Sfx_022_Name
+attribute: 0x000000
+---
+ Drum Roll, Please!
+
+---
+label: Sound_Sfx_Sfx_023_Name
+attribute: 0x000000
+---
+ Yeah!
+
+---
+label: Sound_Sfx_Sfx_024_Name
+attribute: 0x000000
+---
+ Hey!
+
+---
+label: Sound_Sfx_Sfx_025_Name
+attribute: 0x000000
+---
+ Whistle Call
+
+---
+label: Sound_Sfx_Sfx_026_Name
+attribute: 0x000000
+---
+ Firework Rising
+
+---
+label: Sound_Sfx_Sfx_027_Name
+attribute: 0x000000
+---
+ Select
+
+---
+label: Sound_Sfx_Sfx_028_Name
+attribute: 0x000000
+---
+ Chatter
+
+---
+label: Sound_Sfx_Sfx_029_Name
+attribute: 0x000000
+---
+ Pure Joy
+
+---
+label: Sound_Sfx_Sfx_030_Name
+attribute: 0x000000
+---
+ Keep Survivin'
+
+---
+label: Sound_Sfx_Sfx_031_Name
+attribute: 0x000000
+---
+ The Edge of Your Seat
+
+---
+label: Sound_Sfx_Sfx_032_Name
+attribute: 0x000000
+---
+ Looking Sharp!
+
+---
+label: Sound_Sfx_Sfx_033_Name
+attribute: 0x000000
+---
+ Spray
+
+---
+label: Sound_Sfx_Sfx_034_Name
+attribute: 0x000000
+---
+ Hand Drum
+
+---
+label: Sound_Sfx_Sfx_035_Name
+attribute: 0x000000
+---
+ AAAAHHHH!
+
+---
+label: Sound_Sfx_Sfx_036_Name
+attribute: 0x000000
+---
+ Night Beat
+
+---
+label: Sound_Sfx_Sfx_037_Name
+attribute: 0x000000
+---
+ Celebration Horn
+
+---
+label: Sound_Sfx_Sfx_038_Name
+attribute: 0x000000
+---
+ Birdsong
+
+---
+label: Sound_Sfx_Sfx_039_Name
+attribute: 0x000000
+---
+ Timpani Roll
+
+---
+label: Sound_Sfx_Sfx_040_Name
+attribute: 0x000000
+---
+ Bamboo Flute
+
+---
+label: Sound_Sfx_Sfx_041_Name
+attribute: 0x000000
+---
+ DING!
+
+---
+label: Sound_Sfx_Sfx_042_Name
+attribute: 0x000000
+---
+ Bass Drum
+
+---
+label: Sound_Sfx_Sfx_043_Name
+attribute: 0x000000
+---
+ Snare Drum
+
+---
+label: Sound_Sfx_Sfx_044_Name
+attribute: 0x000000
+---
+ Hi-Hat
+
+---
+label: Sound_Sfx_Sfx_045_Name
+attribute: 0x000000
+---
+ Shocked
+
+---
+label: Sound_Sfx_Sfx_046_Name
+attribute: 0x000000
+---
+ Act Normal
+
+---
+label: Sound_Sfx_Sfx_047_Name
+attribute: 0x000000
+---
+ System Engage
+
+---
+label: Sound_Sfx_Sfx_048_Name
+attribute: 0x000000
+---
+ Telephone Ring
+
+---
+label: Sound_Sfx_Sfx_049_Name
+attribute: 0x000000
+---
+ OOHOOP!
+
+---
+label: Sound_Sfx_Sfx_050_Name
+attribute: 0x000000
+---
+ WEEOOP!
+
+---
+label: Sound_Sfx_Sfx_052_Name
+attribute: 0x000000
+---
+ Cow
+
+---
+label: Sound_StageBgm_Step1_Name
+attribute: 0x000000
+---
+Darkness Radio
+
+---
+label: Sound_StageBgm_Step1_Caption
+attribute: 0x000000
+---
+・Receiving a dark transmission from...somewhere.
+
+---
+label: Stg_Flag_Name
+attribute: 0x000000
+---
+ Light Key
+
+---
+label: Stg_Flag_Caption
+attribute: 0x000000
+---
+・Carry the  Light Key to the Lock of Darkness.
+・Place it on top of the Lock of Darkness to open it.
+
+---
+label: Stg_FlagBreak_Name
+attribute: 0x000000
+---
+ Light Key
+
+---
+label: Stg_FlagBreak_Caption
+attribute: 0x000000
+---
+・Carry the  Light Key to the Lock of Darkness.
+・Place it on top of the Lock of Darkness to open it.
+
+---
+label: Stg_Gate_Name
+attribute: 0x000000
+---
+ Teleporter
+
+---
+label: Stg_Gate_Caption
+attribute: 0x000000
+---
+・Leave the darkness.
+・You can take Pieces with you.
+
+---
+label: Stg_GateLose_Name
+attribute: 0x000000
+---
+Give up and leave...
+
+---
+label: Stg_GateLose_Caption
+attribute: 0x000000
+---
+・Leave the darkness.
+・You cannot take Pieces with you.
+
+---
+label: Stg_LockOff_Name
+attribute: 0x000000
+---
+ Lock of Darkness
+
+---
+label: Stg_LockOff_Caption
+attribute: 0x000000
+---
+・Unlocks when a  Light Key is placed on top of it.
+
+---
+label: Stg_LockOn_Name
+attribute: 0x000000
+---
+ Lock of Darkness
+
+---
+label: Stg_LockOn_Caption
+attribute: 0x000000
+---
+・Unlocks when a  Light Key is placed on top of it.
+
+---
+label: Stg_LockOnStart_Name
+attribute: 0x000000
+---
+ Lock of Darkness
+
+---
+label: Stg_LockOnStart_Caption
+attribute: 0x000000
+---
+・Unlocks when a  Light Key is placed on top of it.
+
+---
+label: Stg_LockOnStartSwitched_Name
+attribute: 0x000000
+---
+ Lock of Darkness
+
+---
+label: Stg_LockOnStartSwitched_Caption
+attribute: 0x000000
+---
+・Unlocks when a  Light Key is placed on top of it.
+
+---
+label: Stg_PieceLv1_Name
+attribute: 0x000000
+---
+[#ステージ][#モブ]ステージ用の材質：Lv.1
+
+---
+label: Stg_PieceLv1_Caption
+attribute: 0x000000
+---
+[#ステージ][#モブ]ステージ用の材質：Lv.1 is ...
+
+---
+label: Stg_PieceLv2_Name
+attribute: 0x000000
+---
+[#ステージ][#モブ]ステージ用の材質：Lv.2
+
+---
+label: Stg_PieceLv2_Caption
+attribute: 0x000000
+---
+[#ステージ][#モブ]ステージ用の材質：Lv.2 is ...
+
+---
+label: Stg_PieceLv3_Name
+attribute: 0x000000
+---
+[#ステージ][#モブ]ステージ用の材質：Lv.3
+
+---
+label: Stg_PieceLv3_Caption
+attribute: 0x000000
+---
+[#ステージ][#モブ]ステージ用の材質：Lv.3 is ...
+
+---
+label: Stg_StopBasic_Name
+attribute: 0x000000
+---
+???
+
+---
+label: Stg_StopBasic_Caption
+attribute: 0x000000
+---
+???
+
+---
+label: Stg_SwitchOff_Name
+attribute: 0x000000
+---
+Light Pedestal
+
+---
+label: Stg_SwitchOff_Caption
+attribute: 0x000000
+---
+・A mechanism triggers once the key is lifted.
+・If the  Light Key breaks, it will return here.
+
+---
+label: Stg_SwitchOn_Name
+attribute: 0x000000
+---
+Light Pedestal
+
+---
+label: Stg_SwitchOn_Caption
+attribute: 0x000000
+---
+・A mechanism triggers once the key is lifted.
+・If the  Light Key breaks, it will return here.
+
+---
+label: Stg_SwitchOnReset_Name
+attribute: 0x000000
+---
+Light Pedestal
+
+---
+label: Stg_SwitchOnReset_Caption
+attribute: 0x000000
+---
+・A mechanism triggers once the key is lifted.
+・If the  Light Key breaks, it will return here.
+
+---
+label: Storage_Name
+attribute: 0x000000
+---
+Card-Storing Piece
+
+---
+label: Storage_Caption
+attribute: 0x000000
+---
+・Stores one type of card.
+
+---
+label: Swamp_Name
+attribute: 0x000000
+---
+ Swamp
+
+---
+label: Swamp_Caption
+attribute: 0x000000
+---
+・Changes to Water in a Beacon's light.
+・Changes Magma to Ash.
+・Changes Rock to Clay.
+
+---
+label: SwampIce_Name
+attribute: 0x000000
+---
+ Swamp
+
+---
+label: SwampIce_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Tool_Conveyor_Start_Name
+attribute: 0x000000
+---
+[Prototype] Conveyor
+
+---
+label: Tool_Conveyor_Start_Caption
+attribute: 0x000000
+---
+・Place metal in front of the arrow to turn it into
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}a Conveyor.
+・Conveyors move Pieces placed on top of them.
+
+---
+label: Tool_TrashCan_Name
+attribute: 0x000000
+---
+[Prototype] Trash Can
+
+---
+label: Tool_TrashCan_Caption
+attribute: 0x000000
+---
+・Putting Pieces in will throw them away.
+
+---
+label: TreeGrow_Large_01_Name
+attribute: 0x000000
+---
+Growing...
+
+---
+label: TreeGrow_Large_01_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_Blp_CmnWait_Name
+attribute: 0x000000
+---
+Complete
+
+---
+label: Trn_Blp_CmnWait_Caption
+attribute: 0x000000
+---
+Complete
+
+---
+label: Trn_CmnConnectFront_Name
+attribute: 0x000000
+---
+Fusing...
+
+---
+label: Trn_CmnConnectFront_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_CmnDisconnectCross_Name
+attribute: 0x000000
+---
+De-fusing...
+
+---
+label: Trn_CmnDisconnectCross_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_CmnElec_Name
+attribute: 0x000000
+---
+ Electricity
+
+---
+label: Trn_CmnElec_Caption
+attribute: 0x000000
+---
+・De-fuses Pieces.
+
+---
+label: Trn_CmnLock_Name
+attribute: 0x000000
+---
+Locking...
+
+---
+label: Trn_CmnLock_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_Cr_CmnError_Name
+attribute: 0x000000
+---
+Cannot be modified...
+
+---
+label: Trn_Cr_CmnError_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_Emission_01_Name
+attribute: 0x000000
+---
+Growing...
+
+---
+label: Trn_Emission_01_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_MetalMagma_Name
+attribute: 0x000000
+---
+ Metal
+
+---
+label: Trn_MetalMagma_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Trn_RockMagma_Name
+attribute: 0x000000
+---
+ Rock
+
+---
+label: Trn_RockMagma_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: TutorialMult_Sign_01_Name
+attribute: 0x000000
+---
+Piece
+
+---
+label: TutorialMult_Sign_01_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: TutorialSolo_Flag_Name
+attribute: 0x000000
+---
+ Key
+
+---
+label: TutorialSolo_Flag_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: TutorialSolo_LockOn_Name
+attribute: 0x000000
+---
+ Lock
+
+---
+label: TutorialSolo_LockOn_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: TutorialSolo_WallOff_Name
+attribute: 0x000000
+---
+Wall
+
+---
+label: TutorialSolo_WallOff_Caption
+attribute: 0x000000
+---
+Open by removing the  Lock
+
+---
+label: UgcExam_01_Name
+attribute: 0x000000
+---
+Piece
+
+---
+label: UgcExam_01_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: Ugc_DecoLv1_Preset01_Unpublished_Name
+attribute: 0x000000
+---
+ Deco Starter (Lv. 1)
+
+---
+label: Ugc_DecoLv1_Preset01_Unpublished_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: Ugc_DecoLv1_Published_Name_WithoutReplaceTag
+attribute: 0x000000
+---
+ Deco
+
+---
+label: Ugc_DecoLv1_Published_Name
+attribute: 0x000000
+---
+ Deco {{0:2 arg="0x5000"}}by {{101:3 arg="0x0001"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv1_Published_Caption
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_DecoLv1_Unpublished_Name
+attribute: 0x000000
+---
+ Deco (Lv. 1)
+
+---
+label: Ugc_DecoLv1_Unpublished_Caption
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: Ugc_DecoLv2_Preset01_Unpublished_Name
+attribute: 0x000000
+---
+ Deco Starter (Lv. 2)
+
+---
+label: Ugc_DecoLv2_Preset01_Unpublished_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: Ugc_DecoLv2_Published_Caption
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_DecoLv2_Unpublished_Name
+attribute: 0x000000
+---
+ Deco (Lv. 2)
+
+---
+label: Ugc_DecoLv2_Unpublished_Caption
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: Ugc_DecoLv3_Preset01_Unpublished_Name
+attribute: 0x000000
+---
+ Deco Starter (Lv. 3)
+
+---
+label: Ugc_DecoLv3_Preset01_Unpublished_Caption
+attribute: 0x000000
+---
+・Wearing Deco spreads smiles. Try making an outfit!
+・Design and edit Deco to customize your style.
+
+---
+label: Ugc_DecoLv3_Published_Caption
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_DecoLv3_Unpublished_Name
+attribute: 0x000000
+---
+ Deco (Lv. 3)
+
+---
+label: Ugc_DecoLv3_Unpublished_Caption
+attribute: 0x000000
+---
+・Use Deco to expand your circle of connections.
+・Make some Deco to wear here.
+
+---
+label: Ugc_DecoStorage_Name
+attribute: 0x000000
+---
+ Deco Display Piece
+
+---
+label: Ugc_DecoStorage_Caption
+attribute: 0x000000
+---
+・You can save Deco you're wearing and put it on display.
+・The Deco on display can be taken out by anyone.
+
+---
+label: Ugc_DecoStorage_Published_Caption
+attribute: 0x000000
+---
+・Everyone can wear matching Deco!
+・Take out a Deco card here.
+
+---
+label: Ugc_Deco_Clt_Intro_Name
+attribute: 0x000000
+---
+ Starter Deco
+
+---
+label: Ugc_Deco_Clt_Intro_Caption
+attribute: 0x000000
+---
+・Take out a Deco card here.
+
+---
+label: Ugc_Image_Published_Name_WithoutReplaceTag
+attribute: 0x000000
+---
+ Image
+
+---
+label: Ugc_Image_Published_Name
+attribute: 0x000000
+---
+ Image by {{0:2 arg="0x5000"}}{{101:3 arg="0x0001"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_Image_Published_Caption
+attribute: 0x000000
+---
+・A memory you'll never forget.
+・If this struck a chord with you,
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}let them know with .
+
+---
+label: Ugc_Image_Unpublished_Name
+attribute: 0x000000
+---
+ Image Signboard
+
+---
+label: Ugc_Image_Unpublished_Caption
+attribute: 0x000000
+---
+・Memories you make will stay with you.
+・Show off your favorite image here.
+
+---
+label: Ugc_TextPlanetName_Unpublished_Name
+attribute: 0x000000
+---
+Name  Planetary Block
+
+---
+label: Ugc_TextPlanetName_Unpublished_Caption
+attribute: 0x000000
+---
+・Name this  block.
+・As always, think like a developer!
+
+---
+label: Ugc_Text_Published_Name_WithoutReplaceTag
+attribute: 0x000000
+---
+ Text
+
+---
+label: Ugc_Text_Published_Name
+attribute: 0x000000
+---
+ Text {{0:2 arg="0x5000"}}by {{101:3 arg="0x0001"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_Text_Published_Caption
+attribute: 0x000000
+---
+・Pouring my heart into this single phrase.
+・If their feelings reached you, return the
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}gesture with .
+
+---
+label: Ugc_Text_Unpublished_Name
+attribute: 0x000000
+---
+ Text Signboard
+
+---
+label: Ugc_Text_Unpublished_Caption
+attribute: 0x000000
+---
+・Use your words to convey your feelings.
+・Write and display some text here.
+
+---
+label: Veggie_Name
+attribute: 0x000000
+---
+[#植]野菜
+
+---
+label: Veggie_Caption
+attribute: 0x000000
+---
+[#植]野菜 is ...
+
+---
+label: Water_Name
+attribute: 0x000000
+---
+ Water
+
+---
+label: Water_Caption
+attribute: 0x000000
+---
+・Changes Sprouts to Trees.
+・Changes Sand to Soil.
+・Changes Magma to Soil.
+
+---
+label: WoodLeafLv1_Name
+attribute: 0x000000
+---
+ Tree Leaf
+
+---
+label: WoodLeafLv1_Caption
+attribute: 0x000000
+---
+・A  Wood card appears when destroyed.
+・Changes to Charcoal in Magma.
+・Changes to Dead Wood in Swamp.
+
+---
+label: WoodLeafLv2_Name
+attribute: 0x000000
+---
+ Tree Leaf
+
+---
+label: WoodLeafLv2_Caption
+attribute: 0x000000
+---
+・A  Wood card appears when destroyed.
+・Changes to Charcoal in Magma.
+・Changes to Dead Wood in Swamp.
+
+---
+label: WoodMagma_Name
+attribute: 0x000000
+---
+ Wood
+
+---
+label: WoodMagma_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: WoodTrunkLv0_Name
+attribute: 0x000000
+---
+ Dead Wood
+
+---
+label: WoodTrunkLv0_Caption
+attribute: 0x000000
+---
+・When struck, nearby Dead Wood also breaks.
+・Changes to Charcoal in Magma.
+・Changes to Tree Trunk in Water.
+
+---
+label: WoodTrunkLv0Damage_Name
+attribute: 0x000000
+---
+ Dead Wood
+
+---
+label: WoodTrunkLv0Damage_Caption
+attribute: 0x000000
+---
+-
+
+---
+label: WoodTrunkLv1_Name
+attribute: 0x000000
+---
+ Tree Trunk
+
+---
+label: WoodTrunkLv1_Caption
+attribute: 0x000000
+---
+・A  Wood card appears when destroyed.
+・Changes to Charcoal in Magma.
+・Changes to Dead Wood in Swamp.
+
+---
+label: WoodTrunkLv2_Name
+attribute: 0x000000
+---
+ Tree Trunk
+
+---
+label: WoodTrunkLv2_Caption
+attribute: 0x000000
+---
+・A  Wood card appears when destroyed.
+・Changes to Charcoal in Magma.
+・Changes to Dead Wood in Swamp.

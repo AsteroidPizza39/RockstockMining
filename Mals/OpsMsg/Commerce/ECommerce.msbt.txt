@@ -1,0 +1,83 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: LIC001_Name
+attribute: 0x000000
+---
+UGC License
+＋ Deco (Lv. 1)
+
+---
+label: LIC001_Caption
+attribute: 0x000000
+---
+Obtainable for free, {{0:3 arg="0x0200"}}once{{0:3 arg="0xFFFF"}},
+at Nintendo eShop.
+
+---
+label: LIC001_Label
+attribute: 0x000000
+---
+Start here!
+
+---
+label: VC005_Name
+attribute: 0x000000
+---
+200
+
+---
+label: VC005_Caption
+attribute: 0x000000
+---
+Obtainable for free, {{0:3 arg="0x0200"}}once{{0:3 arg="0xFFFF"}},
+at Nintendo eShop.
+
+---
+label: VC006_Name
+attribute: 0x000000
+---
+600
+
+---
+label: VC006_Caption
+attribute: 0x000000
+---
+Obtainable for free, {{0:3 arg="0x0200"}}once{{0:3 arg="0xFFFF"}},
+at Nintendo eShop.
+
+---
+label: VC007_Name
+attribute: 0x000000
+---
+1,800
+
+---
+label: VC007_Caption
+attribute: 0x000000
+---
+Obtainable for free, {{0:3 arg="0x0200"}}once{{0:3 arg="0xFFFF"}},
+at Nintendo eShop.
+
+---
+label: VC008_Name
+attribute: 0x000000
+---
+5,400
+
+---
+label: VC008_Caption
+attribute: 0x000000
+---
+Obtainable for free, {{0:3 arg="0x0200"}}once{{0:3 arg="0xFFFF"}},
+at Nintendo eShop.

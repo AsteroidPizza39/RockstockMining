@@ -1,0 +1,268 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 23
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Name_Teleport
+attribute: 0x000000
+---
+Gateway of Darkness {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Clear to purify this area.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Name_Section
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Name_Finder
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: Curse_L
+attribute: 0x000000
+---
+Nest of Darkness
+
+---
+label: Curse_L_Lock_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}100m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: Curse_L_Lock_Signboard
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}100m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: Curse_L_Unlock_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: Curse_L_Unlock_Signboard
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: Curse_M
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: Curse_M_Lock_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}50m{{0:3 arg="0xFFFF"}}.
+・3. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.
+
+---
+label: Curse_M_Lock_Signboard
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}50m{{0:3 arg="0xFFFF"}}.
+・3. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: Curse_M_Unlock_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.
+
+---
+label: Curse_M_Unlock_Signboard
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: Curse_S
+attribute: 0x000000
+---
+Egg of Darkness
+
+---
+label: Curse_S_Lock_Caption
+attribute: 0x000000
+---
+・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}10m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: Curse_S_Lock_Signboard
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}10m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: Curse_S_Unlock_Caption
+attribute: 0x000000
+---
+・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.
+
+---
+label: Curse_S_Unlock_Signboard
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_Gate_Name
+attribute: 0x000000
+---
+ Teleporter
+
+---
+label: Cmn_Gate_Caption
+attribute: 0x000000
+---
+・Leave the darkness.
+・You can take Pieces with you.
+
+---
+label: Cmn_GateLose_Name
+attribute: 0x000000
+---
+Give up and leave...
+
+---
+label: Cmn_GateLose_Caption
+attribute: 0x000000
+---
+・Leave the darkness.
+・You cannot take Pieces with you.
+
+---
+label: Cmn_Lock_Name
+attribute: 0x000000
+---
+ Lock of Darkness
+
+---
+label: Cmn_Lock_Caption
+attribute: 0x000000
+---
+・Unlocks when a  Light Key is placed on top of it.
+
+---
+label: Cmn_Lock_Signboard
+attribute: 0x000000
+---
+Find the  Light Key and place it on top of
+the Lock of Darkness to open it.
+
+---
+label: Cmn_Flag_Name
+attribute: 0x000000
+---
+ Light Key
+
+---
+label: Cmn_Flag_Caption
+attribute: 0x000000
+---
+・Carry the  Light Key to the Lock of Darkness.
+・Place it on top of the Lock of Darkness to open it.
+
+---
+label: Cmn_Switch_Name
+attribute: 0x000000
+---
+Light Pedestal
+
+---
+label: Cmn_Switch_Caption
+attribute: 0x000000
+---
+・A mechanism triggers once the key is lifted.
+・If the  Light Key breaks, it will return here.
+
+---
+label: Cmn_Stop_Name
+attribute: 0x000000
+---
+???
+
+---
+label: Cmn_Stop_Caption
+attribute: 0x000000
+---
+???
+
+---
+label: Stg_Radio_Name
+attribute: 0x000000
+---
+Darkness Radio
+
+---
+label: Stg_Radio_Caption
+attribute: 0x000000
+---
+・Receiving a dark transmission from...somewhere.
+
+---
+label: Stg_Visible
+attribute: 0x000000
+---
+透明ピース
+
+---
+label: Stg_Extend
+attribute: 0x000000
+---
+たたき戻しピース
+
+---
+label: Stg_Snake
+attribute: 0x000000
+---
+ヘビピース
+
+---
+label: Stg_Pulse
+attribute: 0x000000
+---
+パルスピース
+
+---
+label: Stg_Change
+attribute: 0x000000
+---
+きりかえピース
+
+---
+label: Stg_Lock
+attribute: 0x000000
+---
+[#ステージ]41：編集禁止

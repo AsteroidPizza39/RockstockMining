@@ -1,0 +1,35 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 3
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Address
+attribute: 0x000000
+---
+[{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}]
+
+---
+label: ScoreTotal
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: L_Frn-T_ScoreSep
+attribute: 0x000000
+---
+/
+
+---
+label: ScoreGoal
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}

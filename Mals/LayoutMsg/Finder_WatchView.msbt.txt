@@ -1,0 +1,114 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideZoomIn-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideZoomOut-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView00-L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView01-L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView00-L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Back
+
+---
+label: L_WatchView00-L_KeyGuideChange-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView01-L_KeyGuideChange-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView00-L_KeyGuideChange-T_KeyText
+attribute: 0x000000
+---
+Spectate Target
+
+---
+label: L_WatchView00-L_KeyGuideFavorite-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView01-L_KeyGuideFavorite-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_WatchView00-L_KeyGuideFavorite-T_KeyText
+attribute: 0x000000
+---
+Favorite
+
+---
+label: L_KeyGuideWarp-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideWarp-T_KeyText
+attribute: 0x000000
+---
+Warp to Beacon
+
+---
+label: WarpCost
+attribute: 0x000000
+---
+Will use {{0:3 arg="0x0000"}}{{101:0 arg="0x0003000100CD"}}{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Energy.
+
+---
+label: Alert
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0100"}}Insufficient Energy!{{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0100"}}{{101:1 arg="0x0002010001CD"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}}/{{101:0 arg="0x0003000100CD"}}{{0:2 arg="0x6400"}}
+
+---
+label: L_WatchView00-L_Flame-T_Connected
+attribute: 0x000000
+---
+CONNECTED
+
+---
+label: L_WatchView00-T_Live
+attribute: 0x000000
+---
+LIVE

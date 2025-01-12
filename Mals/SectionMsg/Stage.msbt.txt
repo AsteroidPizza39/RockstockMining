@@ -1,0 +1,515 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 43
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: StageBasic_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Bomb_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Change_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Change_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Change_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Change_07_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Clay_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Clay_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Climb_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Climb_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Climb_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Climb_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Climb_07_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Climb_08_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Deck_Arrow_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Disconnect_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Disconnect_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Disconnect_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_05_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_08_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Element_09_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Extend_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Extend_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Extend_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Extend_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Extend_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Fall_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Frame_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Lay_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Lay_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Lay_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Lift_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Pulse_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Pulse_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Relay_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Relay_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Relay_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Relay_05_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Relay_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Road_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rock_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rock_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rock_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rock_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rock_05_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rock_07_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rotate_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Rotate_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_10_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_13_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_14_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_15_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sand_16_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_SideviewUp_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_SideviewUp_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_SideviewUp_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_SideviewUp_06_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sideview_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sideview_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sideview_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Sideview_05_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Snake_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Snake_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Snake_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Topview_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Topview_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_04_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_05_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_07_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_12_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_13_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Tower_14_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Twin_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Visible_01_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Visible_02_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness
+
+---
+label: Stage_Visible_03_Name
+attribute: 0x000000
+---
+Enter{{0:2 arg="0x5000"}} {{0:2 arg="0x6400"}}the  Darkness

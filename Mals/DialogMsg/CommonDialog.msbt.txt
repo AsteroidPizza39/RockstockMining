@@ -1,0 +1,1969 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: TutorialSolo_Start_01_Title
+attribute: 0x000000
+---
+The Story So Far
+
+---
+label: TutorialSolo_Start_01_Content
+attribute: 0x000000
+---
+Wake, brave developer...{{0:4}}You find yourself on an unexplored planet, one that's
+name has since been lost to time...{{0:4}}Having volunteered for the Development Program, you've
+selflessly left your birthworld behind, traveled light-years
+across space and time, and, at last, arrived here...{{0:4}}However, the journey was long and harsh, robbing you
+of the fickle form that you once called your body.
+
+---
+label: TutorialSolo_Start_01_ButtonAccept
+attribute: 0x000000
+---
+I see...
+
+---
+label: TutorialSolo_Start_02_Title
+attribute: 0x000000
+---
+Remaking Your Body
+
+---
+label: TutorialSolo_Start_02_Content
+attribute: 0x000000
+---
+But worry not. With my power, I may be able to rebuild you
+stronger than you were. Let us begin with your hair...
+Do you remember its color?
+
+---
+label: TutorialSolo_Start_02_ButtonAccept
+attribute: 0x000000
+---
+I do.
+
+---
+label: TutorialSolo_Start_03_Title
+attribute: 0x000000
+---
+Remaking Your Body
+
+---
+label: TutorialSolo_Start_03_Content
+attribute: 0x000000
+---
+Very good. And now, your skin tone, if you please...
+
+---
+label: TutorialSolo_Start_03_ButtonAccept
+attribute: 0x000000
+---
+OK.
+
+---
+label: TutorialSolo_Start_04_Title
+attribute: 0x000000
+---
+Basic Training Program
+
+---
+label: TutorialSolo_Start_04_Content
+attribute: 0x000000
+---
+Excellent. And thus, your body, now better suited for your
+adventure, has been remade... Though compared to your
+old form, this one may take some getting used to.{{0:4}}I hope you don't mind—along with ethereal strength, I
+took the liberty of adding a {{0:3 arg="0x0000"}}tail{{0:3 arg="0xFFFF"}}. It should prove useful
+through your many journeys in planetary development.{{0:4}}With your new form and your adventurer's heart, let's
+begin the Basic Training Program.
+May fortune favor you, brave developer.
+
+---
+label: TutorialSolo_Start_04_ButtonAccept
+attribute: 0x000000
+---
+I'll give it a try.
+
+---
+label: TutorialSolo_Finish_01_Title
+attribute: 0x000000
+---
+Basic Training Program
+
+---
+label: TutorialSolo_Finish_01_Content
+attribute: 0x000000
+---
+Well done. And with that, your training is complete.
+Are you growing accustomed to your new body and
+its {{0:3 arg="0x0000"}}tail{{0:3 arg="0xFFFF"}}? I've no doubt you'll perfect them both in time...{{0:4}}Now, I wish to grant you an item that is vital to realizing
+the work of development. If you would, step onto the
+teleporter and travel to the Developer Training Area.
+
+---
+label: TutorialSolo_Finish_01_ButtonAccept
+attribute: 0x000000
+---
+I'm ready.
+
+---
+label: TutorialMult_Start_01_Title
+attribute: 0x000000
+---
+Developer Training Area
+
+---
+label: TutorialMult_Start_01_Content
+attribute: 0x000000
+---
+This is where developers come to train themselves.
+Know this: that {{0:3 arg="0x0000"}}tail{{0:3 arg="0xFFFF"}} of yours shall prove to be even
+more versatile than you may think.{{0:4}}Unversed as you are, however, now is perhaps not
+the ideal time to impart such knowledge. Do return
+here in the future to pursue further growth.{{0:4}}Now then, step onto the teleporter and come to the
+{{0:3 arg="0x0000"}}Dev Core{{0:3 arg="0xFFFF"}}.
+I await your arrival...
+
+---
+label: TutorialMult_Start_01_ButtonAccept
+attribute: 0x000000
+---
+See you soon.
+
+---
+label: IntroStr_Start_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Start_01_Content
+attribute: 0x000000
+---
+Welcome. You stand in the {{0:3 arg="0x0000"}}Dev Core{{0:3 arg="0xFFFF"}}, a place meant
+to assist development and promote connection.{{0:4}}Despite its appearance, it is not yet fully operational, being
+merely half complete. Its potential can only be fully
+realized with the aid of developers like you.{{0:4}}Before that, I have something to grant you. Follow the path
+indicated by the beam of light further inward.
+There...I await our meeting.
+
+---
+label: IntroStr_Start_01_ButtonAccept
+attribute: 0x000000
+---
+Something for me?
+
+---
+label: IntroStr_Antenna_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Antenna_01_Content
+attribute: 0x000000
+---
+You have done well to come this far, brave one.
+I am the {{0:3 arg="0x0000"}}Dev Mind{{0:3 arg="0xFFFF"}}.{{0:4}}Where it is your duty to develop this planet, and in
+doing so, breathe life into this world, my purpose is to
+be your guide.{{0:4}}In time, you will come to understand your role...
+But for now, know this is simply the way of our universe.{{0:4}}Developers must be creative, flexible, ever willing to learn,
+and, above all else, kind.
+These are all things I see in you...
+
+---
+label: IntroStr_Antenna_01_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_Antenna_02_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Antenna_02_Content
+attribute: 0x000000
+---
+I grant you this {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}, brave developer. Place it high
+in the sky, and let its light develop the land.
+
+---
+label: IntroStr_Antenna_02_ButtonAccept
+attribute: 0x000000
+---
+Ah ha...
+
+---
+label: IntroStr_Antenna_03_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Antenna_03_Content
+attribute: 0x000000
+---
+Your first task is to use your {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon to collect {{0:3 arg="0x0000"}}1,000{{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points. Should you succeed, new wisdom shall
+emerge in due course...{{0:4}}I have selected the Planetary Block you will be posted to.
+If you would, see that your {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon is brought there
+without delay.
+
+---
+label: IntroStr_Antenna_03_ButtonAccept
+attribute: 0x000000
+---
+On it.
+
+---
+label: IntroStr_Antenna_04_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Antenna_04_Content
+attribute: 0x000000
+---
+You can see your current amount of {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points
+in the top-right corner of the screen.
+
+---
+label: IntroStr_Antenna_04_ButtonAccept
+attribute: 0x000000
+---
+Understood.
+
+---
+label: IntroStr_Antenna_05_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Antenna_05_Content
+attribute: 0x000000
+---
+I will remain here and await the tales of your adventures.
+Forget not the qualities that developers must embody.
+And, above all, remember, your heart is your greatest tool.{{0:4}}May fortune favor you.
+
+---
+label: IntroStr_Antenna_05_ButtonAccept
+attribute: 0x000000
+---
+I'm off, then.
+
+---
+label: IntroStr_Lv1_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Lv1_01_Content
+attribute: 0x000000
+---
+Congratulations. Your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen to 1.
+In doing so, you've begun your journey as one of my
+chosen few. My elite...{{0:4}}I shall grant you a {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Shop {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Key each time you raise
+your Development Level. Use them to unlock new items
+in the shop to further your precious work.{{0:4}}May fortune favor you.
+
+---
+label: IntroStr_Lv1_01_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_Finish_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Finish_01_Content
+attribute: 0x000000
+---
+Please, return to the planet and continue your work.
+When you achieve {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level {{0:3 arg="0x0000"}}5{{0:3 arg="0xFFFF"}}, return to me
+here, and I will grant you a brand new {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon.{{0:4}}Know that even through your most solitary trials, you're
+never truly alone. Through your {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Beacons, I maintain an
+ever-watchful eye over your progress...{{0:4}}May fortune favor you, brave one.
+
+---
+label: IntroStr_Finish_01_ButtonAccept
+attribute: 0x000000
+---
+May fortune favor you.
+
+---
+label: IntroStr_Gift_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Gift_01_Content
+attribute: 0x000000
+---
+You have proven yourself a very capable wheel in the 
+machine of progress. I am pleased.{{0:4}}For reaching level 1, I grant you this Starter Kit.
+In your hands, I've no doubt it will prove useful.{{0:4}}Now go...
+Channel your gifts and breathe life into this world...{{0:4}}May fortune favor you.
+
+---
+label: IntroStr_Gift_01_ButtonAccept
+attribute: 0x000000
+---
+And also you.
+
+---
+label: IntroStr_AntennaReAdd_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaReAdd_01_Content
+attribute: 0x000000
+---
+You would like to have a deleted {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon reissued?
+Very well.
+May fortune favor you, brave one.
+
+---
+label: IntroStr_AntennaReAdd_01_ButtonAccept
+attribute: 0x000000
+---
+Thank you!
+
+---
+label: IntroStr_AntennaAdd_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_01_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}5{{0:3 arg="0xFFFF"}}. I shall grant you a new {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon.{{0:4}}You can {{0:3 arg="0x0000"}} Spectate {{0:3 arg="0xFFFF"}}your own Beacons through the
+{{0:3 arg="0x0000"}} Development Positioning System{{0:3 arg="0xFFFF"}}, or {{0:3 arg="0x0000"}}DPS{{0:3 arg="0xFFFF"}}. If you get lost,
+you can also {{0:3 arg="0x0000"}}warp {{0:3 arg="0xFFFF"}}to a {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon. With these abilities
+and your creative mind, no obstacle will be too great.{{0:4}}This, I trust...{{0:4}}Let us reconvene after you have reached level {{0:3 arg="0x0000"}}10{{0:3 arg="0xFFFF"}}...
+May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_01_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_AntennaAdd_02_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_02_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}10{{0:3 arg="0xFFFF"}}! I shall grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Let us reconvene after you have reached level {{0:3 arg="0x0000"}}15{{0:3 arg="0xFFFF"}}...
+May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_02_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_AntennaAdd_03_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_03_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}15{{0:3 arg="0xFFFF"}}! I grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Return when you've reached level {{0:3 arg="0x0000"}}20{{0:3 arg="0xFFFF"}}...
+May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_03_ButtonAccept
+attribute: 0x000000
+---
+Thanks.
+
+---
+label: IntroStr_AntennaAdd_04_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_04_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}20{{0:3 arg="0xFFFF"}}! I hereby grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Let us reconvene after you have reached level {{0:3 arg="0x0000"}}25{{0:3 arg="0xFFFF"}}...
+May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_04_ButtonAccept
+attribute: 0x000000
+---
+Thanks.
+
+---
+label: IntroStr_AntennaAdd_05_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_05_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}25{{0:3 arg="0xFFFF"}}! I shall grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Return, brave one, after you have reached level {{0:3 arg="0x0000"}}30{{0:3 arg="0xFFFF"}}...
+May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_05_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_AntennaAdd_06_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_06_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}30{{0:3 arg="0xFFFF"}}! I shall grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Return here once you have reached level {{0:3 arg="0x0000"}}35{{0:3 arg="0xFFFF"}}...
+May fortune favor you. 
+
+---
+label: IntroStr_AntennaAdd_06_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_AntennaAdd_07_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_07_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}35{{0:3 arg="0xFFFF"}}! I shall grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Let us reconvene after you have reached level {{0:3 arg="0x0000"}}40{{0:3 arg="0xFFFF"}}...
+May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_07_ButtonAccept
+attribute: 0x000000
+---
+Thanks.
+
+---
+label: IntroStr_AntennaAdd_08_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_08_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}40{{0:3 arg="0xFFFF"}}! I hereby grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Let's speak again after you have reached level {{0:3 arg="0x0000"}}45{{0:3 arg="0xFFFF"}}...
+May fortune favor you, brave one.
+
+---
+label: IntroStr_AntennaAdd_08_ButtonAccept
+attribute: 0x000000
+---
+Thank you.
+
+---
+label: IntroStr_AntennaAdd_09_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_09_Content
+attribute: 0x000000
+---
+It seems that your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level has risen
+to level {{0:3 arg="0x0000"}}45{{0:3 arg="0xFFFF"}}! I hereby grant you a new {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.{{0:4}}Let's reconvene once you've reached level {{0:3 arg="0x0000"}}50{{0:3 arg="0xFFFF"}}...
+Upon your return, you'll earn one final {{0:3 arg="0x0000"}} Beacon{{0:3 arg="0xFFFF"}}.
+May fortune favor you, brave one.
+
+---
+label: IntroStr_AntennaAdd_09_ButtonAccept
+attribute: 0x000000
+---
+Last one, huh?
+
+---
+label: IntroStr_AntennaAdd_10_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaAdd_10_Content
+attribute: 0x000000
+---
+Congratulations, brave one. Your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level
+has risen to level {{0:3 arg="0x0000"}}50{{0:3 arg="0xFFFF"}}! I hereby grant your final {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon.{{0:4}}You've braved many challenges. Survived many storms.
+And, in the end, helped save this planet from darkness,
+just as I always knew you would.{{0:4}}You stand here as a champion of stars and defender of life.{{0:4}}You are a hero.{{0:4}}Permit me now to grant you your final {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacon...{{0:4}}Thanks to you and your {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Beacons, I see everything.
+As it should be. For all time...{{0:4}}May fortune favor you.
+
+---
+label: IntroStr_AntennaAdd_10_ButtonAccept
+attribute: 0x000000
+---
+May fortune favor you!
+
+---
+label: IntroStr_AntennaNG_Bag_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaNG_Bag_Content
+attribute: 0x000000
+---
+I would like to grant you a  Beacon... However, it seems
+that you cannot carry any more cards. Prepare some
+empty space, then return to me.
+
+---
+label: IntroStr_AntennaNG_Bag_ButtonAccept
+attribute: 0x000000
+---
+OK.
+
+---
+label: IntroStr_AntennaNG_Piece_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_AntennaNG_Piece_Content
+attribute: 0x000000
+---
+I would like to grant you a  Beacon... However, it seems
+that you cannot carry any more Pieces. Prepare some
+empty space, then return to me.
+
+---
+label: IntroStr_AntennaNG_Piece_ButtonAccept
+attribute: 0x000000
+---
+OK.
+
+---
+label: IntroStr_Spirit_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroStr_Spirit_01_Content
+attribute: 0x000000
+---
+Greetings, developer.{{0:4}}Forget not the qualities that developers must embody.{{0:4}}May fortune favor you.
+
+---
+label: IntroStr_Spirit_01_ButtonAccept
+attribute: 0x000000
+---
+May fortune favor you.
+
+---
+label: IntroClt_GetScore_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_GetScore_01_Content
+attribute: 0x000000
+---
+Congratulations. You have collected 10 {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points.
+You'll gain more as you  Greet and connect with others.
+
+---
+label: IntroClt_GetScore_01_ButtonAccept
+attribute: 0x000000
+---
+Good to know!
+
+---
+label: IntroClt_Lv1_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_Lv1_01_Content
+attribute: 0x000000
+---
+Your {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level has risen to 1. Continue
+fostering connections with others to raise it further.
+Congratulations on having come this far...and thank
+you for your hard work.{{0:4}}Developers who have achieved a {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level of 1
+will be granted an article of  {{0:3 arg="0x0000"}}Deco{{0:3 arg="0xFFFF"}}.
+
+---
+label: IntroClt_Lv1_01_ButtonAccept
+attribute: 0x000000
+---
+...Deco?
+
+---
+label: IntroClt_DecoGet_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_DecoGet_01_Content
+attribute: 0x000000
+---
+This is but your first article of  Deco. Ordinarily, you
+would {{0:3 arg="0x0000"}}get {{0:3 arg="0xFFFF"}}a Creation Kit and make some yourself.
+Give  Deco you create to others, and receive the
+ Deco they make in turn.
+
+---
+label: IntroClt_DecoGet_01_ButtonAccept
+attribute: 0x000000
+---
+OK! I should get a kit.
+
+---
+label: IntroClt_DecoGet_02_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_DecoGet_02_Content
+attribute: 0x000000
+---
+Creating and sharing Deco is a great way to bring the
+community together. But it can also offend others. Before
+you start making Deco, remember that our Community
+Guidelines apply. You must also pass the {{0:3 arg="0x0000"}}UGC License Test{{0:3 arg="0xFFFF"}}.
+
+---
+label: IntroClt_DecoGet_02_ButtonAccept
+attribute: 0x000000
+---
+I'll take the test!
+
+---
+label: IntroClt_DecoGet_03_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_DecoGet_03_Content
+attribute: 0x000000
+---
+For now, try wearing an article of  Deco made by
+another developer.{{0:4}}When you're ready to create your own masterpieces,
+visit the {{0:3 arg="0x0000"}}UGC License Test Room{{0:3 arg="0xFFFF"}} here in the Dev Core.
+
+---
+label: IntroClt_DecoGet_03_ButtonAccept
+attribute: 0x000000
+---
+Understood!
+
+---
+label: IntroClt_Remind_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_Remind_01_Content
+attribute: 0x000000
+---
+You can send {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points to a  Piece's maker.
+It is not limited to Deco. Try it with any  Piece.{{0:4}}To show appreciation when receiving another's  Piece,
+consider sending them {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points. Sending points
+to others may inspire them to do the same for you.{{0:4}}{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points will also be sent and received as you
+interact with others. Greet others, trade cards, or enter
+their Beacon Zone to send points automatically.{{0:4}}Remember, with the {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Development Positioning System,
+or DPS, you can see the {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points that you have
+sent and received.
+
+---
+label: IntroClt_Remind_01_ButtonAccept
+attribute: 0x000000
+---
+Understood! Thank you.
+
+---
+label: IntroClt_Finish_01_Title
+attribute: 0x000000
+---
+Dev Mind
+
+---
+label: IntroClt_Finish_01_Content
+attribute: 0x000000
+---
+With that, I declare you a full-fledged developer.
+We have reached the conclusion of my teachings
+for the moment, and yet the development of this
+world has only just begun.{{0:4}}{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development, {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection, and, above all, support
+of others... It is my sincere desire that you remain mindful
+of these elements throughout your adventures.{{0:4}}I shall maintain an ever-watchful eye on your progress
+through your {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Beacon...{{0:4}}Go forth, brave one...{{0:4}}And may fortune favor you.
+
+---
+label: IntroClt_Finish_01_ButtonAccept
+attribute: 0x000000
+---
+And also you.
+
+---
+label: Finder_Confirm_Delete_Antenna_Title
+attribute: 0x000000
+---
+ Delete Beacon
+
+---
+label: Finder_Confirm_Delete_Antenna_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Delete this Beacon?
+You cannot undo this operation.{{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Once your Beacon is deleted, you can have it reissued at the Dev Core.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Finder_Confirm_Delete_Antenna_ButtonAccept
+attribute: 0x000000
+---
+Delete
+
+---
+label: Finder_Confirm_Delete_Antenna_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Sys_FirstStart_OptIn_Error_Title
+attribute: 0x000000
+---
+Precautions When First Connecting Online
+
+---
+label: Sys_FirstStart_OptIn_Error_Content
+attribute: 0x000000
+---
+You cannot play because you did not agree to the
+precautions when first connecting online.
+
+---
+label: Sys_FirstStart_OptIn_Error_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Announce_Update_Title
+attribute: 0x000000
+---
+Software Update
+
+---
+label: Sys_Announce_Update_Content
+attribute: 0x000000
+---
+This software requires an update.
+Please open the  HOME Menu to download the update.
+
+---
+label: Sys_Announce_Information_Title
+attribute: 0x000000
+---
+Scheduled to be deleted notification
+
+---
+label: Sys_Announce_Information_Content
+attribute: 0x000000
+---
+Scheduled to be deleted notification body
+
+---
+label: Sys_Announce_Information_ButtonAccept
+attribute: 0x000000
+---
+Scheduled to be deleted OK
+
+---
+label: News_01_Title
+attribute: 0x000000
+---
+Important Notification
+
+---
+label: News_01_Content
+attribute: 0x000000
+---
+An error has occurred. 
+For details, please see the Playtest Program website.
+https://playtest-p.nintendo.com/playtest
+
+---
+label: News_01_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: News_02_Title
+attribute: 0x000000
+---
+Notification About Update to Game Content
+
+---
+label: News_02_Content
+attribute: 0x000000
+---
+We have updated the game's content.
+For details, please see the Playtest Program website.
+https://playtest-p.nintendo.com/playtest
+
+---
+label: News_02_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: News_04_Title
+attribute: 0x000000
+---
+Notification for Maintenance End
+
+---
+label: News_04_Content
+attribute: 0x000000
+---
+Maintenance has ended.
+For details, please see the Playtest Program website.
+https://playtest-p.nintendo.com/playtest
+
+---
+label: News_04_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: News_06_Title
+attribute: 0x000000
+---
+Please Take Our Survey
+
+---
+label: News_06_Content
+attribute: 0x000000
+---
+Once the Playtest Program period has ended, 
+please answer the {{0:3 arg="0x0000"}}post-playtest survey{{0:3 arg="0xFFFF"}}.
+https://playtest-p.nintendo.com/playtest
+
+---
+label: News_06_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: News_07_Title
+attribute: 0x000000
+---
+Survey Request
+
+---
+label: News_07_Content
+attribute: 0x000000
+---
+During the Playtest Program
+please answer a simple daily survey.
+https://playtest-p.nintendo.com/playtest
+
+---
+label: News_07_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: Sys_Announce_Shop_Repair_Title
+attribute: 0x000000
+---
+Acquisition Error
+
+---
+label: Sys_Announce_Shop_Repair_Content
+attribute: 0x000000
+---
+An error has occurred. Your items have not been received.
+Please retry getting them from the shop at the Dev Core.
+
+---
+label: Sys_Announce_Shop_Repair_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Notice_Quit_Title
+attribute: 0x000000
+---
+Communication Error
+
+---
+label: Sys_Notice_Quit_Content
+attribute: 0x000000
+---
+Returning to the title screen.
+
+---
+label: Sys_Notice_Quit_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Error_Disconnect_Server_Title
+attribute: 0x000000
+---
+Communication Error
+
+---
+label: Sys_Error_Disconnect_Server_Content
+attribute: 0x000000
+---
+The servers are currently under maintenance. For details,
+please check the Playtest Program participant website.
+https://playtest-p.nintendo.com/playtest
+
+---
+label: Sys_Error_Disconnect_Server_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Error_Disconnect_Client_Title
+attribute: 0x000000
+---
+Communication Error
+
+---
+label: Sys_Error_Disconnect_Client_Content
+attribute: 0x000000
+---
+Cannot connect to the server.
+
+---
+label: Sys_Error_Disconnect_Client_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Error_Disconnect_Event_Title
+attribute: 0x000000
+---
+Communication Error
+
+---
+label: Sys_Error_Disconnect_Event_Content
+attribute: 0x000000
+---
+Failed to communicate with the server.
+Please wait for a little while and then try again.
+
+---
+label: Sys_Error_Disconnect_Event_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Error_Break_HomeMenu_Title
+attribute: 0x000000
+---
+Cancel Process
+
+---
+label: Sys_Error_Break_HomeMenu_Content
+attribute: 0x000000
+---
+The process was canceled because the HOME Menu
+was opened. Please try again.
+
+---
+label: Sys_Error_Break_HomeMenu_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_Error_NGWord_Title
+attribute: 0x000000
+---
+Input Error
+
+---
+label: Sys_Error_NGWord_Content
+attribute: 0x000000
+---
+A word/phrase that cannot be used has been entered.
+Please revise your text.
+
+---
+label: Sys_Error_NGWord_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Report_Check_Title
+attribute: 0x000000
+---
+ Report
+
+---
+label: Report_Check_Content
+attribute: 0x000000
+---
+Please confirm that the content of your report is accurate
+when you make a report.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}You may be the subject of penalties if you repeatedly make false reports.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Report_Check_ButtonAccept
+attribute: 0x000000
+---
+ Report
+
+---
+label: Report_Check_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Report_Wait_Title
+attribute: 0x000000
+---
+ Report
+
+---
+label: Report_Wait_Content
+attribute: 0x000000
+---
+Reporting...
+
+---
+label: Report_Success_Title
+attribute: 0x000000
+---
+ Report
+
+---
+label: Report_Success_Content
+attribute: 0x000000
+---
+Your report has been submitted.
+
+---
+label: Report_Success_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Deco_Quit_Title
+attribute: 0x000000
+---
+Stop Editing
+
+---
+label: Deco_Quit_Content
+attribute: 0x000000
+---
+Stop editing Deco?
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Your changes will not be saved.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Deco_Quit_ButtonAccept
+attribute: 0x000000
+---
+Yes
+
+---
+label: Deco_Quit_ButtonCancel
+attribute: 0x000000
+---
+Back
+
+---
+label: Deco_Save_Title
+attribute: 0x000000
+---
+Save
+
+---
+label: Deco_Save_Content
+attribute: 0x000000
+---
+The Deco you are editing will be saved temporarily.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}It will not be made available to others.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Please do not save data that violates the terms and conditions.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Deco_Save_ButtonAccept
+attribute: 0x000000
+---
+Save
+
+---
+label: Deco_Save_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Deco_Publish_Title
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Deco_Publish_Content
+attribute: 0x000000
+---
+Make the Deco you edited public?
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}You cannot edit it again once it is made public.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Data that violates the terms and conditions may be deleted.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Deco_Publish_ButtonAccept
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Deco_Publish_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Deco_Wait_Content
+attribute: 0x000000
+---
+Sending the Deco data...
+
+---
+label: Deco_Save_Success_Title
+attribute: 0x000000
+---
+Saved!
+
+---
+label: Deco_Save_Success_Content
+attribute: 0x000000
+---
+Your changes have been saved!
+
+---
+label: Deco_Save_Success_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Deco_Publish_Success_Title
+attribute: 0x000000
+---
+Published!
+
+---
+label: Deco_Publish_Success_Content
+attribute: 0x000000
+---
+The Deco has been made public.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Details have also been saved on the server.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Data that violates the terms and conditions may be deleted.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Deco_Publish_Success_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Ugc_Deco_Trial_Quit_UgcExam_Title
+attribute: 0x000000
+---
+Stop Sampling
+
+---
+label: Ugc_Deco_Trial_Quit_UgcExam_Content
+attribute: 0x000000
+---
+Stop editing the sample Deco?
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Note: Pass the test at the {{0:3 arg="0x0000"}}UGC License Test Room{{0:3 arg="0x0300"}} to unlock Deco.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Anyone can take the test, so please make your way to the test room.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Deco_Trial_Quit_UgcExam_ButtonAccept
+attribute: 0x000000
+---
+Stop Editing
+
+---
+label: Ugc_Deco_Trial_Quit_UgcExam_ButtonCancel
+attribute: 0x000000
+---
+Back
+
+---
+label: Ugc_Deco_Trial_Quit_UgcLicence_Title
+attribute: 0x000000
+---
+Stop Sampling
+
+---
+label: Ugc_Deco_Trial_Quit_UgcLicence_Content
+attribute: 0x000000
+---
+Stop editing the sample Deco?
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Note: You must have a {{0:3 arg="0x0000"}}UGC License {{0:3 arg="0x0300"}}to unlock Deco.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}You can get one at the {{0:3 arg="0x0000"}} TEST CREDIT Shop{{0:3 arg="0x0300"}} in the Connex Shop. {{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Deco_Trial_Quit_UgcLicence_ButtonAccept
+attribute: 0x000000
+---
+Stop Editing
+
+---
+label: Ugc_Deco_Trial_Quit_UgcLicence_ButtonCancel
+attribute: 0x000000
+---
+Back
+
+---
+label: Ugc_Deco_Trial_Quit_Shop_Title
+attribute: 0x000000
+---
+Stop Sampling
+
+---
+label: Ugc_Deco_Trial_Quit_Shop_Content
+attribute: 0x000000
+---
+Stop editing the sample Deco?
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Note: You can get Deco at the Connex Shop
+using {{0:3 arg="0x0000"}} TEST CREDIT{{0:3 arg="0x0300"}} currency.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Deco_Trial_Quit_Shop_ButtonAccept
+attribute: 0x000000
+---
+Stop Editing
+
+---
+label: Ugc_Deco_Trial_Quit_Shop_ButtonCancel
+attribute: 0x000000
+---
+Back
+
+---
+label: Ugc_Deco_Trial_Save_Title
+attribute: 0x000000
+---
+Save
+
+---
+label: Ugc_Deco_Trial_Save_Content
+attribute: 0x000000
+---
+You can save your Deco in the middle of editing it.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}You can take your time editing it in detail at your own pace.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Deco_Trial_Save_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: Ugc_Deco_Trial_Publish_Title
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Ugc_Deco_Trial_Publish_Content
+attribute: 0x000000
+---
+You can make your Deco {{0:3 arg="0x0000"}}public{{0:3 arg="0xFFFF"}}.
+Once you make it public, you can distribute 
+your Deco to everyone.
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}Anyone can take the Deco Cards from their Pieces and wear them.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_Deco_Trial_Publish_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: Ugc_Image_Publish_Title
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Ugc_Image_Publish_Content
+attribute: 0x000000
+---
+The selected image will be made public.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Data that violates the terms and conditions may be deleted.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Image_Publish_ButtonAccept
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Ugc_Image_Publish_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Ugc_Image_Select_Title
+attribute: 0x000000
+---
+Make This Image Public?
+
+---
+label: Ugc_Image_Select_ButtonAccept
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Ugc_Image_Select_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Ugc_Image_Wait_Content
+attribute: 0x000000
+---
+Sending image data...
+
+---
+label: Ugc_Image_Success_Title
+attribute: 0x000000
+---
+Published!
+
+---
+label: Ugc_Image_Success_Content
+attribute: 0x000000
+---
+The selected image has been made public.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Details have also been saved on the server.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Data that violates the terms and conditions may be deleted.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Image_Success_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Ugc_Image_ErrorSelect_Title
+attribute: 0x000000
+---
+Failed to Retrieve Image
+
+---
+label: Ugc_Image_ErrorSelect_Content
+attribute: 0x000000
+---
+You cannot select this image.
+
+---
+label: Ugc_Image_ErrorSelect_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Ugc_Text_Quit_Title
+attribute: 0x000000
+---
+Stop Inputting
+
+---
+label: Ugc_Text_Quit_Content
+attribute: 0x000000
+---
+Stop inputting text?
+
+---
+label: Ugc_Text_Quit_ButtonAccept
+attribute: 0x000000
+---
+Yes
+
+---
+label: Ugc_Text_Quit_ButtonCancel
+attribute: 0x000000
+---
+Back
+
+---
+label: Ugc_Text_Publish_Title
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Ugc_Text_Publish_Content
+attribute: 0x000000
+---
+The input text will be made public.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Content that violates the terms and conditions may be deleted.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Text_Publish_ButtonAccept
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Ugc_Text_Publish_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Ugc_Text_Wait_Content
+attribute: 0x000000
+---
+Sending text data...
+
+---
+label: Ugc_Text_Success_Title
+attribute: 0x000000
+---
+Published!
+
+---
+label: Ugc_Text_Success_Content
+attribute: 0x000000
+---
+The input text has been made public.
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}Details have also been saved on the server.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Data that violates the terms and conditions may be deleted.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_Text_Success_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Shop_TimeOut_Title
+attribute: 0x000000
+---
+Not Available
+
+---
+label: Shop_TimeOut_Content
+attribute: 0x000000
+---
+Not currently available.
+
+---
+label: Shop_TimeOut_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Shop_Ng_Title
+attribute: 0x000000
+---
+Cannot Acquire
+
+---
+label: Shop_Ng_Content
+attribute: 0x000000
+---
+・Insufficient {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level.
+・Maximum number already acquired.
+・Insufficient {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}}.
+
+---
+label: Shop_Ng_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Shop_Check_Title
+attribute: 0x000000
+---
+Confirm
+
+---
+label: Shop_Check_Content
+attribute: 0x000000
+---
+Use {{0:3 arg="0x0000"}} TEST CREDIT{{0:3 arg="0xFFFF"}} currency to acquire:
+{{101:9}}
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}IMPORTANT: By clicking "Confirm and Receive" below, you consent{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}that items acquired during the Playtest will be deleted once the{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Playtest Program ends.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Shop_Check_ButtonAccept
+attribute: 0x000000
+---
+Confirm and Receive
+
+---
+label: Shop_Check_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Shop_Check_ButtonSub
+attribute: 0x000000
+---
+{{0:0 arg="0x0C001A0068304F306630443057308730463068308A3072304D307B304630"}}特定商取引法に{{0:0 arg="0x0200040082306830"}}基づく{{0:0 arg="0x040008007230873046305830"}}表示
+
+---
+label: Shop_NoVc_Title
+attribute: 0x000000
+---
+Insufficient Balance
+
+---
+label: Shop_NoVc_Content
+attribute: 0x000000
+---
+Your  TEST CREDIT balance is too low.
+You need {{0:3 arg="0x0200"}} {{101:10}}{{0:3 arg="0xFFFF"}} more.
+
+---
+label: Shop_NoVc_ButtonAccept
+attribute: 0x000000
+---
+To  TEST CREDIT Shop
+
+---
+label: Shop_NoVc_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Shop_Full_Title
+attribute: 0x000000
+---
+Not Enough Space in Card Storage
+
+---
+label: Shop_Full_Content
+attribute: 0x000000
+---
+You cannot hold this because you don't have enough space
+in Card Storage. Please free up some space.
+
+---
+label: Shop_Full_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Shop_UgcNg_01_Title
+attribute: 0x000000
+---
+Take the Test
+
+---
+label: Shop_UgcNg_01_Content
+attribute: 0x000000
+---
+You need a UGC License in order to unlock Deco.
+First, {{0:3 arg="0x0000"}}pass the test{{0:3 arg="0xFFFF"}} in the {{0:3 arg="0x0000"}}UGC License Test Room{{0:3 arg="0xFFFF"}}.
+{{0:2 arg="0x5000"}}{{0:1 arg="0x0400"}}(After you do so, get a UGC License at the   TEST CREDIT Shop.){{0:1 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Shop_UgcNg_01_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Shop_UgcNg_02_Title
+attribute: 0x000000
+---
+Congratulations on Passing the Test!
+
+---
+label: Shop_UgcNg_02_Content
+attribute: 0x000000
+---
+Please get a {{0:3 arg="0x0000"}}UGC License{{0:3 arg="0xFFFF"}}
+at the  TEST CREDIT Shop.
+
+---
+label: Shop_UgcNg_02_ButtonAccept
+attribute: 0x000000
+---
+Go to  TEST CREDIT Shop
+
+---
+label: Shop_UgcNg_02_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Shop_Check_2Button_Title
+attribute: 0x000000
+---
+Confirm
+
+---
+label: Shop_Check_2Button_Content
+attribute: 0x000000
+---
+Use {{0:3 arg="0x0000"}} TEST CREDIT {{0:3 arg="0xFFFF"}}currency to get...
+{{101:9}}?
+{{0:2 arg="0x5000"}}(Items acquired will be deleted once the Playtest Program ends.){{0:2 arg="0x6400"}}
+
+---
+label: Shop_Check_2Button_ButtonAccept
+attribute: 0x000000
+---
+Confirm and Receive
+
+---
+label: Shop_Check_2Button_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: VC_UgcExamNg_Title
+attribute: 0x000000
+---
+Take the Test
+
+---
+label: VC_UgcExamNg_Content
+attribute: 0x000000
+---
+Please {{0:3 arg="0x0000"}}pass the test{{0:3 arg="0xFFFF"}} in the {{0:3 arg="0x0000"}}UGC License Test Room{{0:3 arg="0xFFFF"}}
+in order to get a UGC License.
+
+---
+label: VC_UgcExamNg_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Bought_Title
+attribute: 0x000000
+---
+Acquisition Complete
+
+---
+label: VC_Bought_Content
+attribute: 0x000000
+---
+Thank you for your patronage.
+
+---
+label: VC_Bought_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Refresh_Title
+attribute: 0x000000
+---
+Recover Acquisition Data
+
+---
+label: VC_Refresh_Content
+attribute: 0x000000
+---
+Data will be recovered in order to resolve problems related
+to  TEST CREDIT distribution issues.
+
+---
+label: VC_Refresh_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Refresh_ButtonCancel
+attribute: 0x000000
+---
+Back
+
+---
+label: VC_RefreshProcessing_Title
+attribute: 0x000000
+---
+Check Acquisition Data
+
+---
+label: VC_RefreshProcessing_Content
+attribute: 0x000000
+---
+Checking...
+
+---
+label: VC_Refresh_Error_Title
+attribute: 0x000000
+---
+Failed to Recover Data
+
+---
+label: VC_Refresh_Error_Content
+attribute: 0x000000
+---
+Failed to recover data.
+Please try again later.
+
+---
+label: VC_Refresh_Error_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Refresh_Success_Title
+attribute: 0x000000
+---
+Acquisition Data Recovery
+
+---
+label: VC_Refresh_Success_Content
+attribute: 0x000000
+---
+The acquisition data recovery is complete.
+
+---
+label: VC_Refresh_Success_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Refresh_NotFound_Title
+attribute: 0x000000
+---
+Acquisition Data Recovery
+
+---
+label: VC_Refresh_NotFound_Content
+attribute: 0x000000
+---
+There are no acquisitions that were not completed.
+
+---
+label: VC_Refresh_NotFound_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Refresh_Finished_Title
+attribute: 0x000000
+---
+Acquisition Data Recovery
+
+---
+label: VC_Refresh_Finished_Content
+attribute: 0x000000
+---
+There was an acquisition that was not completed.
+Data recovery has been performed!
+
+---
+label: VC_Refresh_Finished_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: VC_Balance_Title
+attribute: 0x000000
+---
+ TEST CREDIT Balance
+
+---
+label: VC_Balance_Content
+attribute: 0x000000
+---
+Paid:  {{101:8 arg="0x01CD"}}
+Free:  {{101:8 arg="0x02CD"}}
+
+---
+label: VC_Balance_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Cmn_Setting_Default_Title
+attribute: 0x000000
+---
+Default Settings
+
+---
+label: Cmn_Setting_Default_Content
+attribute: 0x000000
+---
+Revert to default settings.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}All control settings will return to their default state.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Cmn_Setting_Default_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Cmn_Setting_Default_ButtonCancel
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Cmn_Setting_AccountName_Empty_Title
+attribute: 0x000000
+---
+Input Error
+
+---
+label: Cmn_Setting_AccountName_Empty_Content
+attribute: 0x000000
+---
+Please enter a name.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}You cannot use a blank profile name.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Cmn_Setting_AccountName_Empty_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Cmn_Setting_AccountName_Limit_Title
+attribute: 0x000000
+---
+Change Limit
+
+---
+label: Cmn_Setting_AccountName_Limit_Content
+attribute: 0x000000
+---
+You can change your profile
+name one time every 30 days.
+
+---
+label: Cmn_Setting_AccountName_Limit_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: AnyHistory_Error_Title
+attribute: 0x000000
+---
+Communication Error
+
+---
+label: AnyHistory_Error_Content
+attribute: 0x000000
+---
+Could not collect logs.
+
+---
+label: AnyHistory_Error_ButtonAccept
+attribute: 0x000000
+---
+OK

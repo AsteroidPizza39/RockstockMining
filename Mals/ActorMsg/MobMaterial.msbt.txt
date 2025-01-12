@@ -1,0 +1,245 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 23
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: eSand
+attribute: 0x000000
+---
+Sand
+
+---
+label: eSoil
+attribute: 0x000000
+---
+Soil
+
+---
+label: eRock
+attribute: 0x000000
+---
+Stone
+
+---
+label: eCopper
+attribute: 0x000000
+---
+Copper
+
+---
+label: eIron
+attribute: 0x000000
+---
+Iron
+
+---
+label: eSilver
+attribute: 0x000000
+---
+Silver
+
+---
+label: eGold
+attribute: 0x000000
+---
+Gold
+
+---
+label: eDiamond
+attribute: 0x000000
+---
+Diamond
+
+---
+label: eRuby
+attribute: 0x000000
+---
+Ruby
+
+---
+label: eEmerald
+attribute: 0x000000
+---
+Emerald
+
+---
+label: eSapphire
+attribute: 0x000000
+---
+Sapphire
+
+---
+label: eGlass
+attribute: 0x000000
+---
+Glass
+
+---
+label: eWater
+attribute: 0x000000
+---
+Water
+
+---
+label: eSwamp
+attribute: 0x000000
+---
+Swamp
+
+---
+label: eIce
+attribute: 0x000000
+---
+Ice
+
+---
+label: eMagma
+attribute: 0x000000
+---
+Magma
+
+---
+label: eBomb
+attribute: 0x000000
+---
+Bomb
+
+---
+label: eElec
+attribute: 0x000000
+---
+Battery
+
+---
+label: eStg_Lv1
+attribute: 0x000000
+---
+Unknown Object
+
+---
+label: eStg_Lv2
+attribute: 0x000000
+---
+Unknown Object
+
+---
+label: eStg_Lv3
+attribute: 0x000000
+---
+Unknown Object
+
+---
+label: eStg_Lv99
+attribute: 0x000000
+---
+Darkness
+
+---
+label: eUndead
+attribute: 0x000000
+---
+Darkness
+
+---
+label: eHealth
+attribute: 0x000000
+---
+Life Stone
+
+---
+label: eNeutral_01
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_02
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_03
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_04
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_05
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_06
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_07
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_08
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_09
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_10
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_11
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_12
+attribute: 0x000000
+---
+ 
+
+---
+label: eNeutral_13
+attribute: 0x000000
+---
+ 
+
+---
+label: eTiny
+attribute: 0x000000
+---
+ 
+
+---
+label: eTestHard
+attribute: 0x000000
+---
+a hard material

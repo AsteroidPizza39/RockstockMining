@@ -1,0 +1,587 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 53
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Cmn_SectionEntry_Title
+attribute: 0x000000
+---
+ Entrance/Exit Log
+
+---
+label: Cmn_SectionEntry_Content_Detail_Entry
+attribute: 0x000000
+---
+Enter →
+
+---
+label: Cmn_SectionEntry_Content_Detail_Exit
+attribute: 0x000000
+---
+← Exit
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Gameover
+attribute: 0x000000
+---
+Game Over
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_01
+attribute: 0x000000
+---
+1 × 1 = {{0:3 arg="0x0000"}}1{{0:3 arg="0xFFFF"}} point
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_02
+attribute: 0x000000
+---
+2 × 2 = {{0:3 arg="0x0000"}}4{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_03
+attribute: 0x000000
+---
+3 × 3 = {{0:3 arg="0x0000"}}9{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_04
+attribute: 0x000000
+---
+4 × 4 = {{0:3 arg="0x0000"}}16{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_05
+attribute: 0x000000
+---
+5 × 5 = {{0:3 arg="0x0000"}}25{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_06
+attribute: 0x000000
+---
+6 × 6 = {{0:3 arg="0x0000"}}36{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_07
+attribute: 0x000000
+---
+7 × 7 = {{0:3 arg="0x0000"}}49{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_08
+attribute: 0x000000
+---
+8 × 8 = {{0:3 arg="0x0000"}}64{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_09
+attribute: 0x000000
+---
+9 × 9 = {{0:3 arg="0x0000"}}81{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Detail_PvP_Score_10
+attribute: 0x000000
+---
+10 × 10 = {{0:3 arg="0x0000"}}100{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_Entry
+attribute: 0x000000
+---
+Enter →
+
+---
+label: Cmn_SectionEntry_Content_Signboard_Exit
+attribute: 0x000000
+---
+← Exit
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Gameover
+attribute: 0x000000
+---
+Game Over
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_01
+attribute: 0x000000
+---
+1 × 1 = {{0:3 arg="0x0000"}}1{{0:3 arg="0xFFFF"}} point
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_02
+attribute: 0x000000
+---
+2 × 2 = {{0:3 arg="0x0000"}}4{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_03
+attribute: 0x000000
+---
+3 × 3 = {{0:3 arg="0x0000"}}9{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_04
+attribute: 0x000000
+---
+4 × 4 = {{0:3 arg="0x0000"}}16{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_05
+attribute: 0x000000
+---
+5 × 5 = {{0:3 arg="0x0000"}}25{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_06
+attribute: 0x000000
+---
+6 × 6 = {{0:3 arg="0x0000"}}36{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_07
+attribute: 0x000000
+---
+7 × 7 = {{0:3 arg="0x0000"}}49{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_08
+attribute: 0x000000
+---
+8 × 8 = {{0:3 arg="0x0000"}}64{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_09
+attribute: 0x000000
+---
+9 × 9 = {{0:3 arg="0x0000"}}81{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Content_Signboard_PvP_Score_10
+attribute: 0x000000
+---
+10 × 10 = {{0:3 arg="0x0000"}}100{{0:3 arg="0xFFFF"}} points
+
+---
+label: Cmn_SectionEntry_Detail
+attribute: 0x000000
+---
+Those who enter and those who leave are recorded.
+
+---
+label: CompletedFrontier//_Title
+attribute: 0x000000
+---
+ Planet Development Log
+
+---
+label: CompletedFrontier//_Content_Detail
+attribute: 0x000000
+---
+ Development complete for Planetary Block [{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}]
+
+---
+label: CompletedFrontier//_Content_Signboard
+attribute: 0x000000
+---
+ [{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}] Complete
+
+---
+label: CompletedFrontier//_Detail
+attribute: 0x000000
+---
+Information on completed Planetary Blocks is collected here.
+
+---
+label: Ctr_Parts_FriendChecler_Title
+attribute: 0x000000
+---
+Compatibility Analyzer Log
+
+---
+label: Ctr_Parts_FriendChecler_Content_Detail_Bad
+attribute: 0x000000
+---
+Your compatibility {{0:3 arg="0x0900"}}isn't great{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecler_Content_Detail_Great
+attribute: 0x000000
+---
+Your compatibility is {{0:3 arg="0x0000"}}perfect{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecler_Content_Detail_Middle
+attribute: 0x000000
+---
+Your compatibility is {{0:3 arg="0x0A00"}}average{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecler_Content_Signboard_Bad
+attribute: 0x000000
+---
+Your compatibility {{0:3 arg="0x0900"}}isn't great{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecler_Content_Signboard_Great
+attribute: 0x000000
+---
+Your compatibility is {{0:3 arg="0x0000"}}perfect{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecler_Content_Signboard_Middle
+attribute: 0x000000
+---
+Your compatibility is {{0:3 arg="0x0A00"}}average{{0:3 arg="0xFFFF"}}
+
+---
+label: Ctr_Parts_FriendChecler_Detail
+attribute: 0x000000
+---
+You can view the results of everyone's Compatibility Analysis.
+
+---
+label: Ctr_Parts_Omikuji_Title
+attribute: 0x000000
+---
+Fortune-Telling Log
+
+---
+label: Ctr_Parts_Omikuji_Content_Detail_Bad
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0900"}}horrible luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Detail_Good
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0D00"}}good luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Detail_Great
+attribute: 0x000000
+---
+You pulled an {{0:3 arg="0x0C00"}}excellent luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Detail_Middle
+attribute: 0x000000
+---
+You pulled an {{0:3 arg="0x0A00"}}average luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Detail_Small
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0F00"}}bad luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Signboard_Bad
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0900"}}horrible luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Signboard_Good
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0D00"}}good luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Signboard_Great
+attribute: 0x000000
+---
+You pulled an {{0:3 arg="0x0C00"}}excellent luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Signboard_Middle
+attribute: 0x000000
+---
+You pulled an {{0:3 arg="0x0A00"}}average luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Content_Signboard_Small
+attribute: 0x000000
+---
+You pulled a {{0:3 arg="0x0F00"}}bad luck{{0:3 arg="0xFFFF"}} fortune!
+
+---
+label: Ctr_Parts_Omikuji_Detail
+attribute: 0x000000
+---
+You can view the results of everyone's fortune-telling.
+
+---
+label: Ctr_Parts_ProfileStudio_Title
+attribute: 0x000000
+---
+Profile Photography Log
+
+---
+label: Ctr_Parts_ProfileStudio_Content_Detail
+attribute: 0x000000
+---
+Photographed
+
+---
+label: Ctr_Parts_ProfileStudio_Content_Signboard
+attribute: 0x000000
+---
+Photographed
+
+---
+label: Ctr_Parts_ProfileStudio_Detail
+attribute: 0x000000
+---
+A record of Developers who have changed their profile photo.
+
+---
+label: FrontierLuckyNumber_Title
+attribute: 0x000000
+---
+ [{{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005800"}}, {{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005A00"}}] Development Log
+
+---
+label: FrontierLuckyNumber_Content_Detail_LuckyNumber00
+attribute: 0x000000
+---
+Reached {{101:0 arg="0x0206000100CD"}} Dev Points
+
+---
+label: FrontierLuckyNumber_Content_Detail_LuckyNumber01
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}}Reached {{101:0 arg="0x0206000100CD"}} Dev Points!{{0:3 arg="0xFFFF"}}
+
+---
+label: FrontierLuckyNumber_Content_Detail_LuckyNumberCompleted
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}Reached {{101:0 arg="0x0206000100CD"}} Dev Points! Development complete!{{0:3 arg="0xFFFF"}}
+
+---
+label: FrontierLuckyNumber_Content_Signboard_LuckyNumber00
+attribute: 0x000000
+---
+Reached {{101:0 arg="0x0206000100CD"}}!
+
+---
+label: FrontierLuckyNumber_Content_Signboard_LuckyNumber01
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}}Reached {{101:0 arg="0x0206000100CD"}}!{{0:3 arg="0xFFFF"}}
+
+---
+label: FrontierLuckyNumber_Content_Signboard_LuckyNumberCompleted
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{101:0 arg="0x0206000100CD"}} Development complete!{{0:3 arg="0xFFFF"}}
+
+---
+label: FrontierLuckyNumber_Detail
+attribute: 0x000000
+---
+Developers who contribute enough to pass a 1,000 Dev Points milestone for this Planetary Block are recorded.
+
+---
+label: LicenceUpdateClt_Title
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}License Registration Log
+
+---
+label: LicenceUpdateClt_Content_Detail
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level now {{101:0 arg="0x0003000100CD"}}!
+
+---
+label: LicenceUpdateClt_Content_Signboard
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level now {{101:0 arg="0x0003000100CD"}}!
+
+---
+label: LicenceUpdateClt_Detail
+attribute: 0x000000
+---
+The names of those who have increased their Connection Level are recorded here.
+
+---
+label: LicenceUpdateStr_Title
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}License Registration Log
+
+---
+label: LicenceUpdateStr_Content_Detail
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level now {{101:0 arg="0x0003000100CD"}}!
+
+---
+label: LicenceUpdateStr_Content_Signboard
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level now {{101:0 arg="0x0003000100CD"}}!
+
+---
+label: LicenceUpdateStr_Detail
+attribute: 0x000000
+---
+The names of those who have increased their Development Level are recorded here.
+
+---
+label: LicenceUpdateUgc_Title
+attribute: 0x000000
+---
+UGC License Test Passers
+
+---
+label: LicenceUpdateUgc_Content_Detail
+attribute: 0x000000
+---
+UGC License Test Passers
+
+---
+label: LicenceUpdateUgc_Content_Signboard
+attribute: 0x000000
+---
+UGC License Test Passers
+
+---
+label: LicenceUpdateUgc_Detail
+attribute: 0x000000
+---
+The names of those who have passed the UGC License Test are recorded here.
+
+---
+label: List_Deliver_Title
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}Daily Supplies Log
+
+---
+label: List_Deliver_Content_Detail
+attribute: 0x000000
+---
+Received {{0:3 arg="0x0000"}}{{101:7 arg="0x00CD"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: List_Deliver_Content_Signboard
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{101:7 arg="0x00CD"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: List_Deliver_Detail
+attribute: 0x000000
+---
+Daily Supply Receival Record
+
+---
+label: List_GateToPvP_Title
+attribute: 0x000000
+---
+Developer {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Area 
+
+---
+label: List_GateToPvP_Content_Detail
+attribute: 0x000000
+---
+Entrance Unlocked
+
+---
+label: List_GateToPvP_Content_Signboard
+attribute: 0x000000
+---
+Entrance Unlocked
+
+---
+label: List_GateToPvP_Detail
+attribute: 0x000000
+---
+The names of those who open the entrance are recorded.
+
+---
+label: List_GateToTutorialMult_Title
+attribute: 0x000000
+---
+(Tentative) Group Training Log
+
+---
+label: List_GateToTutorialMult_Content_Detail
+attribute: 0x000000
+---
+メニューを開いた
+
+---
+label: List_GateToTutorialMult_Content_Signboard
+attribute: 0x000000
+---
+メニューを開いた
+
+---
+label: List_GateToTutorialMult_Detail
+attribute: 0x000000
+---
+(Tentative) Group Training Log Explanation
+
+---
+label: List_ShopClt_Title
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Shop Acquisition Log
+
+---
+label: List_ShopClt_Content_Detail
+attribute: 0x000000
+---
+Acquired {{0:3 arg="0x0000"}}{{101:7 arg="0x00CD"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: List_ShopClt_Content_Signboard
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{101:7 arg="0x00CD"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: List_ShopClt_Detail
+attribute: 0x000000
+---
+Connex Shop Acquisition Record
+
+---
+label: List_ShopStr_Title
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}}{{0:3 arg="0x0500"}}{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Dev Shop Acquisition Log
+
+---
+label: List_ShopStr_Content_Detail
+attribute: 0x000000
+---
+Acquired {{0:3 arg="0x0000"}}{{101:7 arg="0x00CD"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: List_ShopStr_Content_Signboard
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{101:7 arg="0x00CD"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: List_ShopStr_Detail
+attribute: 0x000000
+---
+Dev Shop Acquisition Record

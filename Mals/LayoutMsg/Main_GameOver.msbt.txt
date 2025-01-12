@@ -1,0 +1,41 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 3
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_Title-T_CapTitle
+attribute: 0x000000
+---
+GAME OVER
+
+---
+label: L_KeyGuideRestart-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideRestart-T_KeyText
+attribute: 0x000000
+---
+Restart
+
+---
+label: T_EnegyLoss
+attribute: 0x000000
+---
+Your energy has been halved.
+
+---
+label: L_Energy-L_EnergyScore-T_Slash
+attribute: 0x000000
+---
+/

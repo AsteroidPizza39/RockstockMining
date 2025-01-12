@@ -1,0 +1,78 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: T_Empty
+attribute: 0x000000
+---
+No images available.
+You can take pictures with .
+
+---
+label: L_PieceTitle-T_PieceName
+attribute: 0x000000
+---
+Choose an Image
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Cancel
+
+---
+label: L_KeyGuideDecide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideDecide-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: L_KeyGuideBack-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideNext-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: PageNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: PageMax
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}

@@ -1,0 +1,346 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 29
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideList-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: ListIn
+attribute: 0x000000
+---
+Open List
+
+---
+label: ListOut
+attribute: 0x000000
+---
+Close List
+
+---
+label: L_ListView-L_KeyGuideLeft-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_ListView-L_KeyGuideRight-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_ListView-L_KeyGuideReload-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_ListView-L_KeyGuideReload-T_KeyText
+attribute: 0x000000
+---
+Update List
+
+---
+label: L_ListView-L_KeyGuideX-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: Favorite_KeyGuide
+attribute: 0x000000
+---
+Add Star
+
+---
+label: DeleteAntenna_KeyGuide
+attribute: 0x000000
+---
+Delete Beacon
+
+---
+label: L_ListView-L_KeyGuideWatch-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_ListView-L_KeyGuideWatch-T_KeyText
+attribute: 0x000000
+---
+Spectate
+
+---
+label: Favorite_Name
+attribute: 0x000000
+---
+Favorite
+
+---
+label: NiceGet_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points Received
+
+---
+label: NiceGive_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points Sent
+
+---
+label: Hello_Name
+attribute: 0x000000
+---
+Greetings
+
+---
+label: Antenna_Name
+attribute: 0x000000
+---
+Your Beacons
+
+---
+label: Favorite_Title
+attribute: 0x000000
+---
+What is a {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}} Favorite?
+
+---
+label: Favorite_Explain
+attribute: 0x000000
+---
+・You can add players to this list with {{0:3 arg="0x0000"}} Favorite{{0:3 arg="0xFFFF"}}.
+・Once added, you can {{0:3 arg="0x0000"}} Spectate{{0:3 arg="0xFFFF"}} at any time.
+・Players are ordered by those with the most {{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}}.
+・You can Favorite up to a maximum of {{0:3 arg="0x0000"}}100{{0:3 arg="0xFFFF"}} players.
+
+---
+label: NiceGet_Title
+attribute: 0x000000
+---
+What is  {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points Received?
+
+---
+label: NiceGet_Explain
+attribute: 0x000000
+---
+・A list of {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points you have received.
+・You can receive Connex Points even when you aren't playing.
+・If you're curious about where they came from, try {{0:3 arg="0x0000"}} Spectate{{0:3 arg="0xFFFF"}}.
+
+---
+label: NiceGive_Title
+attribute: 0x000000
+---
+What is  {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points Sent?
+
+---
+label: NiceGive_Explain
+attribute: 0x000000
+---
+・A list of {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points you've sent.
+・Send {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points to a Piece's owner by climbing on top and {{0:3 arg="0x0000"}}holding down {{0:3 arg="0xFFFF"}}.
+・You can also send points for distant Pieces by  aiming + holding down .
+
+---
+label: Hello_Title
+attribute: 0x000000
+---
+What are  Greetings?
+
+---
+label: Hello_Explain
+attribute: 0x000000
+---
+・Players will be displayed in the list if you {{0:3 arg="0x0000"}}Greet{{0:3 arg="0xFFFF"}} them by {{0:3 arg="0x0000"}}holding down {{0:3 arg="0xFFFF"}}.
+・You can learn about a player's profile by Greeting them.
+・You can  Favorite players you like.
+
+---
+label: Antenna_Title
+attribute: 0x000000
+---
+What is  Your Beacons?
+
+---
+label: Antenna_Explain
+attribute: 0x000000
+---
+・This list shows you where your Beacons are.
+・If you {{0:3 arg="0x0000"}} Spectate{{0:3 arg="0xFFFF"}}, you can {{0:3 arg="0x0000"}}warp{{0:3 arg="0xFFFF"}} to your Beacons.
+・You can have deleted Beacons reissued at the Dev Core.
+
+---
+label: L_ListView-L_ListTitle-T_Name
+attribute: 0x000000
+---
+Profile
+
+---
+label: L_ListView-L_ListTitle-T_Favorite
+attribute: 0x000000
+---
+Stars
+
+---
+label: L_ListView-L_ListTitle-T_Time
+attribute: 0x000000
+---
+When?
+
+---
+label: L_ListView-L_ListTitle-T_Section
+attribute: 0x000000
+---
+Block
+
+---
+label: L_ListView-L_ListTitle-T_Route
+attribute: 0x000000
+---
+From Where?
+
+---
+label: Route_Direct
+attribute: 0x000000
+---
+From Afar
+
+---
+label: Route_Piece
+attribute: 0x000000
+---
+Piece
+
+---
+label: Route_Card
+attribute: 0x000000
+---
+card
+
+---
+label: Route_Handshake
+attribute: 0x000000
+---
+Greeting
+
+---
+label: Route_AntennaMain
+attribute: 0x000000
+---
+Enter Beacon
+
+---
+label: Route_AntennaSub
+attribute: 0x000000
+---
+Enter Beacon
+
+---
+label: L_ListView-L_ListTitle-T_Relationship
+attribute: 0x000000
+---
+Status
+
+---
+label: Relationship_FullConnect
+attribute: 0x000000
+---
+Connection Complete
+
+---
+label: Relationship_HalfConnect
+attribute: 0x000000
+---
+Half Connected
+
+---
+label: L_ListView-L_ListTitle-T_Antenna
+attribute: 0x000000
+---
+Beacon Number
+
+---
+label: AntennaName
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}No.{{0:2 arg="0x6400"}}{{101:0 arg="0x0102000100CD"}}
+
+---
+label: L_ListView-L_ListTitle-T_Location
+attribute: 0x000000
+---
+Position
+
+---
+label: L_ListView-L_BtnListView00-L_Location-T_Dot00
+attribute: 0x000000
+---
+,
+
+---
+label: PositionX
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: PositionY
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: PositionZ
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}
+
+---
+label: L_ListView-L_ListTitle-T_Height
+attribute: 0x000000
+---
+Altitude
+
+---
+label: Height
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: L_ListView-L_ListTitle-T_Diameter
+attribute: 0x000000
+---
+Diameter
+
+---
+label: Diameter
+attribute: 0x000000
+---
+{{101:0 arg="0x0004000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: AntennaStatusDescription_Unused
+attribute: 0x000000
+---
+Once you've placed your Beacon, information will be displayed here.
+
+---
+label: AntennaStatusDescription_Deleted
+attribute: 0x000000
+---
+This Beacon has been deleted. Please have it reissued at the Dev Core.

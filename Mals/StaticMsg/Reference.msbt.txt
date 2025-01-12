@@ -1,0 +1,545 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 47
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Unknown
+attribute: 0x000000
+---
+???????
+
+---
+label: MutePlayer
+attribute: 0x000000
+---
+A PLAYER
+
+---
+label: TimeStamp_Past_Years
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000000CD"}} year{{201:6 arg="0x0000020073000000"}} ago
+
+---
+label: TimeStamp_Past_Days
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000000CD"}} day{{201:6 arg="0x0000020073000000"}} ago
+
+---
+label: TimeStamp_Past_Hours
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000000CD"}} hour{{201:6 arg="0x0000020073000000"}} ago
+
+---
+label: TimeStamp_Past_Minutes
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000000CD"}} min{{201:6 arg="0x0000020073000000"}}. ago
+
+---
+label: TimeStamp_Past_Seconds
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000000CD"}} sec{{201:6 arg="0x0000020073000000"}}. ago
+
+---
+label: TimeStamp_Current_Years
+attribute: 0x000000
+---
+Years left: {{101:0 arg="0x0003000000CD"}}
+
+---
+label: TimeStamp_Current_Days
+attribute: 0x000000
+---
+Days left: {{101:0 arg="0x0003000000CD"}}
+
+---
+label: TimeStamp_Current_Hours
+attribute: 0x000000
+---
+Hours left: {{101:0 arg="0x0002000000CD"}}
+
+---
+label: TimeStamp_Current_Minutes
+attribute: 0x000000
+---
+Mins. left: {{101:0 arg="0x0002000000CD"}}
+
+---
+label: TimeStamp_Current_Seconds
+attribute: 0x000000
+---
+Secs. left: {{101:0 arg="0x0002000000CD"}}
+
+---
+label: TimeStamp_Future_Years
+attribute: 0x000000
+---
+Years: {{101:0 arg="0x0003000000CD"}}
+
+---
+label: TimeStamp_Future_Days
+attribute: 0x000000
+---
+Days: {{101:0 arg="0x0003000000CD"}}
+
+---
+label: TimeStamp_Future_Hours
+attribute: 0x000000
+---
+Hours: {{101:0 arg="0x0002000000CD"}}
+
+---
+label: TimeStamp_Future_Minutes
+attribute: 0x000000
+---
+Mins: {{101:0 arg="0x0002000000CD"}}
+
+---
+label: TimeStamp_Future_Seconds
+attribute: 0x000000
+---
+Secs: {{101:0 arg="0x0002000000CD"}}
+
+---
+label: TimeKey_Years
+attribute: 0x000000
+---
+year(s)
+
+---
+label: TimeKey_Days
+attribute: 0x000000
+---
+day(s)
+
+---
+label: TimeKey_Hours
+attribute: 0x000000
+---
+hour(s)
+
+---
+label: TimeKey_Minutes
+attribute: 0x000000
+---
+min(s)
+
+---
+label: TimeKey_Seconds
+attribute: 0x000000
+---
+sec(s)
+
+---
+label: AntennaName_Main
+attribute: 0x000000
+---
+Beacon
+
+---
+label: AntennaName_Sub
+attribute: 0x000000
+---
+Sub Beacon
+
+---
+label: AntennaName_Public
+attribute: 0x000000
+---
+Unity Beacon
+
+---
+label: AntennaName_Center
+attribute: 0x000000
+---
+Dev Core Beacon
+
+---
+label: Antenna
+attribute: 0x000000
+---
+
+
+---
+label: Antenna_Sub
+attribute: 0x000000
+---
+
+
+---
+label: Antenna_Public
+attribute: 0x000000
+---
+
+
+---
+label: Antenna_Center
+attribute: 0x000000
+---
+
+
+---
+label: Piece
+attribute: 0x000000
+---
+ 
+
+---
+label: Material
+attribute: 0x000000
+---
+ 
+
+---
+label: Blueprint
+attribute: 0x000000
+---
+ 
+
+---
+label: Card
+attribute: 0x000000
+---
+Card
+
+---
+label: Gem
+attribute: 0x000000
+---
+ 
+
+---
+label: Metal
+attribute: 0x000000
+---
+ 
+
+---
+label: Mech
+attribute: 0x000000
+---
+ 
+
+---
+label: Craft
+attribute: 0x000000
+---
+ 
+
+---
+label: Sound_Music
+attribute: 0x000000
+---
+ 
+
+---
+label: Sound_Sfx
+attribute: 0x000000
+---
+ 
+
+---
+label: Sound_Sfx_inst
+attribute: 0x000000
+---
+ 
+
+---
+label: Emoji
+attribute: 0x000000
+---
+ 
+
+---
+label: Pose
+attribute: 0x000000
+---
+ 
+
+---
+label: BodyTex_Str
+attribute: 0x000000
+---
+ 
+
+---
+label: Ugc_Deco
+attribute: 0x000000
+---
+ 
+
+---
+label: Ugc_Image
+attribute: 0x000000
+---
+ 
+
+---
+label: Ugc_Text
+attribute: 0x000000
+---
+ 
+
+---
+label: Report
+attribute: 0x000000
+---
+ 
+
+---
+label: Ice
+attribute: 0x000000
+---
+ 
+
+---
+label: Water
+attribute: 0x000000
+---
+ 
+
+---
+label: Swamp
+attribute: 0x000000
+---
+ 
+
+---
+label: Smoke
+attribute: 0x000000
+---
+ 
+
+---
+label: Ash
+attribute: 0x000000
+---
+ 
+
+---
+label: Magma
+attribute: 0x000000
+---
+ 
+
+---
+label: Fire
+attribute: 0x000000
+---
+ 
+
+---
+label: Charcoal
+attribute: 0x000000
+---
+ 
+
+---
+label: Cloud
+attribute: 0x000000
+---
+ 
+
+---
+label: Elec
+attribute: 0x000000
+---
+ 
+
+---
+label: Explode
+attribute: 0x000000
+---
+ 
+
+---
+label: Bud
+attribute: 0x000000
+---
+ 
+
+---
+label: Grass
+attribute: 0x000000
+---
+ 
+
+---
+label: Seed
+attribute: 0x000000
+---
+ 
+
+---
+label: Wood
+attribute: 0x000000
+---
+ 
+
+---
+label: Sand
+attribute: 0x000000
+---
+ 
+
+---
+label: Soil
+attribute: 0x000000
+---
+ 
+
+---
+label: Group_Rock
+attribute: 0x000000
+---
+ 
+
+---
+label: Group_Metal
+attribute: 0x000000
+---
+ 
+
+---
+label: Group_Gem
+attribute: 0x000000
+---
+ 
+
+---
+label: Group_Glass
+attribute: 0x000000
+---
+ 
+
+---
+label: Satellite_Red
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Yellow
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Blue
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Black
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_White
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Purple
+attribute: 0x000000
+---
+{{0:3 arg="0x0F00"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Cyan
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Default
+attribute: 0x000000
+---
+ 
+
+---
+label: Satellite_Pink
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Green
+attribute: 0x000000
+---
+{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Dark
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Satellite_Orange
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}}
+
+---
+label: Trn_Grow
+attribute: 0x000000
+---
+Growing...
+
+---
+label: Trn_Stop
+attribute: 0x000000
+---
+???
+
+---
+label: Trn_Connect
+attribute: 0x000000
+---
+Fusing...
+
+---
+label: Trn_Disconnect
+attribute: 0x000000
+---
+De-fusing...
+
+---
+label: Trn_Check
+attribute: 0x000000
+---
+ Confirming...
+
+---
+label: Trn_Fire
+attribute: 0x000000
+---
+Burning...
+
+---
+label: Dialog_Button_Cancel
+attribute: 0x000000
+---
+Stop
+
+---
+label: Dialog_Button_OK
+attribute: 0x000000
+---
+OK

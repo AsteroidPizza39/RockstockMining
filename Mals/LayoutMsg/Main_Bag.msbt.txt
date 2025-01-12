@@ -1,0 +1,278 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 23
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: T_BagName
+attribute: 0x000000
+---
+Cards
+
+---
+label: CardNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: L_KeyGuideDiscard-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideDiscard-T_KeyText
+attribute: 0x000000
+---
+Discard
+
+---
+label: L_KeyGuideEnergy-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideEnergy-T_KeyText
+attribute: 0x000000
+---
+Restore energy
+
+---
+label: L_KeyGuideCursor-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideCursor-T_KeyText
+attribute: 0x000000
+---
+Move cursor
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Close
+
+---
+label: L_BagDetail-L_CardInfoSub00-T_CardDetailTitle
+attribute: 0x000000
+---
+Creator
+
+---
+label: L_BagDetail-L_CardInfoSub01-T_CardDetailTitle
+attribute: 0x000000
+---
+Modder
+
+---
+label: L_BagDetail-L_Discard-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BagDetail-L_Discard-T_KeyText
+attribute: 0x000000
+---
+Discard card(s)
+
+---
+label: L_BagDetail-L_Discard-T_KeyTextNegative
+attribute: 0x000000
+---
+Discard card(s)
+
+---
+label: L_BagDetail-T_Discard
+attribute: 0x000000
+---
+Card(s) discarded.
+{{0:2 arg="0x5000"}}(Discarded cards disappear after a while.){{0:2 arg="0x6400"}}
+
+---
+label: L_BagDetail-L_Energy01-L_EnergyGuide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_BagDetail-L_Energy01-L_EnergyGuide-T_KeyText
+attribute: 0x000000
+---
+Restore energy
+
+---
+label: L_BagDetail-L_Energy01-L_EnergyGuide-T_KeyTextNegative
+attribute: 0x000000
+---
+Restore energy
+
+---
+label: L_BagDetail-T_Exchange
+attribute: 0x000000
+---
+{{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Energy has been restored.
+{{0:2 arg="0x5000"}}(Any cards used to restore the energy have disappeared.){{0:2 arg="0x6400"}}
+
+---
+label: EnergyCurrent
+attribute: 0x000000
+---
+{{101:1 arg="0x0004010001CD"}}
+
+---
+label: ChangedEnergy
+attribute: 0x000000
+---
+{{101:1 arg="0x0004010001CD"}}
+
+---
+label: L_BagDetail-T_Intro
+attribute: 0x000000
+---
+・Equip and use cards with        
+{{0:2 arg="0x5000"}}　(Unequip cards by pressing the equipped button on an empty slot.){{0:2 arg="0x6400"}}
+
+・Buttons with  locked cards cannot be changed.
+
+・Use  to discard cards. {{0:2 arg="0x5000"}}(Discarded cards will disappear.){{0:2 arg="0x6400"}}
+
+・Use  to restore {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Energy. {{0:2 arg="0x5000"}}(The used cards will disappear.){{0:2 arg="0x6400"}}
+
+---
+label: L_BagDetail-L_LicenceCard-T_Copyright
+attribute: 0x000000
+---
+Dev Core
+
+---
+label: HandshakeScore
+attribute: 0x000000
+---
+{{101:0 arg="0x0009000100CD"}}
+
+---
+label: MoralScore
+attribute: 0x000000
+---
+{{101:2 arg="0x0007010000CD2C0049006E00740065007200610063007400530063006F0072006500520065006300760054006F00740061006C00"}}
+
+---
+label: StructureLevel
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}{{101:2 arg="0x0005010000CD1C005300740072007500630074007500720065004C006500760065006C00"}}
+
+---
+label: L_BagDetail-L_LicenceCard-L_Structure-T_ScoreNowTitle
+attribute: 0x000000
+---
+Dev Points
+
+---
+label: StructureScoreCurrent
+attribute: 0x000000
+---
+{{101:2 arg="0x0006010000CD1C00530074007200750063007400750072006500530063006F0072006500"}}
+
+---
+label: L_BagDetail-L_LicenceCard-L_Structure-T_ScoreTotalTitle
+attribute: 0x000000
+---
+Total
+
+---
+label: StructureScoreTotal
+attribute: 0x000000
+---
+{{101:2 arg="0x0009010000CD2600530074007200750063007400750072006500530063006F007200650054006F00740061006C00"}}
+
+---
+label: L_BagDetail-L_LicenceCard-L_Structure-T_UnlockPt
+attribute: 0x000000
+---
+Dev Shop Keys
+
+---
+label: StructureLevelPoint
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: CultureLevel
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}{{101:2 arg="0x0005010000CD1800430075006C0074007500720065004C006500760065006C00"}}
+
+---
+label: L_BagDetail-L_LicenceCard-L_Culture-T_ScoreNowTitle
+attribute: 0x000000
+---
+Connex Points
+
+---
+label: CultureScoreCurrent
+attribute: 0x000000
+---
+{{101:2 arg="0x0006010000CD2000430075006C007400750072006500530063006F00720065005200650063007600"}}
+
+---
+label: L_BagDetail-L_LicenceCard-L_Culture-T_ScoreTotalTitle
+attribute: 0x000000
+---
+Total
+
+---
+label: CultureScoreTotal
+attribute: 0x000000
+---
+{{101:2 arg="0x0009010000CD2A00430075006C007400750072006500530063006F0072006500520065006300760054006F00740061006C00"}}
+
+---
+label: L_BagDetail-L_LicenceCard-L_Culture-T_UnlockPt
+attribute: 0x000000
+---
+Connex Shop Keys
+
+---
+label: CultureLevelPoint
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: Address
+attribute: 0x000000
+---
+[{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}]
+
+---
+label: L_BagDetail-L_LicenceCard-L_Energy00-L_EnergyScore-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: VirtualCurrency
+attribute: 0x000000
+---
+{{101:0 arg="0x0009000100CD"}}

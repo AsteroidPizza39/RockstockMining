@@ -1,0 +1,125 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: T_P1
+attribute: 0x000000
+---
+Your {{0:2 arg="0x5000"}}Developer's License{{0:2 arg="0x6400"}}
+
+---
+label: T_P2
+attribute: 0x000000
+---
+Their {{0:2 arg="0x5000"}}Developer's License{{0:2 arg="0x6400"}}
+
+---
+label: L_P1-T_Copyright
+attribute: 0x000000
+---
+Dev Core
+
+---
+label: HandshakeScore_Other
+attribute: 0x000000
+---
+{{101:0 arg="0x0009000100CD"}}
+
+---
+label: MoralScore_Other
+attribute: 0x000000
+---
+{{101:0 arg="0x0007000100CD"}}
+
+---
+label: StructureLevel_Other
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}{{101:0 arg="0x0005000100CD"}}
+
+---
+label: L_P1-L_Structure-T_ScoreNowTitle
+attribute: 0x000000
+---
+Dev Points
+
+---
+label: StructureScoreCurrent_Other
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: L_P1-L_Structure-T_ScoreTotalTitle
+attribute: 0x000000
+---
+Total
+
+---
+label: StructureScoreTotal_Other
+attribute: 0x000000
+---
+{{101:0 arg="0x0009000100CD"}}
+
+---
+label: L_P1-L_Structure-T_UnlockPt
+attribute: 0x000000
+---
+Dev Shop Keys
+
+---
+label: CultureLevel_Other
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}{{101:0 arg="0x0005000100CD"}}
+
+---
+label: L_P1-L_Culture-T_ScoreNowTitle
+attribute: 0x000000
+---
+Connex Points
+
+---
+label: CultureScoreCurrent_Other
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: L_P1-L_Culture-T_ScoreTotalTitle
+attribute: 0x000000
+---
+Total
+
+---
+label: CultureScoreTotal_Other
+attribute: 0x000000
+---
+{{101:0 arg="0x0009000100CD"}}
+
+---
+label: L_P1-L_Culture-T_UnlockPt
+attribute: 0x000000
+---
+Connex Shop Keys
+
+---
+label: Address_Other
+attribute: 0x000000
+---
+[{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}]
+
+---
+label: L_P1-L_Energy00-L_EnergyScore-T_Slash
+attribute: 0x000000
+---
+/

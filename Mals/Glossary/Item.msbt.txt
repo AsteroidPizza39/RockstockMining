@@ -1,0 +1,209 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 17
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: PickaxeLv1
+attribute: 0x000000
+---
+Pickaxe (Lv. 1)
+
+---
+label: PickaxeLv2
+attribute: 0x000000
+---
+Pickaxe (Lv. 2)
+
+---
+label: PickaxeLv3
+attribute: 0x000000
+---
+Pickaxe (Lv. 3)
+
+---
+label: PickaxeLv4
+attribute: 0x000000
+---
+Pickaxe (Lv. 4)
+
+---
+label: PickaxeLv5
+attribute: 0x000000
+---
+Pickaxe (Lv. 5)
+
+---
+label: SwordLv1
+attribute: 0x000000
+---
+Sword (Lv. 1)
+
+---
+label: SwordLv2
+attribute: 0x000000
+---
+Sword (Lv. 2)
+
+---
+label: SwordLv3
+attribute: 0x000000
+---
+Sword (Lv. 3)
+
+---
+label: SwordLv4
+attribute: 0x000000
+---
+Sword (Lv. 4)
+
+---
+label: SwordLv5
+attribute: 0x000000
+---
+Sword (Lv. 5)
+
+---
+label: ArrowLv1
+attribute: 0x000000
+---
+Arrow
+
+---
+label: ArrowChargeLv10_Name
+attribute: 0x000000
+---
+Charged Arrow
+
+---
+label: ArrowElec_Name
+attribute: 0x000000
+---
+Lightning Arrow
+
+---
+label: ArrowExplode_Name
+attribute: 0x000000
+---
+Explosive Arrow
+
+---
+label: ArrowRadialLv3
+attribute: 0x000000
+---
+Scatter Arrow
+
+---
+label: ArrowSerialLv3
+attribute: 0x000000
+---
+Repeating Arrow
+
+---
+label: ArrowAroundLv10
+attribute: 0x000000
+---
+あちこち矢
+
+---
+label: ArrowChaseLv1
+attribute: 0x000000
+---
+Homing Arrow
+
+---
+label: ArrowReflectLv1
+attribute: 0x000000
+---
+Bouncing Arrow
+
+---
+label: HammerLv1
+attribute: 0x000000
+---
+Hammer
+
+---
+label: HoeLv1
+attribute: 0x000000
+---
+Garden Hoe
+
+---
+label: Pl_Rise
+attribute: 0x000000
+---
+Rocket Boots
+
+---
+label: Pl_Dash
+attribute: 0x000000
+---
+Dashing Boots
+
+---
+label: Pl_Jump Lv.1
+attribute: 0x000000
+---
+Jumping Boots
+
+---
+label: RadioPlanet
+attribute: 0x000000
+---
+Developer's Radio
+
+---
+label: Pl_Light
+attribute: 0x000000
+---
+Lantern
+
+---
+label: Pl_Piece
+attribute: 0x000000
+---
+Piece Shape-shift
+
+---
+label: Shield
+attribute: 0x000000
+---
+Barrier
+
+---
+label: Storage
+attribute: 0x000000
+---
+Card-Storing Piece
+
+---
+label: Capsule
+attribute: 0x000000
+---
+Piece-Storing Card
+
+---
+label: Locker
+attribute: 0x000000
+---
+アンカー
+
+---
+label: Tool_Conveyor
+attribute: 0x000000
+---
+[Prototype] Conveyor
+
+---
+label: Tool_TrashCan
+attribute: 0x000000
+---
+[Prototype] Trash Can

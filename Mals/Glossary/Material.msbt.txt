@@ -1,0 +1,179 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 17
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Material_Wood
+attribute: 0x000000
+---
+Wood
+
+---
+label: Material_Charcoal
+attribute: 0x000000
+---
+Charcoal
+
+---
+label: Material_Stone
+attribute: 0x000000
+---
+Stone
+
+---
+label: Material_Copper
+attribute: 0x000000
+---
+Copper
+
+---
+label: Material_Iron
+attribute: 0x000000
+---
+Iron
+
+---
+label: Material_Silver
+attribute: 0x000000
+---
+Silver
+
+---
+label: Material_Gold
+attribute: 0x000000
+---
+Gold
+
+---
+label: Material_Glass
+attribute: 0x000000
+---
+Glass
+
+---
+label: Material_Gunpowder
+attribute: 0x000000
+---
+Gunpowder
+
+---
+label: Material_Diamond
+attribute: 0x000000
+---
+Diamond
+
+---
+label: Material_Ruby
+attribute: 0x000000
+---
+Ruby
+
+---
+label: Material_Emerald
+attribute: 0x000000
+---
+Emerald
+
+---
+label: Material_Sapphire
+attribute: 0x000000
+---
+Sapphire
+
+---
+label: Material_MobEye
+attribute: 0x000000
+---
+Eyeball
+
+---
+label: Material_MobShell
+attribute: 0x000000
+---
+Shell
+
+---
+label: Material_MobWing
+attribute: 0x000000
+---
+Wing
+
+---
+label: Material_MobFang
+attribute: 0x000000
+---
+Fang
+
+---
+label: Material_MobHorn
+attribute: 0x000000
+---
+Horn
+
+---
+label: Material_Scale
+attribute: 0x000000
+---
+Scale
+
+---
+label: Material_Rubber
+attribute: 0x000000
+---
+Rubber
+
+---
+label: Material_Soul
+attribute: 0x000000
+---
+Soul
+
+---
+label: Material_Oil
+attribute: 0x000000
+---
+Oil
+
+---
+label: Material_Float
+attribute: 0x000000
+---
+Float Stone
+
+---
+label: Material_Light
+attribute: 0x000000
+---
+Shine Stone
+
+---
+label: Material_Health
+attribute: 0x000000
+---
+Life Stone
+
+---
+label: Material_Leather
+attribute: 0x000000
+---
+Hide
+
+---
+label: Material_Bone
+attribute: 0x000000
+---
+Bone
+
+---
+label: Material_Frontier
+attribute: 0x000000
+---
+Developer's Certificate

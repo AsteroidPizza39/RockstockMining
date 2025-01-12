@@ -1,0 +1,143 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 13
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Dev_01_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Dev_02_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Dev_03_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Dev_04_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Dev_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Dev_Private_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Inst_Center_Name
+attribute: 0x000000
+---
+Dev Core
+
+---
+label: Inst_DecoWorkshop_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Inst_PvE_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Inst_PvP_01_Name
+attribute: 0x000000
+---
+Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: Inst_PvP_02_Name
+attribute: 0x000000
+---
+Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: Inst_PvP_03_Name
+attribute: 0x000000
+---
+Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: Inst_PvP_04_Name
+attribute: 0x000000
+---
+Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: Inst_PvP_Name
+attribute: 0x000000
+---
+Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: Inst_TutorialMult_Name
+attribute: 0x000000
+---
+Developer Training Area
+
+---
+label: Inst_TutorialSolo_Name
+attribute: 0x000000
+---
+Basic Training Area
+
+---
+label: Inst_UgcLicenceExam_Name
+attribute: 0x000000
+---
+UGC License Test Site
+
+---
+label: Uniq_DataTrade_Name
+attribute: 0x000000
+---
+ー
+
+---
+label: Uniq_Planet_Name
+attribute: 0x000000
+---
+Planetary Block [{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}]
+
+---
+label: Uniq_Satellite_Name
+attribute: 0x000000
+---
+Moon
+
+---
+label: Uniq_Stage_Name
+attribute: 0x000000
+---
+Gateway of Darkness
+
+---
+label: Uniq_TutorialHandsOn_Name
+attribute: 0x000000
+---
+ー

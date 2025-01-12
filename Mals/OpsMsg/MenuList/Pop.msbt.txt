@@ -1,0 +1,47 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 5
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: FirstDeco
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} Do you have a license?{{0:3 arg="0xFFFF"}}
+
+---
+label: LockCulture
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} Lock{{0:3 arg="0xFFFF"}}
+
+---
+label: LockStructure
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} Lock{{0:3 arg="0xFFFF"}}
+
+---
+label: New
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} New{{0:3 arg="0xFFFF"}}
+
+---
+label: Recommend
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} Recommended{{0:3 arg="0xFFFF"}}
+
+---
+label: Sale
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} EVENT{{0:3 arg="0xFFFF"}}

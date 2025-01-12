@@ -1,0 +1,54 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 5
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideClose-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideClose-T_KeyText
+attribute: 0x000000
+---
+Cancel
+
+---
+label: L_KeyGuideInput-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: ButtonAccept_Input
+attribute: 0x000000
+---
+Enter
+
+---
+label: ButtonAccept_Publish
+attribute: 0x000000
+---
+Make Public
+
+---
+label: Placeholder_UgcText
+attribute: 0x000000
+---
+Please enter text.
+(Max {{101:0 arg="0x0002000100CD"}} characters × {{101:0 arg="0x0001010100CD"}} lines)
+
+---
+label: Placeholder_SectionName
+attribute: 0x000000
+---
+Name this  block ({{101:0 arg="0x0002000100CD"}} characters)

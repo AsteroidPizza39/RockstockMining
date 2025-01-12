@@ -1,0 +1,41 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 3
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_KeyGuideStart-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideStart-T_KeyText
+attribute: 0x000000
+---
+Start
+
+---
+label: T_Copyright
+attribute: 0x000000
+---
+© Nintendo
+
+---
+label: T_Version
+attribute: 0x000000
+---
+Ver.
+
+---
+label: T_Title
+attribute: 0x000000
+---
+Playtest Program

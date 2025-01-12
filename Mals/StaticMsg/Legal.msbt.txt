@@ -1,0 +1,515 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 37
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Sys_FirstStart_OptIn_Version
+attribute: 0x000000
+---
+1.0.0
+
+---
+label: Sys_FirstStart_OptIn_Title_Origin
+attribute: 0x000000
+---
+Precautions When First Connecting Online
+
+---
+label: Sys_FirstStart_OptIn_Content_Origin
+attribute: 0x000000
+---
+To ensure a pleasant gaming experience for everyone, please
+refrain from sharing content that includes the following:
+Illegal content, personal information, content that violates
+the rights of others, content that could be unpleasant
+to others, and content such as excessive flashing images.
+Furthermore, please refrain from actions that may be unpleasant
+to others and from cheating. The Nintendo Account User
+Agreement applies to shared content and actions you take in the
+game. If any content or behavior is discovered that violates the
+Nintendo Account User Agreement, server data may be
+deleted, and your connection to online play may be restricted.
+
+When you play, please be considerate to other players and
+follow the Nintendo Account User Agreement. Inappropriate
+content or behavior can be reported by pressing .
+
+When playing online, other players that are playing with you
+will be able to see your name, profile information, play status,
+content that you created, and your gameplay.
+Please be mindful of your interactions and help us maintain a
+pleasant playing environment.
+
+---
+label: Sys_FirstStart_OptIn_ButtonAccept_Origin
+attribute: 0x000000
+---
+Understood
+
+---
+label: Sys_FirstStart_OptIn_ButtonCancel_Origin
+attribute: 0x000000
+---
+Back
+
+---
+label: Sys_FirstStart_OptIn_Error_Content_Origin
+attribute: 0x000000
+---
+You cannot play because you did not agree to the
+precautions when first connecting online.
+
+---
+label: Sys_FirstStart_OptIn_Error_ButtonAccept_Origin
+attribute: 0x000000
+---
+OK
+
+---
+label: Report_Check_Title_Origin
+attribute: 0x000000
+---
+ Report
+
+---
+label: Report_Check_Content_Origin
+attribute: 0x000000
+---
+Please confirm that the content of your report is accurate
+when you make a report.
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}You may be the subject of penalties if you repeatedly make false reports.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Report_Check_ButtonAccept_Origin
+attribute: 0x000000
+---
+ Report
+
+---
+label: Report_Check_ButtonCancel_Origin
+attribute: 0x000000
+---
+Cancel
+
+---
+label: Personal_Origin
+attribute: 0x000000
+---
+Disclosure of Personal Information
+
+---
+label: Criminal_Origin
+attribute: 0x000000
+---
+Violent Content
+
+---
+label: Immoral_Origin
+attribute: 0x000000
+---
+Inappropriate/Harmful
+
+---
+label: Harassment_Origin
+attribute: 0x000000
+---
+Hateful/Bullying
+
+---
+label: Commercial_Origin
+attribute: 0x000000
+---
+Advertising
+
+---
+label: SexuallyExplicit_Origin
+attribute: 0x000000
+---
+Sexually Explicit
+
+---
+label: Other_Origin
+attribute: 0x000000
+---
+Other
+
+---
+label: UgcExam_Answer_01_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Do not do anything that could interfere with other people's{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}enjoyment or cause harm.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_02_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Regardless of the reason, cheating or poor community behavior{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}may lead to punishments such as an account suspension.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_03_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You may not transfer your account to anyone.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_04_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Do not reveal personal information in the game.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_05_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}If you make a false report, you may be penalized.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_06_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Inappropriate content should not be shared.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_07_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Even inside the game, you must not express anything that{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}infringes on the rights of others.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_08_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Any UGC you publish may be used by third parties.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_09_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You must not exchange contact information in-game and make{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}contact on other online services.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_10_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}UGC you publish may be subject to reporting by other users.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_01_Detail_Origin
+attribute: 0x000000
+---
+Statement 1/10
+{{0:2 arg="0x5000"}}It is OK to harass others if they have harassed me first.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_02_Detail_Origin
+attribute: 0x000000
+---
+Statement 2/10
+{{0:2 arg="0x5000"}}If I see another user cheating or misbehaving, I can do the same{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}thing and my Nintendo Account will not be suspended.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_03_Detail_Origin
+attribute: 0x000000
+---
+Statement 3/10
+{{0:2 arg="0x5000"}}If both parties agree, I can transfer my account.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_04_Detail_Origin
+attribute: 0x000000
+---
+Statement 4/10
+{{0:2 arg="0x5000"}}I can disclose personal information, such as my phone number{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}or my username/ID for social media, in the game.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_05_Detail_Origin
+attribute: 0x000000
+---
+Statement 5/10
+{{0:2 arg="0x5000"}}If I make a false report, I as the reporter will be penalized.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_06_Detail_Origin
+attribute: 0x000000
+---
+Statement 6/10
+{{0:2 arg="0x5000"}}I can freely share any and all UGC with others.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_07_Detail_Origin
+attribute: 0x000000
+---
+Statement 7/10
+{{0:2 arg="0x5000"}}As long as it is inside the game, I can freely express content{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}even if it infringes on the rights of others.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_08_Detail_Origin
+attribute: 0x000000
+---
+Statement 8/10
+{{0:2 arg="0x5000"}}Any UGC I publish could be used by third parties.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_09_Detail_Origin
+attribute: 0x000000
+---
+Statement 9/10
+{{0:2 arg="0x5000"}}Someone I met in-game invited me to get in touch via another{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}online service. I should exchange contact information.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_10_Detail_Origin
+attribute: 0x000000
+---
+Statement 10/10
+{{0:2 arg="0x5000"}}Any UGC I publish may be subject to reporting by other users.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_11_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Trading in real money, or selling, trading, or transferring{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Nintendo Accounts for real money is prohibited.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_12_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Even if someone else asked you to do it, if you break the rules,{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}you may be subject to penalties such as suspension of your{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Nintendo Account.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_13_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Do not use content that others have rights to in your creations.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_14_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Do not use images of other people without their permission.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_15_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}If you engage in inappropriate behavior or create inappropriate{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}content, you may be subject to punishments such as{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}account suspension.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_16_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Other users will not know about your report.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_17_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}If you do not comply with the Nintendo Account User{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Agreement, you may be subject to punishments{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}such as account suspension.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_18_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Nintendo is able to remove UGC that violates the Nintendo{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Account User Agreement, without notice to the creator.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_19_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You may not receive advance notice before your Nintendo{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Account is suspended.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_20_Detail_Origin
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}It may be nice to give an in-game item in return, but all gifting{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}should remain within the game. And you should not agree to{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}connect with other users outside of the game.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_11_Detail_Origin
+attribute: 0x000000
+---
+Statement 11/20 
+{{0:2 arg="0x5000"}}I can buy and sell in-game items for real money.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_12_Detail_Origin
+attribute: 0x000000
+---
+Statement 12/20
+{{0:2 arg="0x5000"}}Actions that I take at the request of others are not{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}my responsibility.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_13_Detail_Origin
+attribute: 0x000000
+---
+Statement 13/20
+{{0:2 arg="0x5000"}}I can copy other people’s characters or art, and use real-world{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}brands in my creations.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_14_Detail_Origin
+attribute: 0x000000
+---
+Statement 14/20
+{{0:2 arg="0x5000"}}I can freely use images of real people in the game.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_15_Detail_Origin
+attribute: 0x000000
+---
+Statement 15/20
+{{0:2 arg="0x5000"}}I will not be penalized for doing things in-game that{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}offend other people.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_16_Detail_Origin
+attribute: 0x000000
+---
+Statement 16/20
+{{0:2 arg="0x5000"}}If I report inappropriate content, the content creator will find out{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}that I made the report.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_17_Detail_Origin
+attribute: 0x000000
+---
+Statement 17/20
+{{0:2 arg="0x5000"}}There is no real liability for not following the{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Nintendo Account User Agreement.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_18_Detail_Origin
+attribute: 0x000000
+---
+Statement 18/20
+{{0:2 arg="0x5000"}}Nintendo can remove UGC that violates the Nintendo Account{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}User Agreement without notice to the creator of the UGC.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_19_Detail_Origin
+attribute: 0x000000
+---
+Statement 19/20
+{{0:2 arg="0x5000"}}Nintendo will always notify me before suspending my{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Nintendo Account.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_20_Detail_Origin
+attribute: 0x000000
+---
+Statement 20/20
+{{0:2 arg="0x5000"}}I received an item from another user in the game and promised{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}to give something in return outside the game.{{0:2 arg="0x6400"}}
+
+---
+label: Guideline_01_Title_Origin
+attribute: 0x000000
+---
+Community Guidelines
+
+---
+label: Guideline_01_Content_Origin
+attribute: 0x000000
+---
+Introduction
+Hello,
+Here are some Community Guidelines that we would like you to
+follow to help us offer a great service. This is important
+information that will make this service pleasant for many people.
+Please read through this information. Thank you.
+
+1. Treat Others with Respect
+Let's treat others with respect just like you would like to be
+treated. Do not disrespect, deceive, harass, threaten,
+discriminate, or bully others. Refrain from actions that interfere
+with others' enjoyment or do anything that could harm someone.
+
+2. Play by the Rules
+Abide by the Terms and Conditions for this service,
+Community Guidelines, and Nintendo Account User Agreement.
+If you do not follow these rules, your Nintendo Account may be
+subject to penalties such as suspension.
+
+3. Your Account is Yours Alone
+Keep your account to yourself.
+Remember, your personal information belongs to you alone.
+Do not buy, sell, or transfer your User Account to anyone else.
+
+4. Think Carefully Before Sharing
+Be thoughtful about what you share so everyone can enjoy your
+content. You should not share personal information, obscene,
+illegal or inappropriate material, material protected by other
+people's copyright or trademark rights, or material related to
+commercial activities such as advertising or promotion.
+
+5. Report Any Issues You Notice
+If you notice any activity or content that violates these
+guidelines, please let us know. If you come across inappropriate
+behavior or content, you can report it by pressing .
+Reported users may be subject to punishment, such as
+suspension of their Nintendo Account, in accordance with the
+Terms and Conditions for this service, Community Guidelines,
+and the Nintendo Account User Agreement.
+Your reporting will not be known to others, but please take care
+when reporting, as making false reports may also be considered
+a breach of these Community Guidelines.
+
+---
+label: Guideline_01_ButtonAccept_Origin
+attribute: 0x000000
+---
+Close
+
+---
+label: Legal_Shop_Law_Content
+attribute: 0x000000
+---
+特定商取引法に基づく表記
+本文

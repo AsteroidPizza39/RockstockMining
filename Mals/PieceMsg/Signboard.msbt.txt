@@ -1,0 +1,1619 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: BoxCargoLv1_Beginner_Detail
+attribute: 0x000000
+---
+Contains a Control Guide card.
+
+---
+label: BoxCargoLv2_Bud_01_Detail
+attribute: 0x000000
+---
+Contains a Sprout which
+changes to a Tree in Water.
+
+---
+label: BoxCargoLv2_Bud_02_Detail
+attribute: 0x000000
+---
+Contains a Sprout which
+changes to a Tree in Water.
+
+---
+label: BoxCargoLv2_Bud_03_Detail
+attribute: 0x000000
+---
+Contains a Sprout which
+changes to a Tree in Water.
+
+---
+label: BoxCargoLv3_Water_Detail
+attribute: 0x000000
+---
+Contains Water.
+Watch out—it spreads!
+
+---
+label: CloudHeight_Detail
+attribute: 0x000000
+---
+Over Altitude
+{{0:3 arg="0x0200"}}{{101:12 arg="0x00010001"}}m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 100m{{0:2 arg="0x6400"}}
+
+---
+label: CmnLock_Detail
+attribute: 0x000000
+---
+{{101:13}}
+
+---
+label: Ctr_Lock_Detail
+attribute: 0x000000
+---
+・Exhibition fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 100
+・Exhibition duration: 3 hours
+
+---
+label: Ctr_Mech_CraneLv1_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 0m{{0:2 arg="0x6400"}}
+
+---
+label: Ctr_Mech_CraneLv2_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 80m{{0:2 arg="0x6400"}}
+
+---
+label: Ctr_Mech_CraneLv3_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 160m{{0:2 arg="0x6400"}}
+
+---
+label: Ctr_Mech_CraneLv4_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 320m{{0:2 arg="0x6400"}}
+
+---
+label: Ctr_PvP_ParticipantCount_01_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x160049006E00730074005F005000760050005F0030003100"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: Ctr_PvP_ParticipantCount_02_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x160049006E00730074005F005000760050005F0030003200"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: Ctr_PvP_ParticipantCount_03_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x160049006E00730074005F005000760050005F0030003300"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: Ctr_PvP_ParticipantCount_04_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x160049006E00730074005F005000760050005F0030003400"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: Ctr_PvP_ParticipantCount_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x100049006E00730074005F00500076005000"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: Ctr_RuleScoreClear_Detail
+attribute: 0x000000
+---
+Remaining until clear: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+
+---
+label: Ctr_RuleScoreClear_Result_Detail
+attribute: 0x000000
+---
+Receive {{0:3 arg="0x0000"}}50{{0:3 arg="0xFFFF"}}!
+
+---
+label: Ctr_RuleScoreTime_Detail
+attribute: 0x000000
+---
+: {{101:2 arg="0x0005010002CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003100"}}
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+
+---
+label: Ctr_RuleScore_Detail
+attribute: 0x000000
+---
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+
+---
+label: Ctr_RuleScore_Result_01_Detail
+attribute: 0x000000
+---
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+
+---
+label: Ctr_RuleScore_Result_02_Detail
+attribute: 0x000000
+---
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+Receive {{0:3 arg="0x0000"}}20{{0:3 arg="0xFFFF"}}!
+
+---
+label: Ctr_RuleScore_Result_03_Detail
+attribute: 0x000000
+---
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+Receive {{0:3 arg="0x0000"}}30{{0:3 arg="0xFFFF"}}!
+
+---
+label: Ctr_RuleScore_Result_04_Detail
+attribute: 0x000000
+---
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+Receive {{0:3 arg="0x0000"}}50{{0:3 arg="0xFFFF"}}!
+
+---
+label: Ctr_RuleScore_Result_05_Detail
+attribute: 0x000000
+---
+Score: {{101:2 arg="0x0005010002CD20005300650071005F00530065006300740069006F006E00530063006F0072006500"}}
+Receive {{0:3 arg="0x0000"}}100{{0:3 arg="0xFFFF"}}!
+
+---
+label: Ctr_TutorialMult_ParticipantCount_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x220049006E00730074005F005400750074006F007200690061006C004D0075006C007400"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: Ctr_UgcExam_ParticipantCount_Detail
+attribute: 0x000000
+---
+Participants: {{101:14 arg="0x260049006E00730074005F005500670063004C006900630065006E00630065004500780061006D00"}} Player{{201:6 arg="0x0000020073000000"}}
+
+---
+label: CurseL_Check_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}100m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: CurseL_MobBoss_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: CurseM_Check_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}50m{{0:3 arg="0xFFFF"}}.
+・3. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: CurseS_Check_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Can be unlocked with a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Beacon must be at an altitude of {{0:3 arg="0x0100"}}10m{{0:3 arg="0xFFFF"}}.
+・3. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: CurseS_Mob_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: CurseS_Mob_Memoried_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Defeat the {{0:3 arg="0x0100"}}Oot{{0:3 arg="0xFFFF"}} inside to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: FossilLv1_01_Detail
+attribute: 0x000000
+---
+Insufficient Altitude{{0:2 arg="0x5000"}}{{0:2 arg="0x6400"}}
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m {{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}}/ 50m{{0:2 arg="0x6400"}}
+
+---
+label: FossilLv1_02_Detail
+attribute: 0x000000
+---
+Insufficient Beacon Light
+
+---
+label: FossilLv2_01_Detail
+attribute: 0x000000
+---
+Insufficient Altitude{{0:2 arg="0x5000"}}{{0:2 arg="0x6400"}}
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m {{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}}/ 100m{{0:2 arg="0x6400"}}
+
+---
+label: FossilLv2_02_Detail
+attribute: 0x000000
+---
+Insufficient Beacon Light
+
+---
+label: FossilLv3_01_Detail
+attribute: 0x000000
+---
+Insufficient Altitude{{0:2 arg="0x5000"}}{{0:2 arg="0x6400"}}
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}}m {{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}}/ 150m{{0:2 arg="0x6400"}}
+
+---
+label: FossilLv3_02_Detail
+attribute: 0x000000
+---
+Insufficient Beacon Light
+
+---
+label: FriendlyEggNeutral_Detail
+attribute: 0x000000
+---
+{{101:5 arg="0x00000000"}}
+
+---
+label: FriendlyEgg_Detail
+attribute: 0x000000
+---
+{{101:5 arg="0x00000000"}}: {{101:6 arg="0x00000000"}}
+
+---
+label: LicenceUpdateClt_01_Detail
+attribute: 0x000000
+---
+Your {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Lv. increased to {{0:3 arg="0x0600"}}{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003200"}}{{0:3 arg="0xFFFF"}}!
+{{0:2 arg="0x5000"}}Have a look at the Connex Shop.{{0:2 arg="0x6400"}}
+
+---
+label: LicenceUpdateClt_02_Detail
+attribute: 0x000000
+---
+You don't have enough {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points...
+・Current: {{0:3 arg="0x0100"}}{{101:2 arg="0x0001010001CD38005300650071005F004C006900630065006E006300650055007000640061007400650043006C0074005F00430075007200720065006E007400"}}{{0:3 arg="0xFFFF"}}
+・Required: {{0:3 arg="0x0000"}}{{101:2 arg="0x0001010001CD36005300650071005F004C006900630065006E006300650055007000640061007400650043006C0074005F00540061007200670065007400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: LicenceUpdateClt_Detail
+attribute: 0x000000
+---
+Raise your Connection Lv. with
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points.
+
+---
+label: LicenceUpdateStr_01_Detail
+attribute: 0x000000
+---
+Your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Lv. increased to {{0:3 arg="0x0500"}}{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003100"}}{{0:3 arg="0xFFFF"}}!
+{{0:2 arg="0x5000"}}Have a look at the {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Dev Shop.{{0:2 arg="0x6400"}}
+
+---
+label: LicenceUpdateStr_02_Detail
+attribute: 0x000000
+---
+You don't have enough {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points... 
+・Current: {{0:3 arg="0x0100"}}{{101:2 arg="0x0001010001CD38005300650071005F004C006900630065006E00630065005500700064006100740065005300740072005F00430075007200720065006E007400"}}{{0:3 arg="0xFFFF"}}
+・Required: {{0:3 arg="0x0000"}}{{101:2 arg="0x0001010001CD36005300650071005F004C006900630065006E00630065005500700064006100740065005300740072005F00540061007200670065007400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: LicenceUpdateStr_Detail
+attribute: 0x000000
+---
+Raise your Development Lv. with
+{{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points.
+
+---
+label: LicenceUpdateUgc_01_Detail
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}Your test success is noted on your license.{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Now, if you get a UGC License, you can {{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}make Deco and text public to the world.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Head over to the {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connex Shop!{{0:2 arg="0x6400"}}
+
+---
+label: LicenceUpdateUgc_02_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}It seems that you have not passed.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Please try again at the next opportunity.{{0:2 arg="0x6400"}}
+
+---
+label: LicenceUpdateUgc_03_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}You may exit using the teleporter ahead of you.{{0:2 arg="0x6400"}}
+
+---
+label: LicenceUpdateUgc_Detail
+attribute: 0x000000
+---
+Perform a {{0:3 arg="0x0000"}}Certification of Passing{{0:3 arg="0xFFFF"}}.
+
+---
+label: List_GatePlanetToStage_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: List_GatePlanetToStage_Lock_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・1. Unlocked by a {{0:3 arg="0x0000"}}Beacon{{0:3 arg="0xFFFF"}}'s light.
+・2. Clear the {{0:3 arg="0x0100"}}Gateway of Darkness{{0:3 arg="0xFFFF"}} to purify the area.{{0:2 arg="0x6400"}}
+
+---
+label: List_GatePlanet_Detail
+attribute: 0x000000
+---
+ [{{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005800"}}, {{101:2 arg="0x0104010001CD2000530065006300740069006F006E004C006F0063006100740069006F006E005A00"}}]
+→ Dev Core
+→ Resource Moons
+
+---
+label: List_GateToCenter_Detail
+attribute: 0x000000
+---
+→ Dev Core
+
+---
+label: List_GateToPvE_Detail
+attribute: 0x000000
+---
+→ PvE
+
+---
+label: List_GateToPvP_01_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: List_GateToPvP_02_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Area
+
+---
+label: List_GateToPvP_03_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Area
+
+---
+label: List_GateToPvP_04_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Area
+
+---
+label: List_GateToPvP_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+
+---
+label: List_GateToPvP_Lock_01_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+・Entrance fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 1,000
+
+---
+label: List_GateToPvP_Lock_02_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+・Entrance fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 1,000
+
+---
+label: List_GateToPvP_Lock_03_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+・Entrance fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 1,000
+
+---
+label: List_GateToPvP_Lock_04_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+・Entrance fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 1,000
+
+---
+label: List_GateToPvP_Lock_Detail
+attribute: 0x000000
+---
+→ Developer {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Area
+・Entrance fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 1,000
+
+---
+label: List_GateToTutorialMult_Detail
+attribute: 0x000000
+---
+→ Developer Training Area
+
+---
+label: List_GateToTutorialSolo_Detail
+attribute: 0x000000
+---
+→ Basic Training Area
+
+---
+label: List_GateToUgcExam_Detail
+attribute: 0x000000
+---
+→  UGC License Test Room
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}Tests begin at the following times (PT):{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+{{0:3 arg="0x0000"}}{{0:2 arg="0x5000"}} 11:15 AM   2:15 PM   5:15 PM   8:15 PM{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}} 11:15 PM   2:15 AM   5:15 AM   8:15 AM{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: List_ShopGm_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}・This will be placed in a room exclusively for GMs.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}・GM cards cannot be used by those who are not GMs.{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}・Please use this for debug during development.{{0:2 arg="0x6400"}}
+
+---
+label: MagmaHeight_Detail
+attribute: 0x000000
+---
+Over Altitude
+{{0:3 arg="0x0200"}}{{101:12 arg="0x00010001"}}m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 100m{{0:2 arg="0x6400"}}
+
+---
+label: Mech_CraneLv1_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}} m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 0 m{{0:2 arg="0x6400"}}
+
+---
+label: Mech_CraneLv2_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}} m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 80 m{{0:2 arg="0x6400"}}
+
+---
+label: Mech_CraneLv3_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}} m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 160 m{{0:2 arg="0x6400"}}
+
+---
+label: Mech_CraneLv4_Off_Detail
+attribute: 0x000000
+---
+Insufficient altitude.
+{{0:3 arg="0x0100"}}{{101:12 arg="0x00010001"}} m{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}} / 320 m{{0:2 arg="0x6400"}}
+
+---
+label: PvP_SignTeamNum_Detail
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} Team{{0:3 arg="0xFFFF"}} [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003100"}} Player{{201:6 arg="0x0000020073000000"}}]  [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003200"}} Player{{201:6 arg="0x0000020073000000"}}] {{0:3 arg="0x0900"}}Team {{0:3 arg="0xFFFF"}}
+
+---
+label: Replace_Antenna_Detail
+attribute: 0x000000
+---
+This Beacon has been deleted.
+
+---
+label: Replace_Antenna_NoPocket_Detail
+attribute: 0x000000
+---
+This Beacon has been deleted.
+
+---
+label: SectCaption_Detail
+attribute: 0x000000
+---
+ Total Sent {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connex Points
+┗ {{101:2 arg="0x0001010001CD2A00430075006C007400750072006500530063006F0072006500530065006E00640054006F00740061006C00"}}
+ Total Received {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connex Points
+┗ {{101:2 arg="0x0001010001CD2A00430075006C007400750072006500530063006F0072006500520065006300760054006F00740061006C00"}}
+
+---
+label: SeedGrow_01_Detail
+attribute: 0x000000
+---
+Lacking Beacon light
+
+---
+label: SeedGrow_02_Detail
+attribute: 0x000000
+---
+{{101:13}}
+
+---
+label: SeedGrow_04_Detail
+attribute: 0x000000
+---
+{{101:13}}
+
+---
+label: SeedGrow_05_Detail
+attribute: 0x000000
+---
+Lacking Beacon light
+
+---
+label: SeedWater_Detail
+attribute: 0x000000
+---
+Try planting this in soil...
+
+---
+label: Stg_LockOnStartSwitched_Detail
+attribute: 0x000000
+---
+Find the  Light Key and place it on top of
+the Lock of Darkness to open it.
+
+---
+label: Stg_LockOnStart_Detail
+attribute: 0x000000
+---
+Find the  Light Key and place it on top of
+the Lock of Darkness to open it.
+
+---
+label: Stg_LockOn_Detail
+attribute: 0x000000
+---
+Find the  Light Key and place it on top of
+the Lock of Darkness to open it.
+
+---
+label: Tut_CheckCorrect_01_Detail
+attribute: 0x000000
+---
+OK!
+
+---
+label: Tut_CheckCorrect_02_Detail
+attribute: 0x000000
+---
+OK!
+
+---
+label: Tut_CheckPut_01_Detail
+attribute: 0x000000
+---
+Put here.
+(One more left)
+
+---
+label: Tut_CheckPut_02_Detail
+attribute: 0x000000
+---
+Put here.
+(Two more left)
+
+---
+label: Tut_CheckPut_03_Detail
+attribute: 0x000000
+---
+Put here.
+(Three more left)
+
+---
+label: Tut_CheckWait_Detail
+attribute: 0x000000
+---
+Put here.
+
+---
+label: TutorialMult_Sign_01_Detail
+attribute: 0x000000
+---
+Pull {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Pieces to you from afar
+{{0:2 arg="0x5000"}}Aim + Grab → Pull{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_02_Detail
+attribute: 0x000000
+---
+Jump with {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Pieces
+{{0:2 arg="0x5000"}}Jump → Hold to go higher{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_03_Detail
+attribute: 0x000000
+---
+Fuse {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Pieces to create helpful shapes
+{{0:2 arg="0x5000"}}Fuse{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_04_Detail
+attribute: 0x000000
+---
+Build a place to stand to move the {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Pieces
+{{0:2 arg="0x5000"}}Fuse{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_05_Detail
+attribute: 0x000000
+---
+Use your emote to soar through the sky
+{{0:2 arg="0x5000"}}Emote → Grab{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_06_Detail
+attribute: 0x000000
+---
+Grab multiple {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Pieces at once
+{{0:2 arg="0x5000"}}Grab the ground by holding down {{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}Use  to circle around the {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}Pieces and pull them{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_07_Detail
+attribute: 0x000000
+---
+Use your tail to swing around the map
+{{0:2 arg="0x5000"}}Jump → Grab{{0:2 arg="0x6400"}}
+
+---
+label: TutorialMult_Sign_08_Detail
+attribute: 0x000000
+---
+Throw {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Pieces you're holding
+{{0:2 arg="0x5000"}}Aim + Throw{{0:2 arg="0x6400"}}
+
+---
+label: TutorialSolo_Cut_Detail
+attribute: 0x000000
+---
+Pull with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to pick up
+
+---
+label: TutorialSolo_Flag_Cut_Detail
+attribute: 0x000000
+---
+Pull with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} to pick up
+
+---
+label: TutorialSolo_Flag_Detail
+attribute: 0x000000
+---
+Grab with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: TutorialSolo_Grab_Detail
+attribute: 0x000000
+---
+Grab with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: TutorialSolo_LockOn_Detail
+attribute: 0x000000
+---
+Put down here with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: TutorialSolo_PasteOff_Detail
+attribute: 0x000000
+---
+Put down here with {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: UgcExam_Answer_01_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Do not do anything that could interfere with other people's{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}enjoyment or cause harm.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_02_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Regardless of the reason, cheating or poor community behavior{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}may lead to punishments such as an account suspension.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_03_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You may not transfer your account to anyone.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_04_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Do not reveal personal information in the game.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_05_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}If you make a false report, you may be penalized.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_06_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Inappropriate content should not be shared.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_07_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Even inside the game, you must not express anything that{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}infringes on the rights of others.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_08_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Any UGC you publish may be used by third parties.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_09_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You must not exchange contact information in-game and make{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}contact on other online services.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Answer_10_Detail
+attribute: 0x000000
+---
+Reply: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}UGC you publish may be subject to reporting by other users.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_01_Detail
+attribute: 0x000000
+---
+Statement 1/10
+{{0:2 arg="0x5000"}}It is OK to harass others if they have harassed me first.{{0:2 arg="0x6400"}}
+　　           　　  {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_02_Detail
+attribute: 0x000000
+---
+Statement 2/10
+{{0:2 arg="0x5000"}}If I see another user cheating or misbehaving, I can do the same{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}thing and my Nintendo Account will not be suspended.{{0:2 arg="0x6400"}}
+　　　　　　　　     {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_03_Detail
+attribute: 0x000000
+---
+Statement 3/10
+{{0:2 arg="0x5000"}}If both parties agree, I can transfer my account.{{0:2 arg="0x6400"}}
+　　　　　　 {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_04_Detail
+attribute: 0x000000
+---
+Statement 4/10
+{{0:2 arg="0x5000"}}I can disclose personal information, such as my phone number{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}or my username/ID for social media, in the game.{{0:2 arg="0x6400"}}
+　　　　　　          {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_05_Detail
+attribute: 0x000000
+---
+Statement 5/10
+{{0:2 arg="0x5000"}}If I make a false report, I as the reporter will be penalized.{{0:2 arg="0x6400"}}
+　　　　　　        {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_06_Detail
+attribute: 0x000000
+---
+Statement 6/10
+{{0:2 arg="0x5000"}}I can freely share any and all UGC with others.{{0:2 arg="0x6400"}}
+　　　　       {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_07_Detail
+attribute: 0x000000
+---
+Statement 7/10
+{{0:2 arg="0x5000"}}As long as it is inside the game, I can freely express content{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}even if it infringes on the rights of others.{{0:2 arg="0x6400"}}
+　　　　                {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_08_Detail
+attribute: 0x000000
+---
+Statement 8/10
+{{0:2 arg="0x5000"}}Any UGC I publish could be used by third parties.{{0:2 arg="0x6400"}}
+　　　　　　  {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_09_Detail
+attribute: 0x000000
+---
+Statement 9/10
+{{0:2 arg="0x5000"}}Someone I met in-game invited me to get in touch via another{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}}online service. I should exchange contact information.{{0:2 arg="0x6400"}}
+　　　　　　　　   {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_10_Detail
+attribute: 0x000000
+---
+Statement 10/10
+{{0:2 arg="0x5000"}}Any UGC I publish may be subject to reporting by other users.{{0:2 arg="0x6400"}}
+　　　　　　　　    {{0:2 arg="0x5000"}}：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}}{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}}/ ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_CountDown_Detail
+attribute: 0x000000
+---
+The test will begin soon, so please take a seat.
+{{0:2 arg="0x5000"}}Answer with  Incorrect: {{0:3 arg="0x0100"}} {{0:3 arg="0xFFFF"}}or  Correct: {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}},
+based on what is written in the Nintendo Account
+User Agreement and the Community Guidelines.{{0:2 arg="0x6400"}}
+
+---
+label: UgcExam_Question_Finish_Detail
+attribute: 0x000000
+---
+Those of you who answered all 10 questions
+correctly have passed!
+Advance to the room in the back to receive your
+license. Remember, you will need to register it.
+
+---
+label: UgcExam_Question_Start_Detail
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}The license test is about to begin!{{0:3 arg="0xFFFF"}}
+
+---
+label: UgcExam_Question_Wait_Detail
+attribute: 0x000000
+---
+Please wait until the test time (PT).
+{{0:3 arg="0x0000"}}{{0:2 arg="0x5000"}} 11:15 AM   2:15 PM   5:15 PM   8:15 PM{{0:2 arg="0x6400"}}
+{{0:2 arg="0x5000"}} 11:15 PM   2:15 AM   5:15 AM   8:15 AM{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Ugc_DecoLv1_Preset01_Unpublished_Detail
+attribute: 0x000000
+---
+Top Hat
+
+---
+label: Ugc_DecoLv1_Preset02_Unpublished_Detail
+attribute: 0x000000
+---
+Nose and Beard
+
+---
+label: Ugc_DecoLv1_Preset03_Unpublished_Detail
+attribute: 0x000000
+---
+Eyes
+
+---
+label: Ugc_DecoLv1_Preset04_Unpublished_Detail
+attribute: 0x000000
+---
+Side-Part Hairstyle
+
+---
+label: Ugc_DecoLv1_Preset05_Unpublished_Detail
+attribute: 0x000000
+---
+Topknot Hairstyle
+
+---
+label: Ugc_DecoLv1_Preset06_Unpublished_Detail
+attribute: 0x000000
+---
+Sparkles
+
+---
+label: Ugc_DecoLv1_Preset07_Unpublished_Detail
+attribute: 0x000000
+---
+Island-Head Mask
+
+---
+label: Ugc_DecoLv1_Preset08_Unpublished_Detail
+attribute: 0x000000
+---
+Woohoo
+
+---
+label: Ugc_DecoLv1_Preset09_Unpublished_Detail
+attribute: 0x000000
+---
+Fake Eyelashes
+
+---
+label: Ugc_DecoLv1_Preset10_Unpublished_Detail
+attribute: 0x000000
+---
+Oooops
+
+---
+label: Ugc_DecoLv1_Preset11_Unpublished_Detail
+attribute: 0x000000
+---
+Nose
+
+---
+label: Ugc_DecoLv1_Preset12_Unpublished_Detail
+attribute: 0x000000
+---
+Fanged Red Lips
+
+---
+label: Ugc_DecoLv1_Preset13_Unpublished_Detail
+attribute: 0x000000
+---
+Unibrow
+
+---
+label: Ugc_DecoLv1_Preset14_Unpublished_Detail
+attribute: 0x000000
+---
+Smile
+
+---
+label: Ugc_DecoLv1_Preset15_Unpublished_Detail
+attribute: 0x000000
+---
+Spiky Punk Hair
+
+---
+label: Ugc_DecoLv1_Preset16_Unpublished_Detail
+attribute: 0x000000
+---
+Light Bulb
+
+---
+label: Ugc_DecoLv1_Preset17_Unpublished_Detail
+attribute: 0x000000
+---
+Surprise
+
+---
+label: Ugc_DecoLv1_Preset18_Unpublished_Detail
+attribute: 0x000000
+---
+Beret
+
+---
+label: Ugc_DecoLv1_Preset19_Unpublished_Detail
+attribute: 0x000000
+---
+Scuba Diving Mask
+
+---
+label: Ugc_DecoLv1_Preset20_Unpublished_Detail
+attribute: 0x000000
+---
+Party Hat
+
+---
+label: Ugc_DecoLv1_Preset21_Unpublished_Detail
+attribute: 0x000000
+---
+Glasses
+
+---
+label: Ugc_DecoLv1_Preset22_Unpublished_Detail
+attribute: 0x000000
+---
+Horns
+
+---
+label: Ugc_DecoLv1_Preset23_Unpublished_Detail
+attribute: 0x000000
+---
+Medical Mask
+
+---
+label: Ugc_DecoLv1_Preset24_Unpublished_Detail
+attribute: 0x000000
+---
+Animal Mouth
+
+---
+label: Ugc_DecoLv1_Preset25_Unpublished_Detail
+attribute: 0x000000
+---
+Bowl-Cut Hairstyle
+
+---
+label: Ugc_DecoLv1_Preset26_Unpublished_Detail
+attribute: 0x000000
+---
+Mystic Circlet
+
+---
+label: Ugc_DecoLv1_Preset27_Unpublished_Detail
+attribute: 0x000000
+---
+Bow Tie
+
+---
+label: Ugc_DecoLv1_Preset28_Unpublished_Detail
+attribute: 0x000000
+---
+Elephant Disguise
+
+---
+label: Ugc_DecoLv1_Preset29_Unpublished_Detail
+attribute: 0x000000
+---
+Earrings
+
+---
+label: Ugc_DecoLv1_Preset30_Unpublished_Detail
+attribute: 0x000000
+---
+Rabbit Ears
+
+---
+label: Ugc_DecoLv1_Preset31_Unpublished_Detail
+attribute: 0x000000
+---
+Head Lamp
+
+---
+label: Ugc_DecoLv1_Preset32_Unpublished_Detail
+attribute: 0x000000
+---
+Buns Hairstyle
+
+---
+label: Ugc_DecoLv1_Preset33_Unpublished_Detail
+attribute: 0x000000
+---
+Grass Straw
+
+---
+label: Ugc_DecoLv1_Published_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Number of Takers: {{101:11 arg="0x00010001"}}/{{101:11 arg="0x00010101"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv1_Trial_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv1_Trial_Preset01_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv1_Trial_Preset02_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv2_Preset01_Unpublished_Detail
+attribute: 0x000000
+---
+Disco Ball
+
+---
+label: Ugc_DecoLv2_Preset02_Unpublished_Detail
+attribute: 0x000000
+---
+Headphones
+
+---
+label: Ugc_DecoLv2_Preset03_Unpublished_Detail
+attribute: 0x000000
+---
+Champion Belt
+
+---
+label: Ugc_DecoLv2_Preset04_Unpublished_Detail
+attribute: 0x000000
+---
+Duck Hat
+
+---
+label: Ugc_DecoLv2_Preset05_Unpublished_Detail
+attribute: 0x000000
+---
+Cyclops
+
+---
+label: Ugc_DecoLv2_Preset06_Unpublished_Detail
+attribute: 0x000000
+---
+Angel Wings
+
+---
+label: Ugc_DecoLv2_Preset07_Unpublished_Detail
+attribute: 0x000000
+---
+Skull
+
+---
+label: Ugc_DecoLv2_Preset08_Unpublished_Detail
+attribute: 0x000000
+---
+Bolt
+
+---
+label: Ugc_DecoLv2_Preset09_Unpublished_Detail
+attribute: 0x000000
+---
+Samurai Helmet
+
+---
+label: Ugc_DecoLv2_Preset10_Unpublished_Detail
+attribute: 0x000000
+---
+Apple
+
+---
+label: Ugc_DecoLv2_Preset11_Unpublished_Detail
+attribute: 0x000000
+---
+Cap
+
+---
+label: Ugc_DecoLv2_Preset12_Unpublished_Detail
+attribute: 0x000000
+---
+Messenger Bag
+
+---
+label: Ugc_DecoLv2_Preset13_Unpublished_Detail
+attribute: 0x000000
+---
+Hot Dog
+
+---
+label: Ugc_DecoLv2_Preset14_Unpublished_Detail
+attribute: 0x000000
+---
+Elegant
+
+---
+label: Ugc_DecoLv2_Preset15_Unpublished_Detail
+attribute: 0x000000
+---
+Dress
+
+---
+label: Ugc_DecoLv2_Preset16_Unpublished_Detail
+attribute: 0x000000
+---
+Bird Clock
+
+---
+label: Ugc_DecoLv2_Preset17_Unpublished_Detail
+attribute: 0x000000
+---
+Photographer
+
+---
+label: Ugc_DecoLv2_Preset18_Unpublished_Detail
+attribute: 0x000000
+---
+Shoulder Parrot
+
+---
+label: Ugc_DecoLv2_Preset19_Unpublished_Detail
+attribute: 0x000000
+---
+Dog Disguise
+
+---
+label: Ugc_DecoLv2_Preset20_Unpublished_Detail
+attribute: 0x000000
+---
+Sleepy Eyes
+
+---
+label: Ugc_DecoLv2_Preset21_Unpublished_Detail
+attribute: 0x000000
+---
+Acoustic Guitar
+
+---
+label: Ugc_DecoLv2_Preset22_Unpublished_Detail
+attribute: 0x000000
+---
+School Bag
+
+---
+label: Ugc_DecoLv2_Preset23_Unpublished_Detail
+attribute: 0x000000
+---
+Carrying Pole
+
+---
+label: Ugc_DecoLv2_Preset24_Unpublished_Detail
+attribute: 0x000000
+---
+Red Riding Hood
+
+---
+label: Ugc_DecoLv2_Preset25_Unpublished_Detail
+attribute: 0x000000
+---
+Jomon Figurine
+
+---
+label: Ugc_DecoLv2_Preset26_Unpublished_Detail
+attribute: 0x000000
+---
+Flan
+
+---
+label: Ugc_DecoLv2_Preset27_Unpublished_Detail
+attribute: 0x000000
+---
+Tie
+
+---
+label: Ugc_DecoLv2_Preset28_Unpublished_Detail
+attribute: 0x000000
+---
+Carnival Mask
+
+---
+label: Ugc_DecoLv2_Preset29_Unpublished_Detail
+attribute: 0x000000
+---
+Medal
+
+---
+label: Ugc_DecoLv2_Preset30_Unpublished_Detail
+attribute: 0x000000
+---
+Jetpack
+
+---
+label: Ugc_DecoLv2_Preset31_Unpublished_Detail
+attribute: 0x000000
+---
+Wrestling Mask
+
+---
+label: Ugc_DecoLv2_Preset32_Unpublished_Detail
+attribute: 0x000000
+---
+Mushroom
+
+---
+label: Ugc_DecoLv2_Preset33_Unpublished_Detail
+attribute: 0x000000
+---
+Cape
+
+---
+label: Ugc_DecoLv2_Published_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Number of Takers: {{101:11 arg="0x00010001"}}/{{101:11 arg="0x00010101"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv2_Trial_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv2_Trial_Preset01_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv2_Trial_Preset02_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv3_Preset01_Unpublished_Detail
+attribute: 0x000000
+---
+Sumo Wrestler
+
+---
+label: Ugc_DecoLv3_Preset02_Unpublished_Detail
+attribute: 0x000000
+---
+Crocodile
+
+---
+label: Ugc_DecoLv3_Preset03_Unpublished_Detail
+attribute: 0x000000
+---
+Archer
+
+---
+label: Ugc_DecoLv3_Preset04_Unpublished_Detail
+attribute: 0x000000
+---
+Warrior
+
+---
+label: Ugc_DecoLv3_Preset05_Unpublished_Detail
+attribute: 0x000000
+---
+Sauna
+
+---
+label: Ugc_DecoLv3_Preset06_Unpublished_Detail
+attribute: 0x000000
+---
+Outlaw
+
+---
+label: Ugc_DecoLv3_Preset07_Unpublished_Detail
+attribute: 0x000000
+---
+Centaur
+
+---
+label: Ugc_DecoLv3_Preset08_Unpublished_Detail
+attribute: 0x000000
+---
+Butterfly
+
+---
+label: Ugc_DecoLv3_Preset09_Unpublished_Detail
+attribute: 0x000000
+---
+Cartoon Meat
+
+---
+label: Ugc_DecoLv3_Preset10_Unpublished_Detail
+attribute: 0x000000
+---
+Muscles
+
+---
+label: Ugc_DecoLv3_Preset11_Unpublished_Detail
+attribute: 0x000000
+---
+Mummy
+
+---
+label: Ugc_DecoLv3_Preset12_Unpublished_Detail
+attribute: 0x000000
+---
+Power Suit
+
+---
+label: Ugc_DecoLv3_Preset13_Unpublished_Detail
+attribute: 0x000000
+---
+Bubble Body
+
+---
+label: Ugc_DecoLv3_Preset14_Unpublished_Detail
+attribute: 0x000000
+---
+Solar System
+
+---
+label: Ugc_DecoLv3_Preset15_Unpublished_Detail
+attribute: 0x000000
+---
+Tulip
+
+---
+label: Ugc_DecoLv3_Preset16_Unpublished_Detail
+attribute: 0x000000
+---
+Knight Armor
+
+---
+label: Ugc_DecoLv3_Preset17_Unpublished_Detail
+attribute: 0x000000
+---
+Sky Guardian
+
+---
+label: Ugc_DecoLv3_Preset18_Unpublished_Detail
+attribute: 0x000000
+---
+Drum
+
+---
+label: Ugc_DecoLv3_Preset19_Unpublished_Detail
+attribute: 0x000000
+---
+Football Player
+
+---
+label: Ugc_DecoLv3_Preset20_Unpublished_Detail
+attribute: 0x000000
+---
+Potty Time
+
+---
+label: Ugc_DecoLv3_Preset21_Unpublished_Detail
+attribute: 0x000000
+---
+Ninja
+
+---
+label: Ugc_DecoLv3_Preset22_Unpublished_Detail
+attribute: 0x000000
+---
+Rave Ready
+
+---
+label: Ugc_DecoLv3_Preset23_Unpublished_Detail
+attribute: 0x000000
+---
+Ice-Cream Cone
+
+---
+label: Ugc_DecoLv3_Preset24_Unpublished_Detail
+attribute: 0x000000
+---
+Bird Wings
+
+---
+label: Ugc_DecoLv3_Preset25_Unpublished_Detail
+attribute: 0x000000
+---
+Crown
+
+---
+label: Ugc_DecoLv3_Preset26_Unpublished_Detail
+attribute: 0x000000
+---
+Cheeseburger
+
+---
+label: Ugc_DecoLv3_Preset27_Unpublished_Detail
+attribute: 0x000000
+---
+Filth Fighter
+
+---
+label: Ugc_DecoLv3_Preset28_Unpublished_Detail
+attribute: 0x000000
+---
+Staff ID
+
+---
+label: Ugc_DecoLv3_Preset29_Unpublished_Detail
+attribute: 0x000000
+---
+Nomad Traveler
+
+---
+label: Ugc_DecoLv3_Preset30_Unpublished_Detail
+attribute: 0x000000
+---
+Police Car
+
+---
+label: Ugc_DecoLv3_Preset31_Unpublished_Detail
+attribute: 0x000000
+---
+Boxer
+
+---
+label: Ugc_DecoLv3_Preset32_Unpublished_Detail
+attribute: 0x000000
+---
+Robot
+
+---
+label: Ugc_DecoLv3_Preset33_Unpublished_Detail
+attribute: 0x000000
+---
+Sunday Best
+
+---
+label: Ugc_DecoLv3_Published_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Number of Takers: {{101:11 arg="0x00010001"}}/{{101:11 arg="0x00010101"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv3_Trial_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv3_Trial_Preset01_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoLv3_Trial_Preset02_Detail
+attribute: 0x000000
+---
+Try {{0:3 arg="0x0000"}}sampling{{0:3 arg="0xFFFF"}} some Deco!
+{{0:2 arg="0x5000"}}・{{0:3 arg="0x0300"}}It can't be saved or made public.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoStorageTimer_Detail
+attribute: 0x000000
+---
+・Exhibition fee: {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} 100
+・Exhibition duration: 3 hours
+
+---
+label: Ugc_DecoStorageTimer_Published_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Number of Takers: {{101:11 arg="0x00010001"}}/{{101:11 arg="0x00010101"}}{{0:2 arg="0x6400"}}
+
+---
+label: Ugc_DecoStorage_Published_Detail
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Number of Takers: {{101:11 arg="0x00010001"}}/{{101:11 arg="0x00010101"}}{{0:2 arg="0x6400"}}

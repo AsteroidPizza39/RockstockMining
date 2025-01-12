@@ -1,0 +1,77 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Ice
+attribute: 0x000000
+---
+Ice
+
+---
+label: Cold
+attribute: 0x000000
+---
+Frost
+
+---
+label: Water
+attribute: 0x000000
+---
+Water
+
+---
+label: Swamp
+attribute: 0x000000
+---
+Swamp
+
+---
+label: Ash
+attribute: 0x000000
+---
+Ash
+
+---
+label: Smoke
+attribute: 0x000000
+---
+Smoke
+
+---
+label: Magma
+attribute: 0x000000
+---
+Magma
+
+---
+label: Fire
+attribute: 0x000000
+---
+Fire
+
+---
+label: Cloud
+attribute: 0x000000
+---
+Cloud
+
+---
+label: Elec
+attribute: 0x000000
+---
+Electricity
+
+---
+label: Explode
+attribute: 0x000000
+---
+Explosion

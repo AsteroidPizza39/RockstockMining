@@ -1,0 +1,131 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: DefArt_00
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_01
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_02
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_03
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_04
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_05
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_06
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_07
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_08
+attribute: 0x000000
+---
+
+
+---
+label: DefArt_09
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_00
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_01
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_02
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_03
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_04
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_05
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_06
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_07
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_08
+attribute: 0x000000
+---
+
+
+---
+label: IndefArt_09
+attribute: 0x000000
+---
+

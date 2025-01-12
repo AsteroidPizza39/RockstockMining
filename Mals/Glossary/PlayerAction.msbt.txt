@@ -1,0 +1,59 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 5
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Aim
+attribute: 0x000000
+---
+Aim
+
+---
+label: Grab
+attribute: 0x000000
+---
+Grab
+
+---
+label: Connect
+attribute: 0x000000
+---
+Fuse
+
+---
+label: Disconnect
+attribute: 0x000000
+---
+De-fuse
+
+---
+label: Jump
+attribute: 0x000000
+---
+Climb
+
+---
+label: Attack
+attribute: 0x000000
+---
+Strike
+
+---
+label: Fly
+attribute: 0x000000
+---
+Fly
+
+---
+label: Float
+attribute: 0x000000
+---
+Hover

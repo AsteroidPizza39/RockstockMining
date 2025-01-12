@@ -1,0 +1,85 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Frontiered_Title
+attribute: 0x000000
+---
+Ground
+
+---
+label: Frontiered_Info
+attribute: 0x000000
+---
+-
+
+---
+label: Frontiered_Title_Planet
+attribute: 0x000000
+---
+Developed Land
+
+---
+label: Frontiered_Info_Planet
+attribute: 0x000000
+---
+・Land that has been developed by a Beacon's light.
+
+---
+label: None_Title
+attribute: 0x000000
+---
+Ground
+
+---
+label: None_Info
+attribute: 0x000000
+---
+-
+
+---
+label: None_Title_Planet
+attribute: 0x000000
+---
+Undeveloped Land
+
+---
+label: None_Info_Planet
+attribute: 0x000000
+---
+・Can be developed with your Beacon's light.
+・Raise your Development Level with Dev Points.
+
+---
+label: Unworkable_Title
+attribute: 0x000000
+---
+Ground
+
+---
+label: Unworkable_Info
+attribute: 0x000000
+---
+-
+
+---
+label: Unworkable_Title_Planet
+attribute: 0x000000
+---
+Dark Land
+
+---
+label: Unworkable_Info_Planet
+attribute: 0x000000
+---
+・Land that is shrouded in darkness.
+・Cannot be developed unless it is purified.

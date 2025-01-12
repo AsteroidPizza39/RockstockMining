@@ -1,0 +1,101 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: TimerHeaderStart
+attribute: 0x000000
+---
+Starts in:
+
+---
+label: TimerHeaderFinish
+attribute: 0x000000
+---
+Ends in:
+
+---
+label: TimerHeaderRestart
+attribute: 0x000000
+---
+Restarts in:
+
+---
+label: L_Cmn-L_Group-L_Header-T_Text
+attribute: 0x000000
+---
+Capacity:
+
+---
+label: GroupCount
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_Cmn-L_Group-T_Dvide
+attribute: 0x000000
+---
+/
+
+---
+label: GroupTotal
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_Cmn-L_Group-T_CountInvalid
+attribute: 0x000000
+---
+--
+
+---
+label: L_Cmn-L_Group-T_TotalInvalid
+attribute: 0x000000
+---
+--
+
+---
+label: CountDownStart
+attribute: 0x000000
+---
+Starts in:
+
+---
+label: CountDownFinish
+attribute: 0x000000
+---
+Ends in:
+
+---
+label: CountDownSecond
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: TimerHeaderWaitSectionDisappear
+attribute: 0x000000
+---
+Time left:
+
+---
+label: TimerTime
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}} 
+
+---
+label: L_Cmn-L_Timer-T_TimeInvalid
+attribute: 0x000000
+---
+-

@@ -1,0 +1,235 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 17
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: AnnounceTitle001_Title
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: AnnounceTitle002_Title
+attribute: 0x000000
+---
+Pickaxe (Lv. 2) Supplies
+
+---
+label: AnnounceTitle003_Title
+attribute: 0x000000
+---
+Connex Shop Event
+
+---
+label: AnnounceTitle004_Title
+attribute: 0x000000
+---
+Developer Connection Area
+
+---
+label: AnnounceTitle005_Title
+attribute: 0x000000
+---
+Developer Knowledge
+
+---
+label: AnnounceTitle006_Title
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: AnnounceTitle007_Title
+attribute: 0x000000
+---
+Hot Spring Day
+
+---
+label: AnnounceTitle008_Title
+attribute: 0x000000
+---
+Developer Connection Area
+
+---
+label: AnnounceTitle009_Title
+attribute: 0x000000
+---
+Attempt the Test
+
+---
+label: AnnounceTitle010_Title
+attribute: 0x000000
+---
+Developer Knowledge
+
+---
+label: AnnounceTitle011_Title
+attribute: 0x000000
+---
+Emoji Fair Ongoing
+
+---
+label: AnnounceTitle014_Title
+attribute: 0x000000
+---
+Fun Day
+
+---
+label: AnnounceTitle015_Title
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: AnnounceTitle016_Title
+attribute: 0x000000
+---
+Use the Exhibition Space
+
+---
+label: UsualAnnounce001_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0xFFFF"}}{{1:0 arg="0x1E000000"}}
+Attention, developers!{{1:0 arg="0x14000000"}} Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}You'll soon be supplied with the most universal
+building block of all... {{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}Wood{{1:0 arg="0x0A000000"}}{{0:3 arg="0xFFFF"}}!{{1:0 arg="0x1E000000"}}{{0:4}}Wood is an excellent crafting tool...
+{{1:0 arg="0x1E000000"}}You could call it the root of all development work!{{1:0 arg="0x3C000000"}}{{0:4}}Pick up your {{0:3 arg="0x0000"}}Wood{{0:3 arg="0xFFFF"}} from the {{0:3 arg="0x0000"}}Daily Supplies {{0:3 arg="0xFFFF"}}in the
+Dev Core.{{1:0 arg="0x1E000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce002_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}Today's supply is a {{0:3 arg="0x0000"}}Pickaxe (Lv. 2){{0:3 arg="0xFFFF"}}!{{1:0 arg="0x1E000000"}} {{0:4}}With this trusty tool in hand, {{1:0 arg="0x0A000000"}}even relatively robust
+ore can be dug through with ease!{{1:0 arg="0x3C000000"}}
+Pick up your {{0:3 arg="0x0000"}}Pickaxe (Lv. 2){{0:3 arg="0xFFFF"}} at the {{0:3 arg="0x0000"}}Daily Supplies{{0:3 arg="0xFFFF"}} in
+the Dev Core.{{1:0 arg="0x1E000000"}}
+{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce003_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}Today is a special day at the Connex Shop!{{1:0 arg="0x1E000000"}}
+There's an {{0:3 arg="0x0000"}}event {{0:3 arg="0xFFFF"}}going on as we speak!{{1:0 arg="0x3C000000"}}{{0:4}}Get discounted Deco, emojis, and even Poses!{{1:0 arg="0x1E000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce004_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0400"}} Dev Core Staff{{1:0 arg="0x1E000000"}}{{0:3 arg="0xFFFF"}}
+Developers,{{1:0 arg="0x14000000"}} thank you for your ongoing hard work.{{1:0 arg="0x1E000000"}}{{0:4}}Have you visited the {{0:3 arg="0x0000"}}Developer Connection Area{{0:3 arg="0xFFFF"}}?{{0:4}}There you can form teams with other developers{{1:0 arg="0x1E000000"}}
+and participate in competitive events.{{1:0 arg="0x3C000000"}}{{0:4}}After the game's over,{{1:0 arg="0x0A000000"}} remember to congratulate
+everyone with a {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} handshake to gain energy.{{0:4}}The action awaits!{{1:0 arg="0x1E000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce005_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}
+If you ever find yourself a little lost or confused,{{1:0 arg="0x0A000000"}}
+check your  Development Positioning System.{{1:0 arg="0x3C000000"}}
+Also known as a DPS,{{1:0 arg="0x0A000000"}} it allows you to observe
+what other developers are up to!{{1:0 arg="0x3C000000"}}
+Who knows, you may find techniques and
+approaches to adapt in your journey.{{1:0 arg="0x3C000000"}}
+{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce006_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}
+Today's supply drop is a bundle of {{0:3 arg="0x0000"}}Arrows{{0:3 arg="0xFFFF"}}.{{0:4}}Arrows will prove essential {{1:0 arg="0x0A000000"}}when facing off against
+flying Broots.{{0:4}}Take aim, and strike true! Pick up your {{0:3 arg="0x0000"}}Arrows{{0:3 arg="0xFFFF"}} in
+the Dev Core!{{1:0 arg="0x3C000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce007_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}We've taken the liberty of installing a variety of
+{{0:3 arg="0x0000"}}hot springs{{0:3 arg="0xFFFF"}} in the Dev Core.{{1:0 arg="0x3C000000"}}{{0:4}}We hope a dip in these relaxing waters will
+revitalize you for the tasks ahead.{{1:0 arg="0x3C000000"}}{{0:4}}Remember—{{1:0 arg="0x0A000000"}}developing is a marathon, not a sprint.{{1:0 arg="0x1E000000"}}
+Proper relaxation and time with others is key!{{1:0 arg="0x3C000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce008_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{1:0 arg="0x1E000000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers!{{1:0 arg="0x14000000"}} Today is a big day!{{1:0 arg="0x1E000000"}}
+It's an opportunity to experience all that {{0:3 arg="0x0000"}}Developer
+Connection Areas{{0:3 arg="0xFFFF"}} have to offer.{{1:0 arg="0x3C000000"}}{{0:4}}That's right!{{1:0 arg="0x1E000000"}} Entrances to multiple Connection
+Areas have been installed in the Dev Core.{{1:0 arg="0x3C000000"}}{{0:4}}Please try out the different kinds of exciting
+team-based battles that await you there.{{1:0 arg="0x3C000000"}}{{0:4}}Skills honed in these Connection Areas {{1:0 arg="0x1E000000"}}will surely
+serve you well in your daily development efforts.{{1:0 arg="0x3C000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce009_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers!{{1:0 arg="0x14000000"}} Thank you for your efforts!{{1:0 arg="0x1E000000"}}
+It's time for your originality to shine.{{1:0 arg="0x1E000000"}} If you're
+interested in creating Deco and making it public,{{1:0 arg="0x3C000000"}}
+you must showcase the proper know-how
+and skill to connect with others.{{1:0 arg="0x3C000000"}}{{0:4}}Take the {{0:3 arg="0x0000"}}UGC License Test{{0:3 arg="0xFFFF"}} in the Dev Core to
+prove you possess these qualities!{{1:0 arg="0x3C000000"}}{{0:4}}The next test begins in approximately 15 minutes!{{0:4}}Good luck, brave ones!{{0:4}} {{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce010_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers!{{1:0 arg="0x14000000"}} Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}Have you been sending {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connex Points?{{0:4}}Climb onto a Piece with someone else's name on it,{{1:0 arg="0x0A000000"}}
+then press {{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}to send its owner some {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Points!{{1:0 arg="0x3C000000"}}{{0:4}}Strengthen your bonds and get building!{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce011_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0x0400"}}{{1:0 arg="0x1E000000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}Today, we're talking about the Connex Shop!{{1:0 arg="0x0A000000"}}
+In fact, it just received a huge delivery of emojis!{{1:0 arg="0x1E000000"}}{{0:4}}We're calling this special event at the Connex Shop
+the {{0:3 arg="0x0000"}}Emoji Fair{{0:3 arg="0xFFFF"}}!{{1:0 arg="0x1E000000"}}{{0:4}}Come see what's in store!{{1:0 arg="0x1E000000"}}{{0:4}}{{1:0 arg="0x1E000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce014_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} {{0:3 arg="0x0400"}}Dev Core Staff{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{1:0 arg="0x1E000000"}}
+Attention, developers! {{1:0 arg="0x14000000"}}Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}The amount of greenery is growing by the day.{{1:0 arg="0x1E000000"}}{{0:4}}So today, at the Dev Core,{{1:0 arg="0x1E000000"}} enjoy a grand bundle of
+games and activities with other developers!{{1:0 arg="0x3C000000"}}{{0:4}}That's right...{{1:0 arg="0x1E000000"}} Fun Day has arrived in the Dev Core!{{1:0 arg="0x3C000000"}}{{0:4}}Try your hand at these various experiences 
+with your fellow developers.{{1:0 arg="0x3C000000"}}{{0:4}}Don't forget to {{0:3 arg="0x0000"}}^{{0:3 arg="0xFFFF"}} with the other players!{{1:0 arg="0x1E000000"}}{{0:4}}{{1:0 arg="0x0A000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce015_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{1:0 arg="0x1E000000"}}{{0:3 arg="0xFFFF"}}
+Attention, developers!{{1:0 arg="0x14000000"}} Thank you for your efforts!{{1:0 arg="0x1E000000"}}{{0:4}}Today's supply is some {{0:3 arg="0x0000"}}Stone{{0:3 arg="0xFFFF"}}!{{0:4}}Stone is a critical building block of creation{{1:0 arg="0x0A000000"}} and is
+often required to craft heavy machinery.{{1:0 arg="0x3C000000"}}{{0:4}}The use of heavy machinery can greatly accelerate
+your work, {{1:0 arg="0x0A000000"}}so collect stone where you discover it!{{1:0 arg="0x3C000000"}}{{0:4}}{{1:0 arg="0x1E000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}
+
+---
+label: UsualAnnounce016_Content
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} Dev Core Staff{{0:3 arg="0xFFFF"}}{{1:0 arg="0x1E000000"}}
+Keep up the good development work, everyone!{{0:4}}An {{0:3 arg="0x0000"}}exhibition space {{0:3 arg="0xFFFF"}}is now set up in the Dev Core.{{0:4}}There you can show off Deco you've made,{{1:0 arg="0x1E000000"}} or
+words you'd like to share with other developers.{{1:0 arg="0x3C000000"}}{{0:4}}And be sure to take a look around at items other
+developers have put on display.{{0:4}}Please put the {{0:3 arg="0x0000"}}exhibition space{{0:3 arg="0xFFFF"}} to good use.{{1:0 arg="0x3C000000"}}{{0:4}}{{1:0 arg="0x1E000000"}}May fortune favor you.{{1:0 arg="0x3C000000"}}

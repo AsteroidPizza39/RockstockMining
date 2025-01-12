@@ -1,0 +1,101 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: L_AntennaPos-L_KeyGuide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: AntennaWatch
+attribute: 0x000000
+---
+Spectate
+
+---
+label: AntennaFocus
+attribute: 0x000000
+---
+Zoom in
+
+---
+label: L_PlayerPos-L_KeyGuide-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_PlayerPos-L_KeyGuide-T_KeyText
+attribute: 0x000000
+---
+Spectate
+
+---
+label: T_X
+attribute: 0x000000
+---
+X+
+
+---
+label: T_X-
+attribute: 0x000000
+---
+X-
+
+---
+label: T_Z
+attribute: 0x000000
+---
+Z+
+
+---
+label: T_Z-
+attribute: 0x000000
+---
+Z-
+
+---
+label: L_SectionInfo-L_SectionPlayer-T_Text
+attribute: 0x000000
+---
+Players
+
+---
+label: SectionInfoPlayerNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_SectionInfo-L_SectionAntenna-T_Text
+attribute: 0x000000
+---
+Beacons
+
+---
+label: SectionInfoAntennaNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_SectionInfo-L_SectionStructure-T_Text
+attribute: 0x000000
+---
+Dev Points
+
+---
+label: SectionInfoStructureScore
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}{{0:2 arg="0x5000"}} %{{0:2 arg="0x6400"}}

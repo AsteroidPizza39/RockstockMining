@@ -1,0 +1,311 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 29
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: StructurePoint
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: StructureLevel
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}{{101:0 arg="0x0005000100CD"}}
+
+---
+label: StructureLevelPoint
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: CulturePoint
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: CultureLevel
+attribute: 0x000000
+---
+{{0:2 arg="0x5000"}}Lv. {{0:2 arg="0x6400"}}{{101:0 arg="0x0005000100CD"}}
+
+---
+label: CultureLevelPoint
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: Address
+attribute: 0x000000
+---
+[{{101:0 arg="0x0104000100CD"}}, {{101:0 arg="0x0104010100CD"}}]
+
+---
+label: MoralPoint
+attribute: 0x000000
+---
+{{101:2 arg="0x0007010000CD220049006E00740065007200610063007400530063006F00720065005200650063007600"}}
+
+---
+label: L_CardAssign-T_Bag
+attribute: 0x000000
+---
+Cards
+
+---
+label: CardNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: L_Finder-T_X
+attribute: 0x000000
+---
+X+
+
+---
+label: L_Finder-T_X-
+attribute: 0x000000
+---
+X-
+
+---
+label: L_Finder-T_Z
+attribute: 0x000000
+---
+Z+
+
+---
+label: L_Finder-T_Z-
+attribute: 0x000000
+---
+Z-
+
+---
+label: FinderNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: CarryPieceNum
+attribute: 0x000000
+---
+{{101:0 arg="0x0002000100CD"}}
+
+---
+label: L_KeyDirection-L_Rotate-T_Rotate
+attribute: 0x000000
+---
+ Rotate
+
+---
+label: L_PieceSign-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: PosX
+attribute: 0x000000
+---
+{{101:0 arg="0x0204000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: PosY
+attribute: 0x000000
+---
+{{101:0 arg="0x0204000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: PosZ
+attribute: 0x000000
+---
+{{101:0 arg="0x0204000100CD"}}{{0:2 arg="0x5000"}} m{{0:2 arg="0x6400"}}
+
+---
+label: L_Antenna-T_Welcome
+attribute: 0x000000
+---
+Welcome back!
+
+---
+label: L_Antenna-T_Goodbye
+attribute: 0x000000
+---
+See you!
+
+---
+label: EnergyCurrent
+attribute: 0x000000
+---
+{{101:1 arg="0x0004010001CD"}}
+
+---
+label: L_Energy-L_EnergyScore-T_Slash
+attribute: 0x000000
+---
+/
+
+---
+label: EnergyMax
+attribute: 0x000000
+---
+{{101:0 arg="0x0003000100CD"}}
+
+---
+label: L_Energy-L_EnergyScore-T_EnergyInfo
+attribute: 0x000000
+---
+Restore by  on a Card.
+
+---
+label: VirtualCurrency
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: L_Finder-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_B-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_B-T_KeyName
+attribute: 0x000000
+---
+B
+
+---
+label: L_CardAssign-L_A-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_A-T_KeyName
+attribute: 0x000000
+---
+A
+
+---
+label: L_CardAssign-L_Y-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_Y-T_KeyName
+attribute: 0x000000
+---
+Y
+
+---
+label: L_CardAssign-L_X-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_X-T_KeyName
+attribute: 0x000000
+---
+X
+
+---
+label: L_CardAssign-L_R-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_R-T_KeyName
+attribute: 0x000000
+---
+R
+
+---
+label: L_CardAssign-L_L-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_L-T_KeyName
+attribute: 0x000000
+---
+L
+
+---
+label: L_CardAssign-L_ZR-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_ZR-T_KeyName
+attribute: 0x000000
+---
+ZR
+
+---
+label: L_CardAssign-L_ZL-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_CardAssign-L_ZL-T_KeyName
+attribute: 0x000000
+---
+ZL
+
+---
+label: L_CardAssign-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyDirection-L_IcnUp-T_DirectionKey
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyDirection-L_IcnDown-T_DirectionKey
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyDirection-L_IcnLeft-T_DirectionKey
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyDirection-L_IcnRight-T_DirectionKey
+attribute: 0x000000
+---
+

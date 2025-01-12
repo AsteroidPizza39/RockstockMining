@@ -1,0 +1,167 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 17
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Inst_Center_Content
+attribute: 0x000000
+---
+Move to Dev Core
+
+---
+label: Inst_Center_SubTitle
+attribute: 0x000000
+---
+ Dev Core
+
+---
+label: Inst_PvE_Content
+attribute: 0x000000
+---
+ー
+
+---
+label: Inst_PvE_SubTitle
+attribute: 0x000000
+---
+ー
+
+---
+label: Inst_PvP_01_Content
+attribute: 0x000000
+---
+Move to the Developer Connection Area
+
+---
+label: Inst_PvP_01_SubTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Testing{{0:3 arg="0xFFFF"}} Developer Connection Area
+
+---
+label: Inst_PvP_02_Content
+attribute: 0x000000
+---
+Move to the Developer Connection Area
+
+---
+label: Inst_PvP_02_SubTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Testing{{0:3 arg="0xFFFF"}} Developer Connection Area
+
+---
+label: Inst_PvP_03_Content
+attribute: 0x000000
+---
+Move to the Developer Connection Area
+
+---
+label: Inst_PvP_03_SubTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Testing{{0:3 arg="0xFFFF"}} Developer Connection Area
+
+---
+label: Inst_PvP_04_Content
+attribute: 0x000000
+---
+Move to the Developer Connection Area
+
+---
+label: Inst_PvP_04_SubTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Testing{{0:3 arg="0xFFFF"}} Developer Connection Area
+
+---
+label: Inst_PvP_Content
+attribute: 0x000000
+---
+Move to the Developer Connection Area
+
+---
+label: Inst_PvP_SubTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Testing{{0:3 arg="0xFFFF"}} Developer Connection Area
+
+---
+label: Inst_TutorialMult_Content
+attribute: 0x000000
+---
+Move to the Developer Training Area
+
+---
+label: Inst_TutorialMult_SubTitle
+attribute: 0x000000
+---
+Developer Training Area
+
+---
+label: Inst_TutorialSolo_Content
+attribute: 0x000000
+---
+Move to Basic Training Area
+
+---
+label: Inst_TutorialSolo_SubTitle
+attribute: 0x000000
+---
+Basic Training Area
+
+---
+label: Inst_UgcLicenceExam_Content
+attribute: 0x000000
+---
+Move to UGC License Test Site
+
+---
+label: Inst_UgcLicenceExam_SubTitle
+attribute: 0x000000
+---
+ UGC License
+
+---
+label: List_Deliver_MenuTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}Daily Supplies
+
+---
+label: List_Gate_MenuTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} Teleporter
+
+---
+label: List_Question_MenuTitle
+attribute: 0x000000
+---
+ー
+
+---
+label: List_ShopClt_MenuTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Shop
+
+---
+label: List_ShopGm_MenuTitle
+attribute: 0x000000
+---
+GM Shop
+
+---
+label: List_ShopStr_MenuTitle
+attribute: 0x000000
+---
+{{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Dev Shop

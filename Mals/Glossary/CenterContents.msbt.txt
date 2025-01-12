@@ -1,0 +1,187 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 17
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: CenterGrid
+attribute: 0x000000
+---
+Center Grid
+
+---
+label: CenterImage
+attribute: 0x000000
+---
+Screen Projector
+
+---
+label: ConnectFour
+attribute: 0x000000
+---
+Four-in-a-Row
+
+---
+label: ConnectFour_Caption
+attribute: 0x000000
+---
+・Win by lining up four Pieces
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}vertically, horizontally, or diagonally.
+
+---
+label: FallingBlock
+attribute: 0x000000
+---
+Falling Pieces
+
+---
+label: FallingBlock_Captiom
+attribute: 0x000000
+---
+・Pieces disappear when they line up horizontally.
+・Get points for each row you make disappear.
+
+---
+label: FriendChecker
+attribute: 0x000000
+---
+Compatibility Test
+
+---
+label: FriendChecker_Caption
+attribute: 0x000000
+---
+・Tests the compatibility of two people.
+・If compatibility is good, {{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}will be recovered!
+
+---
+label: Lightsout
+attribute: 0x000000
+---
+Solid Grid
+
+---
+label: Lightsout_Caption
+attribute: 0x000000
+---
+・Use  to turn lights {{0:3 arg="0x0000"}}ON{{0:3 arg="0xFFFF"}} and {{0:3 arg="0x0100"}}OFF {{0:3 arg="0xFFFF"}}in a cross shape.
+・Turn all lights off to recover {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}.
+
+---
+label: Omikuji
+attribute: 0x000000
+---
+Fortune Teller
+
+---
+label: Omikuji_Caption
+attribute: 0x000000
+---
+・The better your luck, the more {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} is recovered.
+・If your luck is bad, {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} will decrease!
+
+---
+label: Reversi
+attribute: 0x000000
+---
+Renegade
+
+---
+label: Reversi_Caption
+attribute: 0x000000
+---
+・A Piece will switch between black and white
+{{0:2 arg="0x5000"}}　{{0:2 arg="0x6400"}}if sandwiched by two Pieces of the same color.
+・Win by having the most Pieces remaining.
+
+---
+label: Roulette
+attribute: 0x000000
+---
+Unlucky Piece
+
+---
+label: Roulette_Caption
+attribute: 0x000000
+---
+・Only one of these Pieces isn't a winner.
+・Every winning Piece you find will restore {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}!
+
+---
+label: Hotspring
+attribute: 0x000000
+---
+Hot Spring
+
+---
+label: Hotspring_Caption
+attribute: 0x000000
+---
+・Enjoy a nice, relaxing soak.
+・Recovers {{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} up to a certain value.
+
+---
+label: Hotspring_Health_Caption
+attribute: 0x000000
+---
+・Enjoy a nice, relaxing soak.
+・Recovers {{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}} up to a certain value.
+
+---
+label: Shooting
+attribute: 0x000000
+---
+Hit the Target
+
+---
+label: Shoothing_Caption
+attribute: 0x000000
+---
+・Throw Pieces at the targets.
+・Get points for each you destroy.
+
+---
+label: BreakAll
+attribute: 0x000000
+---
+Destroy All
+
+---
+label: BreakAll_Caption
+attribute: 0x000000
+---
+・Beat the game by destroying all Pieces.
+・Destroy all linked Pieces of the same color at once.
+
+---
+label: LuckyChair
+attribute: 0x000000
+---
+Lucky Piece
+
+---
+label: LuckyChair_Caption
+attribute: 0x000000
+---
+・One winner is chosen from among four players.
+・The chosen one will have {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} recovered.
+
+---
+label: QuickGun
+attribute: 0x000000
+---
+Quick Draw
+
+---
+label: QuickGun_Caption
+attribute: 0x000000
+---
+・The person who presses the button first wins.
+・Press the button when "Go!" appears.

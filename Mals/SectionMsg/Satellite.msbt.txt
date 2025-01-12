@@ -1,0 +1,797 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 67
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: SatelliteBasic_Name
+attribute: 0x000000
+---
+[#衛星][設定親]
+
+---
+label: Satellite_01_Name
+attribute: 0x000000
+---
+[#衛星]_01：サンプル
+
+---
+label: Satellite_Art_Blue_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} {{0:3 arg="0xFFFF"}} Ocean Floor Moon
+
+---
+label: Satellite_Art_Blue_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} {{0:3 arg="0xFFFF"}} Ocean Floor Moon
+
+---
+label: Satellite_Art_Blue_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} {{0:3 arg="0xFFFF"}} Ocean Floor Moon
+
+---
+label: Satellite_Art_Blue_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} {{0:3 arg="0xFFFF"}} Ocean Floor Moon
+
+---
+label: Satellite_Art_Cyan_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Frost Forest Moon
+
+---
+label: Satellite_Art_Cyan_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Frost Forest Moon
+
+---
+label: Satellite_Art_Cyan_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Frost Forest Moon
+
+---
+label: Satellite_Art_Cyan_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Frost Forest Moon
+
+---
+label: Satellite_Art_Green_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}} Bogland Moon
+
+---
+label: Satellite_Art_Green_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}} Bogland Moon
+
+---
+label: Satellite_Art_Green_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}} Bogland Moon
+
+---
+label: Satellite_Art_Green_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0C00"}} {{0:3 arg="0xFFFF"}} Bogland Moon
+
+---
+label: Satellite_Art_Yellow_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} {{0:3 arg="0xFFFF"}} Desert Moon
+
+---
+label: Satellite_Art_Yellow_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} {{0:3 arg="0xFFFF"}} Desert Moon
+
+---
+label: Satellite_Art_Yellow_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} {{0:3 arg="0xFFFF"}} Desert Moon
+
+---
+label: Satellite_Art_Yellow_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0B00"}} {{0:3 arg="0xFFFF"}} Desert Moon
+
+---
+label: Satellite_Cliff_Copper_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Copper_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Copper_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Copper_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Diamond_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Jewels Moon
+
+---
+label: Satellite_Cliff_Diamond_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Jewels Moon
+
+---
+label: Satellite_Cliff_Diamond_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Jewels Moon
+
+---
+label: Satellite_Cliff_Diamond_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Jewels Moon
+
+---
+label: Satellite_Cliff_Gold_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Gold_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Gold_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Gold_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Iron_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Iron_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Iron_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Iron_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Silver_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Silver_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Silver_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Silver_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Stone_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Stone_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Stone_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Cliff_Stone_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x1000"}} {{0:3 arg="0xFFFF"}} Islands of Ore Moon
+
+---
+label: Satellite_Elem_MagmaSand_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} {{0:3 arg="0xFFFF"}} Magma and Sand Moon
+
+---
+label: Satellite_Elem_MagmaSand_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} {{0:3 arg="0xFFFF"}} Magma and Sand Moon
+
+---
+label: Satellite_Elem_MagmaSand_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} {{0:3 arg="0xFFFF"}} Magma and Sand Moon
+
+---
+label: Satellite_Elem_MagmaSand_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0900"}} {{0:3 arg="0xFFFF"}} Magma and Sand Moon
+
+---
+label: Satellite_Elem_SwampIce_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Ice and Swamp Moon
+
+---
+label: Satellite_Elem_SwampIce_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Ice and Swamp Moon
+
+---
+label: Satellite_Elem_SwampIce_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Ice and Swamp Moon
+
+---
+label: Satellite_Elem_SwampIce_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Ice and Swamp Moon
+
+---
+label: Satellite_Elem_SwampMagma_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0F00"}} {{0:3 arg="0xFFFF"}} Magma and Swamp Moon
+
+---
+label: Satellite_Elem_SwampMagma_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0F00"}} {{0:3 arg="0xFFFF"}} Magma and Swamp Moon
+
+---
+label: Satellite_Elem_SwampMagma_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0F00"}} {{0:3 arg="0xFFFF"}} Magma and Swamp Moon
+
+---
+label: Satellite_Elem_SwampMagma_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0F00"}} {{0:3 arg="0xFFFF"}} Magma and Swamp Moon
+
+---
+label: Satellite_Elem_WaterIce_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Water and Ice Moon
+
+---
+label: Satellite_Elem_WaterIce_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Water and Ice Moon
+
+---
+label: Satellite_Elem_WaterIce_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Water and Ice Moon
+
+---
+label: Satellite_Elem_WaterIce_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0D00"}} {{0:3 arg="0xFFFF"}} Water and Ice Moon
+
+---
+label: Satellite_Island_Copper_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Copper_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Copper_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Copper_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Diamond_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Jewels Moon
+
+---
+label: Satellite_Island_Diamond_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Jewels Moon
+
+---
+label: Satellite_Island_Diamond_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Jewels Moon
+
+---
+label: Satellite_Island_Diamond_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Jewels Moon
+
+---
+label: Satellite_Island_Gold_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Gold_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Gold_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Gold_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Iron_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Iron_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Iron_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Iron_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Silver_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Silver_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Silver_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Silver_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Stone_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Stone_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Stone_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Island_Stone_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0800"}} {{0:3 arg="0xFFFF"}} Chasms of Ore Moon
+
+---
+label: Satellite_Mount_Copper_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Copper_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Copper_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Copper_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Diamond_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Jewels Moon
+
+---
+label: Satellite_Mount_Diamond_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Jewels Moon
+
+---
+label: Satellite_Mount_Diamond_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Jewels Moon
+
+---
+label: Satellite_Mount_Diamond_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Jewels Moon
+
+---
+label: Satellite_Mount_Gold_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Gold_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Gold_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Gold_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Iron_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Iron_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Iron_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Iron_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Silver_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Silver_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Silver_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Silver_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Stone_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Stone_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Stone_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Mount_Stone_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0700"}} {{0:3 arg="0xFFFF"}} Plateaus of Ore Moon
+
+---
+label: Satellite_Normal_Copper_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Copper_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Copper_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Copper_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Diamond_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Jewels Moon
+
+---
+label: Satellite_Normal_Diamond_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Jewels Moon
+
+---
+label: Satellite_Normal_Diamond_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Jewels Moon
+
+---
+label: Satellite_Normal_Diamond_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Jewels Moon
+
+---
+label: Satellite_Normal_Gold_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Gold_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Gold_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Gold_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Iron_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Iron_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Iron_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Iron_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Silver_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Silver_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Silver_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Silver_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Stone_01_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Stone_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Stone_03_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Normal_Stone_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0A00"}} {{0:3 arg="0xFFFF"}} Badlands of Ore Moon
+
+---
+label: Satellite_Special_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0E00"}} {{0:3 arg="0xFFFF"}} Forbidden Fruit Moon

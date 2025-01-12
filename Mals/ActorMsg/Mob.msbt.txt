@@ -1,0 +1,631 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 53
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: MobBase_Name
+attribute: 0x000000
+---
+ 
+
+---
+label: MobBase_Caption
+attribute: 0x000000
+---
+ 
+
+---
+label: MobBoss_01_Name
+attribute: 0x000000
+---
+ Hopeslayer Broot
+
+---
+label: MobBoss_01_Caption
+attribute: 0x000000
+---
+・A giant Oot.
+・Shoots flaming Orbs at you from the air.
+
+---
+label: MobChaseBullet_01_Name
+attribute: 0x000000
+---
+ Blastcannon Broot
+
+---
+label: MobChaseBullet_01_Caption
+attribute: 0x000000
+---
+・Shoots Orbs while chasing after you.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChaseBullet_Weakness_01_Name
+attribute: 0x000000
+---
+ Blastcannon Broot
+
+---
+label: MobChaseBullet_Weakness_01_Caption
+attribute: 0x000000
+---
+・Shoots Orbs while chasing after you.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobChaseFlyBullet_01_Name
+attribute: 0x000000
+---
+ Skycannon Broot
+
+---
+label: MobChaseFlyBullet_01_Caption
+attribute: 0x000000
+---
+・Shoots Orbs while chasing after you from the air.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChaseFlyBullet_Weakness_01_Name
+attribute: 0x000000
+---
+ Skycannon Broot
+
+---
+label: MobChaseFlyBullet_Weakness_01_Caption
+attribute: 0x000000
+---
+・Shoots Orbs while chasing after you from the air.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobChaseFly_01_Name
+attribute: 0x000000
+---
+ Skysweeper Broot
+
+---
+label: MobChaseFly_01_Caption
+attribute: 0x000000
+---
+・Chases after you from the air.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChaseFly_Bomb_01_Name
+attribute: 0x000000
+---
+ Skybomb Broot
+
+---
+label: MobChaseFly_Bomb_01_Caption
+attribute: 0x000000
+---
+・Chases you through the air and explodes.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChaseFly_Thorn_01_Name
+attribute: 0x000000
+---
+ Skysweeper Broot
+
+---
+label: MobChaseFly_Thorn_01_Caption
+attribute: 0x000000
+---
+・Chases after you from the air.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChaseFly_Weakness_01_Name
+attribute: 0x000000
+---
+ Skysweeper Broot
+
+---
+label: MobChaseFly_Weakness_01_Caption
+attribute: 0x000000
+---
+・Chases after you from the air.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobChase_01_Name
+attribute: 0x000000
+---
+ Hunter Broot
+
+---
+label: MobChase_01_Caption
+attribute: 0x000000
+---
+・Chases after you.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChase_Bomb_01_Name
+attribute: 0x000000
+---
+ Bomber Broot
+
+---
+label: MobChase_Bomb_01_Caption
+attribute: 0x000000
+---
+・Chases after you and explodes.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChase_Thorn_01_Name
+attribute: 0x000000
+---
+ Hunter Broot
+
+---
+label: MobChase_Thorn_01_Caption
+attribute: 0x000000
+---
+・Chases after you.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobChase_Weakness_01_Name
+attribute: 0x000000
+---
+ Hunter Broot
+
+---
+label: MobChase_Weakness_01_Caption
+attribute: 0x000000
+---
+・Chases after you.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobEscapeFlyBullet_01_Name
+attribute: 0x000000
+---
+ Life Stone Broot
+
+---
+label: MobEscapeFlyBullet_01_Caption
+attribute: 0x000000
+---
+・Shoots flaming Orbs from the air while evading you.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixedBullet_01_Name
+attribute: 0x000000
+---
+ Sniper Broot
+
+---
+label: MobFixedBullet_01_Caption
+attribute: 0x000000
+---
+・Shoots Orbs at you while stationary.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixedBullet_Weakness_01_Name
+attribute: 0x000000
+---
+ Dark Sniper Broot
+
+---
+label: MobFixedBullet_Weakness_01_Caption
+attribute: 0x000000
+---
+・When defeated, the Dark Land is purified.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobFixedFlyBullet_01_Name
+attribute: 0x000000
+---
+ Cloudsniper Broot
+
+---
+label: MobFixedFlyBullet_01_Caption
+attribute: 0x000000
+---
+・Shoots Orbs at you while hovering in place.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixedFlyBullet_Weakness_01_Name
+attribute: 0x000000
+---
+ Dark Cloudsniper Broot
+
+---
+label: MobFixedFlyBullet_Weakness_01_Caption
+attribute: 0x000000
+---
+・When defeated, the Dark Land is purified.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobFixedFly_01_Name
+attribute: 0x000000
+---
+ Hoverthorn Broot
+
+---
+label: MobFixedFly_01_Caption
+attribute: 0x000000
+---
+・Remains stationary and airborne.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixedFly_Thorn_01_Name
+attribute: 0x000000
+---
+ Hoverthorn Broot
+
+---
+label: MobFixedFly_Thorn_01_Caption
+attribute: 0x000000
+---
+・Remains stationary and airborne.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixed_01_Name
+attribute: 0x000000
+---
+ Sentry Broot
+
+---
+label: MobFixed_01_Caption
+attribute: 0x000000
+---
+・Remains stationary.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixed_Bomb_01_Name
+attribute: 0x000000
+---
+ Timebomb Broot
+
+---
+label: MobFixed_Bomb_01_Caption
+attribute: 0x000000
+---
+・Explodes when discovered.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixed_Bomb_02_Name
+attribute: 0x000000
+---
+ Dark Timebomb Broot
+
+---
+label: MobFixed_Bomb_02_Caption
+attribute: 0x000000
+---
+・When it explodes, the Dark Land is purified.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixed_Thorn_01_Name
+attribute: 0x000000
+---
+ Sentry Broot
+
+---
+label: MobFixed_Thorn_01_Caption
+attribute: 0x000000
+---
+・Remains stationary.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobFixed_Weakness_01_Name
+attribute: 0x000000
+---
+ Dark Sentry Broot
+
+---
+label: MobFixed_Weakness_01_Caption
+attribute: 0x000000
+---
+・When defeated, the Dark Land is purified.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobNeutral_01_Name
+attribute: 0x000000
+---
+ Kyoot Mouse
+
+---
+label: MobNeutral_01_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_02_Name
+attribute: 0x000000
+---
+ Kyoot Cow
+
+---
+label: MobNeutral_02_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_03_Name
+attribute: 0x000000
+---
+ Kyoot Tiger
+
+---
+label: MobNeutral_03_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_04_Name
+attribute: 0x000000
+---
+ Kyoot Rabbit
+
+---
+label: MobNeutral_04_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_05_Name
+attribute: 0x000000
+---
+ Kyoot Dragon
+
+---
+label: MobNeutral_05_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_06_Name
+attribute: 0x000000
+---
+ Kyoot Snake
+
+---
+label: MobNeutral_06_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_07_Name
+attribute: 0x000000
+---
+ Kyoot Horse
+
+---
+label: MobNeutral_07_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_08_Name
+attribute: 0x000000
+---
+ Kyoot Sheep
+
+---
+label: MobNeutral_08_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_09_Name
+attribute: 0x000000
+---
+ Kyoot Monkey
+
+---
+label: MobNeutral_09_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_10_Name
+attribute: 0x000000
+---
+ Kyoot Hen
+
+---
+label: MobNeutral_10_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_11_Name
+attribute: 0x000000
+---
+ Kyoot Dog
+
+---
+label: MobNeutral_11_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_12_Name
+attribute: 0x000000
+---
+ Kyoot Boar
+
+---
+label: MobNeutral_12_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobNeutral_13_Name
+attribute: 0x000000
+---
+ Kyoot Cat
+
+---
+label: MobNeutral_13_Caption
+attribute: 0x000000
+---
+・Can be captured with your tail.
+・Once it's tamed, hold  to pet it!
+
+---
+label: MobRushFly_01_Name
+attribute: 0x000000
+---
+ Nosediver Broot
+
+---
+label: MobRushFly_01_Caption
+attribute: 0x000000
+---
+・Charges at you from the air.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobRushFly_Thorn_01_Name
+attribute: 0x000000
+---
+ Nosediver Broot
+
+---
+label: MobRushFly_Thorn_01_Caption
+attribute: 0x000000
+---
+・Charges at you from the air.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobRushFly_Weakness_01_Name
+attribute: 0x000000
+---
+ Nosediver Broot
+
+---
+label: MobRushFly_Weakness_01_Caption
+attribute: 0x000000
+---
+・Charges at you from the air.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobRush_01_Name
+attribute: 0x000000
+---
+ Rammer Broot
+
+---
+label: MobRush_01_Caption
+attribute: 0x000000
+---
+・Charges at you from the ground.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobRush_Thorn_01_Name
+attribute: 0x000000
+---
+ Rammer Broot
+
+---
+label: MobRush_Thorn_01_Caption
+attribute: 0x000000
+---
+・Charges at you from the ground.
+・Body is made of {{101:6 arg="0x00000000"}}.
+
+---
+label: MobRush_Weakness_01_Name
+attribute: 0x000000
+---
+ Rammer Broot
+
+---
+label: MobRush_Weakness_01_Caption
+attribute: 0x000000
+---
+・Charges at you from the ground.
+・Exploit its Weakness to defeat it.
+
+---
+label: MobTiny_Base_Name
+attribute: 0x000000
+---
+ 
+
+---
+label: MobTiny_Base_Caption
+attribute: 0x000000
+---
+ 
+
+---
+label: MobTiny_Fly_01_Name
+attribute: 0x000000
+---
+Flutter Noot
+
+---
+label: MobTiny_Fly_01_Caption
+attribute: 0x000000
+---
+・Fly away
+
+---
+label: MobTiny_Ground_01_Name
+attribute: 0x000000
+---
+Scurry Noot
+
+---
+label: MobTiny_Ground_01_Caption
+attribute: 0x000000
+---
+・Run away

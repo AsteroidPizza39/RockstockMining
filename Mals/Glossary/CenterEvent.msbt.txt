@@ -1,0 +1,17 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 2
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Ctr_ParticipantCount
+attribute: 0x000000
+---
+Participating Players:

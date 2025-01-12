@@ -1,0 +1,84 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 7
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: T_ShopTitle
+attribute: 0x000000
+---
+ TEST CREDIT Shop
+
+---
+label: L_Vc-T_Title
+attribute: 0x000000
+---
+Balance
+
+---
+label: L_KeyGuideB-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideB-T_KeyText
+attribute: 0x000000
+---
+Back
+
+---
+label: L_KeyGuideA-T_KeyGuide
+attribute: 0x000000
+---
+
+
+---
+label: L_KeyGuideA-T_KeyText
+attribute: 0x000000
+---
+OK
+
+---
+label: VirtualCurrency
+attribute: 0x000000
+---
+{{101:0 arg="0x0006000100CD"}}
+
+---
+label: Legal_Refresh
+attribute: 0x000000
+---
+Recover data
+
+---
+label: Legal_DisplayBalance
+attribute: 0x000000
+---
+Details
+
+---
+label: L_BtnItem00-T_Bought
+attribute: 0x000000
+---
+Obtained
+
+---
+label: L_BtnItem00-T_Announce
+attribute: 0x000000
+---
+First, please get
+a UGC License.
+
+---
+label: Free
+attribute: 0x000000
+---
+Obtain

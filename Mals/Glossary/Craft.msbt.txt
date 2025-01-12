@@ -1,0 +1,137 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Cr_Rock
+attribute: 0x000000
+---
+Stoneworker, Basic
+
+---
+label: Cr_Rock_02
+attribute: 0x000000
+---
+Stoneworker, Brick
+
+---
+label: Cr_Rock_03
+attribute: 0x000000
+---
+Stoneworker, Ancient
+
+---
+label: Cr_Rock_04
+attribute: 0x000000
+---
+Stoneworker, Modern
+
+---
+label: Cr_Rock_05
+attribute: 0x000000
+---
+Stoneworker
+
+---
+label: Cr_Wood
+attribute: 0x000000
+---
+Woodworker, Exterior
+
+---
+label: Cr_Wood_02
+attribute: 0x000000
+---
+Woodworker, Stylish
+
+---
+label: Cr_Wood_03
+attribute: 0x000000
+---
+Woodworker, Interior
+
+---
+label: Cr_Glass
+attribute: 0x000000
+---
+Glazier, Window
+
+---
+label: Cr_Glass_02
+attribute: 0x000000
+---
+Glazier, Decoration
+
+---
+label: Cr_Metal
+attribute: 0x000000
+---
+Metalworker, Basic
+
+---
+label: Cr_Metal_02
+attribute: 0x000000
+---
+Metalworker, Industrial
+
+---
+label: Cr_Metal_03
+attribute: 0x000000
+---
+Metalworker, Future
+
+---
+label: Cr_Gem
+attribute: 0x000000
+---
+Jewelcrafter, Basic
+
+---
+label: Cr_Yumekawa
+attribute: 0x000000
+---
+Fantasy Crafter
+
+---
+label: Cr_Sushi
+attribute: 0x000000
+---
+Sushi Chef
+
+---
+label: Cr_Sweets
+attribute: 0x000000
+---
+Confectioner
+
+---
+label: Cr_Fashon
+attribute: 0x000000
+---
+Fashion Designer
+
+---
+label: Cr_Cake
+attribute: 0x000000
+---
+Cake Maker
+
+---
+label: Cr_Unknown
+attribute: 0x000000
+---
+Dev-Core Crafter
+
+---
+label: Cr_ColorChange
+attribute: 0x000000
+---
+Painter

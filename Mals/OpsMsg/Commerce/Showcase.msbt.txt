@@ -1,0 +1,281 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 23
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: showcase5
+attribute: 0x000000
+---
+Raise your {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level to unlock new items!
+
+---
+label: showcase70
+attribute: 0x000000
+---
+Staple Items
+
+---
+label: showcase238
+attribute: 0x000000
+---
+From {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level 1
+
+---
+label: showcase239
+attribute: 0x000000
+---
+From {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level 10
+
+---
+label: showcase240
+attribute: 0x000000
+---
+From {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level 20
+
+---
+label: showcase241
+attribute: 0x000000
+---
+From {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level 30
+
+---
+label: showcase242
+attribute: 0x000000
+---
+From {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level 40
+
+---
+label: showcase243
+attribute: 0x000000
+---
+From {{0:3 arg="0x0500"}} {{0:3 arg="0xFFFF"}}Development Level 50
+
+---
+label: showcase320
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase376
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase377
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase378
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase379
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase380
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase381
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase382
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase383
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase384
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase385
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase386
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase420
+attribute: 0x000000
+---
+GM_Only
+
+---
+label: showcase456
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase457
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase458
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase459
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase460
+attribute: 0x000000
+---
+One Day Only!
+
+---
+label: showcase651
+attribute: 0x000000
+---
+Emoji Fair
+
+---
+label: showcase652
+attribute: 0x000000
+---
+From {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Level 1
+
+---
+label: showcase653
+attribute: 0x000000
+---
+From {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Level 10
+
+---
+label: showcase654
+attribute: 0x000000
+---
+From {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connection Level 20
+
+---
+label: showcase804
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase805
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase806
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase807
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase808
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase809
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase810
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase811
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase812
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase813
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase814
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase815
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase816
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase817
+attribute: 0x000000
+---
+Today's Supplies
+
+---
+label: showcase818
+attribute: 0x000000
+---
+Today's Supplies

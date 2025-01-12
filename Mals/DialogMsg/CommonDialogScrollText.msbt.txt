@@ -1,0 +1,177 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 11
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Guideline_01_Title
+attribute: 0x000000
+---
+Community Guidelines
+
+---
+label: Guideline_01_Content
+attribute: 0x000000
+---
+Introduction
+Hello,
+Here are some Community Guidelines that we would like you to
+follow to help us offer a great service. This is important
+information that will make this service pleasant for many people.
+Please read through this information. Thank you.
+
+1. Treat Others with Respect
+Let's treat others with respect just like you would like to be
+treated. Do not disrespect, deceive, harass, threaten,
+discriminate, or bully others. Refrain from actions that interfere
+with others' enjoyment or do anything that could harm someone.
+
+2. Play by the Rules
+Abide by the Terms and Conditions for this service,
+Community Guidelines, and Nintendo Account User Agreement.
+If you do not follow these rules, your Nintendo Account may be
+subject to penalties such as suspension.
+
+3. Your Account is Yours Alone
+Keep your account to yourself.
+Remember, your personal information belongs to you alone.
+Do not buy, sell, or transfer your User Account to anyone else.
+
+4. Think Carefully Before Sharing
+Be thoughtful about what you share so everyone can enjoy your
+content. You should not share personal information, obscene,
+illegal or inappropriate material, material protected by other
+people's copyright or trademark rights, or material related to
+commercial activities such as advertising or promotion.
+
+5. Report Any Issues You Notice
+If you notice any activity or content that violates these
+guidelines, please let us know. If you come across inappropriate
+behavior or content, you can report it by pressing .
+Reported users may be subject to punishment, such as
+suspension of their Nintendo Account, in accordance with the
+Terms and Conditions for this service, Community Guidelines,
+and the Nintendo Account User Agreement.
+Your reporting will not be known to others, but please take care
+when reporting, as making false reports may also be considered
+a breach of these Community Guidelines.
+
+---
+label: Guideline_01_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: News_03_Title
+attribute: 0x000000
+---
+Maintenance Implementation Notification
+
+---
+label: News_03_Content
+attribute: 0x000000
+---
+Maintenance will take place during the following time:
+{{0:3 arg="0x0000"}}■ 6 p.m. to 8 p.m. 10/28/2024 (PT){{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0300"}}Note: Maintenance may begin earlier/end later than expected.{{0:3 arg="0xFFFF"}}
+You cannot play the game while maintenance is taking place.
+
+---
+label: News_03_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: News_05_Title
+attribute: 0x000000
+---
+End of Playtest Program Notification
+
+---
+label: News_05_Content
+attribute: 0x000000
+---
+The Playtest Program will end shortly.
+{{0:3 arg="0x0000"}}■Ending time and date: 4:59 p.m. 11/5/2024 (PT){{0:3 arg="0xFFFF"}}
+Note: It may end earlier or later than expected.
+
+You cannot play the game after the Playtest Program ends.
+Thank you for playing!
+
+---
+label: News_05_ButtonAccept
+attribute: 0x000000
+---
+Close
+
+---
+label: Shop_Law_Title
+attribute: 0x000000
+---
+特定商取引法に基づく表示
+
+---
+label: Shop_Law_Content
+attribute: 0x000000
+---
+特定商取引法に基づく表記
+本文
+
+---
+label: Shop_Law_ButtonAccept
+attribute: 0x000000
+---
+OK
+
+---
+label: Sys_FirstStart_OptIn_Title
+attribute: 0x000000
+---
+Precautions When First Connecting Online
+
+---
+label: Sys_FirstStart_OptIn_Content
+attribute: 0x000000
+---
+To ensure a pleasant gaming experience for everyone, please
+refrain from sharing content that includes the following:
+Illegal content, personal information, content that violates
+the rights of others, content that could be unpleasant
+to others, and content such as excessive flashing images.
+Furthermore, please refrain from actions that may be unpleasant
+to others and from cheating. The Nintendo Account User
+Agreement applies to shared content and actions you take in the
+game. If any content or behavior is discovered that violates the
+Nintendo Account User Agreement, server data may be
+deleted, and your connection to online play may be restricted.
+
+When you play, please be considerate to other players and
+follow the Nintendo Account User Agreement. Inappropriate
+content or behavior can be reported by pressing .
+
+When playing online, other players that are playing with you
+will be able to see your name, profile information, play status,
+content that you created, and your gameplay.
+Please be mindful of your interactions and help us maintain a
+pleasant playing environment.
+
+---
+label: Sys_FirstStart_OptIn_ButtonAccept
+attribute: 0x000000
+---
+Understood
+
+---
+label: Sys_FirstStart_OptIn_ButtonCancel
+attribute: 0x000000
+---
+Back

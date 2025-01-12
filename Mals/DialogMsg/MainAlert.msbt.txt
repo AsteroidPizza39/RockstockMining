@@ -1,0 +1,382 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 29
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+%%%
+
+---
+label: Cmn_NoEnergy_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0400"}}{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0100"}}Insufficient energy!{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Recover energy by liquidating some cards.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_PieceLocked_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}} Locked{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Cannot grab without turning off lock.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_PieceOverSizePlayer_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Size exceeded{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Can carry only up to 10x10x10.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_PieceOverSizeMech_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}Size exceeded{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Can carry only up to 20x20x20.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_PieceNoStable_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0100"}}The platform is about to fall apart!{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}You can stabilize it with a pillar.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_RopeLengthMax_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0100"}}Your tail is about to come off!{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You cannot stretch it any further.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_BagIsFull_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0100"}}Your Card Storage is full!{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}You cannot pick up any more.{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_PlanetEdgeMove_OK_Name
+attribute: 0x000000
+---
+Hold down {{0:2 arg="0x5000"}}{{0:2 arg="0x6400"}}: Go to next Planetary Block
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}You can move while holding a Piece.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Cmn_PlanetEdgeMove_NG_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}It seems you can't move right now
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}You can move once your current Planetary Block is developed.{{0:2 arg="0x6400"}}{{0:3 arg="0x0200"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_NotOriginator_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0100"}}Can only be done by the Creator{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_NotArranger_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0100"}}Cannot be done by the Creator{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_PieceLocked_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}} Locked{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_NoStrScore_Name
+attribute: 0x000000
+---
+Insufficient {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Dev Points
+
+---
+label: Error_NoStrLeve_Name
+attribute: 0x000000
+---
+Insufficient {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level
+
+---
+label: Error_NoStrLevel_1_Name
+attribute: 0x000000
+---
+Insufficient {{0:3 arg="0x0500"}}{{0:3 arg="0xFFFF"}} Development Level
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Come back after you've reached Lv. 1.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_NoCltScore_Name
+attribute: 0x000000
+---
+Insufficient {{0:3 arg="0x0600"}} {{0:3 arg="0xFFFF"}}Connex Points
+
+---
+label: Error_NoCltLevel_Name
+attribute: 0x000000
+---
+Insufficient {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level
+
+---
+label: Error_NoCltLevel_1_Name
+attribute: 0x000000
+---
+Insufficient {{0:3 arg="0x0600"}}{{0:3 arg="0xFFFF"}} Connection Level
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Come back after you reach Lv. 1.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_NoSetHeight_Name
+attribute: 0x000000
+---
+Insufficient installation altitude
+
+---
+label: Error_NoAntennaHeight_Name
+attribute: 0x000000
+---
+Insufficient Beacon height
+
+---
+label: Error_NoRide_Name
+attribute: 0x000000
+---
+Cannot be done in current state
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Dismount from Machine / Remove Artisan Outfit.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Error_NoCarry_Name
+attribute: 0x000000
+---
+Cannot do this while holding a Piece
+
+---
+label: Error_NoCarryIn_Name
+attribute: 0x000000
+---
+Prohibited from bringing a Piece in
+
+---
+label: Error_NoCarryOut_Name
+attribute: 0x000000
+---
+Prohibited from bringing a Piece out
+
+---
+label: Error_NoDeco_Name
+attribute: 0x000000
+---
+Please wear a Deco
+
+---
+label: Error_NoUseHere_Name
+attribute: 0x000000
+---
+Cannot be used here
+
+---
+label: Error_NeedEnergy_10_Name
+attribute: 0x000000
+---
+Consumes {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}10
+
+---
+label: Error_NeedEnergy_100_Name
+attribute: 0x000000
+---
+Consumes {{0:3 arg="0x0400"}} {{0:3 arg="0xFFFF"}}100
+
+---
+label: Error_NeedUgcLicence_Name
+attribute: 0x000000
+---
+You need a  UGC License
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Pass the test and get one at the shop.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Report_Name
+attribute: 0x000000
+---
+ Report the Piece or structure you're on
+
+---
+label: Report_Aim_Name
+attribute: 0x000000
+---
+ Report what your sight is aimed at
+
+---
+label: Planet_SectComplete_OK_Name
+attribute: 0x000000
+---
+Development has already finished
+
+---
+label: Planet_SectComplete_NG_Name
+attribute: 0x000000
+---
+Development has not yet finished
+
+---
+label: Planet_SectComplete_Deck_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Ascend {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}Fly {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Shoot {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Center_Profile_Name
+attribute: 0x000000
+---
+Photograph 
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}Update the{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}DPS's profile image.{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Beginner_01_Name
+attribute: 0x000000
+---
+Equip the Control Guide Card {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}Choose any unlocked button you like.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Beginner_02_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Aim {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}Grab {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Fuse {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Jump
+
+---
+label: Beginner_03_Name
+attribute: 0x000000
+---
+Dash with your tail {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}}{{0:2 arg="0x6400"}}
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} {{0:2 arg="0x5000"}}{{0:2 arg="0x6400"}}Fuse downward {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Hold down to jump longer
+
+---
+label: Beginner_04_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0300"}}+{{0:3 arg="0xFFFF"}} {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Climb walls
+
+---
+label: Beginner_05_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Pull to pick up
+
+---
+label: Beginner_06_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Surround Pieces and pick them up all at once
+
+---
+label: Beginner_07_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Aim {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}Place Piece {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0x0300"}} Rotate held Piece{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Beginner_08_Name
+attribute: 0x000000
+---
+Look around, inspect {{0:3 arg="0x0000"}} {{0:3 arg="0xFFFF"}}{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}Grab with tail {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Beginner_09_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Pull to pick up {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}/ {{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Dash with your tail
+
+---
+label: Beginner_10_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Surround Pieces and pick them up all at once
+{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}} Dash with your tail
+
+---
+label: Beginner_11_Name
+attribute: 0x000000
+---
+Throw Piece {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+{{0:3 arg="0x0300"}}{{0:2 arg="0x5000"}}{{0:3 arg="0x0000"}}{{0:3 arg="0x0300"}} Rotate held Piece{{0:2 arg="0x6400"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Beginner_12_Name
+attribute: 0x000000
+---
+Release to jump {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Beginner_13_Name
+attribute: 0x000000
+---
+Dash with your tail again {{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+
+---
+label: Beginner_14_Name
+attribute: 0x000000
+---
+Press the card's assigned button to use it
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}Cards have varying effects. This one strikes a Pose.{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: Mech_NoWall_Name
+attribute: 0x000000
+---
+Cannot ascend without a wall
+
+---
+label: LicenceExam_01_Name
+attribute: 0x000000
+---
+：{{0:3 arg="0x0100"}}{{0:3 arg="0xFFFF"}} / {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}：{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}  
+Number of correct answers: {{101:2 arg="0x0001010000CD1E005300650071005F0050006C006100790065007200530063006F0072006500"}}
+
+---
+label: LicenceExam_02_Name
+attribute: 0x000000
+---
+  {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}：{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}} / ：{{0:3 arg="0x0000"}}{{0:3 arg="0xFFFF"}}
+Number of correct answers: {{101:2 arg="0x0001010000CD1E005300650071005F0050006C006100790065007200530063006F0072006500"}}
+
+---
+label: LicenceExam_03_Name
+attribute: 0x000000
+---
+  {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}：{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}} / {{0:2 arg="0x5000"}}{{0:3 arg="0x0300"}}：{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}  
+Number of correct answers: {{101:2 arg="0x0001010000CD1E005300650071005F0050006C006100790065007200530063006F0072006500"}}
+
+---
+label: LicenceExam_NoUpdateUgc_Name
+attribute: 0x000000
+---
+You haven't finished registering.
+Go back and register your license.
+
+---
+label: PvP_Score_01_Name
+attribute: 0x000000
+---
+[{{0:3 arg="0x0E00"}}{{0:3 arg="0xFFFF"}} Points: {{101:2 arg="0x0001010000CD1E005300650071005F0050006C006100790065007200530063006F0072006500"}}]
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0E00"}}{{0:3 arg="0xFFFF"}} [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003100"}} Player{{201:6 arg="0x0000020073000000"}}]  [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003200"}} Player{{201:6 arg="0x0000020073000000"}}] {{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: PvP_Score_02_Name
+attribute: 0x000000
+---
+[{{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}} Points: {{101:2 arg="0x0001010000CD1E005300650071005F0050006C006100790065007200530063006F0072006500"}}]
+{{0:2 arg="0x5000"}}{{0:3 arg="0x0E00"}}{{0:3 arg="0xFFFF"}} [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003100"}} Player{{201:6 arg="0x0000020073000000"}}]  [{{101:2 arg="0x0001010001CD24005300650071005F00530065006300740069006F006E0041007400740072005F0030003200"}} Player{{201:6 arg="0x0000020073000000"}}] {{0:3 arg="0x0900"}}{{0:3 arg="0xFFFF"}}{{0:2 arg="0x6400"}}
+
+---
+label: PvP_ScoreMax_Name
+attribute: 0x000000
+---
+{{0:3 arg="0x0200"}}10 points is the maximum!{{0:3 arg="0xFFFF"}}
+{{0:2 arg="0x5000"}}Return to have your points counted.{{0:2 arg="0x6400"}}
